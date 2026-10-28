@@ -46,7 +46,7 @@ export default function Header({ areas = [] }) {
       <div className="topline">
         <div className="wrap">
           <span className="topline__hours">Licensed, bonded and insured, {B.roc}. Office open Monday to Friday, 7 am to 5 pm.</span>
-          <span>Call the office <a href={TEL}>{B.phone}</a></span>
+          <span className="topline__contact">Call <a href={TEL}>{B.phone}</a><a href={`mailto:${B.email}`}>{B.email}</a></span>
         </div>
       </div>
       <header className={`header${open ? ' is-open' : ''}`} ref={ref}>

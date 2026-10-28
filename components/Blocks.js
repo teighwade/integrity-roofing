@@ -51,6 +51,7 @@ export function CallPanel() {
       <a className="callpanel__phone" href={TEL}><Icon name="phone" size={30} /> {B.phone}</a>
       <p className="callpanel__hours">{HOURS}. Closed Saturday and Sunday.</p>
       <p className="callpanel__vm"><Icon name="clock" size={20} /> {VOICEMAIL}</p>
+      <p className="callpanel__email"><Icon name="mail" size={20} /> Prefer email? Write to <a href={`mailto:${B.email}`}>{B.email}</a></p>
       <h3>Have this ready when you call</h3>
       <ul className="checks">
         {['The property address', 'Your roof type, if you know it (tile, shingle, foam, flat)', "What you're seeing: a leak, broken tiles, storm damage, or just an older roof", 'Whether an HOA needs to approve roof work', 'The best time to reach you'].map((t) => (

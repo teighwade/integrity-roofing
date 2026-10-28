@@ -53,8 +53,8 @@ if exists(f'{D}/newsletters.json'):
 
 # ---- Rule scan over everything a visitor can read ----
 BAD = [r'free (roof )?(estimate|inspection|quote|consultation)', r'inspect(s|ion)? for free', r'no[- ]cost', r'complimentary',
-       r'metal roof', r'metal roofing', r'\bmetal\b(?! flashing)', r'e-?mail', r'24/7', r'after[- ]hours', r'\bforms?\b', r'fill out', r'submit',
-       r'office\.integrityroofing', r'480-384', r'Pecos', r'Chandler, AZ 85224']
+       r'metal roof', r'metal roofing', r'\bmetal\b(?! flashing)', r'24/7', r'after[- ]hours', r'\bforms?\b', r'fill out', r'submit',
+       r'480-384', r'Pecos', r'Chandler, AZ 85224']
 hits = 0
 for f in ['content/site.json', 'content/areas.json', 'content/faq.json', 'content/resources.json', 'content/newsletters.json']:
     text = open(f).read()

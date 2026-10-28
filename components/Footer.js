@@ -17,9 +17,10 @@ export default function Footer({ areas = [] }) {
             </div>
           </div>
           <div>
-            <h2>Call us</h2>
+            <h2>Contact us</h2>
             <ul>
               <li><a href={TEL}><strong>{B.phone}</strong></a></li>
+              <li><a href={`mailto:${B.email}`}>{B.email}</a></li>
               <li>{HOURS}</li>
               <li>Closed Saturday and Sunday</li>
               <li>{VOICEMAIL}</li>

@@ -543,3 +543,8 @@ html[data-holiday] .hero__kicker::before { background: var(--holiday); }
   .mega--areas { left: var(--gutter); right: var(--gutter); transform: none; width: auto; max-width: none; grid-template-columns: repeat(4, 1fr); grid-auto-flow: row; gap: 28px; }
   .mega--areas ul { min-width: 0; }
 }
+.topline__contact { display: inline-flex; gap: 18px; align-items: center; }
+.topline__contact a + a { color: rgba(255, 255, 255, .85); font-weight: 500; }
+@media (max-width: 560px) { .topline__contact { flex-direction: column; gap: 2px; text-align: center; } }
+.callpanel__email { display: flex; gap: 10px; align-items: flex-start; margin: -12px 0 26px; font-weight: 600; }
+.callpanel__email svg { color: var(--saguaro-2); flex: none; margin-top: 3px; }

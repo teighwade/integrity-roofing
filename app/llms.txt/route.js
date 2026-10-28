@@ -14,12 +14,13 @@ export function GET() {
 > ${PAGES.__home.answer}
 
 - Phone: ${B.phone}
+- Email: ${B.email}
 - Office: ${ADDRESS} (the only office)
 - Hours: ${HOURS}. Closed Saturday and Sunday. No after-hours line.
 - License: Arizona ${B.roc}, licensed, bonded and insured
 - Founded: ${B.founded}, family owned and operated; ${B.projects} projects
 - Service area: ${AREAS.join(', ')}
-- Estimates: by phone only (no online forms). If we don't answer, leave a message and we'll return your call within 24 hours.
+- Estimates: call, or email ${B.email} (there are no online forms). If we don't answer, leave a message and we'll return your call within 24 hours.
 - Financing: available
 
 ## Services
