@@ -1,0 +1,16 @@
+name: IndexNow
+# After each update, tell Bing (which ChatGPT search uses) which pages changed. Does nothing until the domain points to Vercel.
+on:
+  push:
+    branches: [main]
+    paths: ['content/**', 'app/**', 'lib/**']
+  workflow_dispatch:
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: sleep 240
+      - run: node scripts/indexnow.mjs || true

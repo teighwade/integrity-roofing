@@ -1,0 +1,2418 @@
+{
+    "business": {
+        "name": "Integrity Roofing",
+        "legal_name": "Integrity Roofing",
+        "tagline": "Family-owned Arizona roofing contractor since 1993",
+        "phone": "602-548-3770",
+        "email": "office.integrityroofing@gmail.com",
+        "street": "16308 E Fairview St",
+        "city": "Gilbert",
+        "region": "AZ",
+        "postal": "85295",
+        "country": "US",
+        "hours_label": "Monday – Friday, 7:00 am – 5:00 pm",
+        "hours_short": "Mon–Fri 7am–5pm",
+        "opens": "07:00",
+        "closes": "17:00",
+        "founded": "1993",
+        "roc": "ROC #096629",
+        "projects": "2,500+",
+        "facebook": "https://www.facebook.com/IntegrityRoofingExperts/",
+        "instagram": "https://www.instagram.com/integrityroofinginc_/",
+        "linkedin": "https://www.linkedin.com/company/integrityroofingaz/",
+        "google_review": "https://g.page/r/CbCtIIcNjMC3EB0/review",
+        "facebook_reviews": "https://www.facebook.com/integrityroofingaz/reviews",
+        "yelp": "https://www.yelp.com/biz/integrity-roofing-gilbert-5"
+    },
+    "areas": [
+        "Gilbert",
+        "Mesa",
+        "Chandler",
+        "Queen Creek",
+        "San Tan Valley",
+        "Tempe",
+        "Phoenix",
+        "Scottsdale",
+        "Apache Junction",
+        "Ahwatukee",
+        "Glendale",
+        "Peoria"
+    ],
+    "nav": [
+        {
+            "label": "Services",
+            "groups": [
+                {
+                    "title": "Services",
+                    "all": [
+                        "All services",
+                        "/roofing-services/"
+                    ],
+                    "links": [
+                        {
+                            "label": "Repairs & Maintenance",
+                            "url": "/repairs-and-maintenance/"
+                        },
+                        {
+                            "label": "Roof Replacement",
+                            "url": "/roof-replacement-services/"
+                        },
+                        {
+                            "label": "Inspections",
+                            "url": "/roof-inspections/"
+                        },
+                        {
+                            "label": "Storm Damage",
+                            "url": "/damaged-roof/"
+                        },
+                        {
+                            "label": "Residential",
+                            "url": "/residential-roofing-services/"
+                        },
+                        {
+                            "label": "Our Roofers",
+                            "url": "/residential-roofers/"
+                        },
+                        {
+                            "label": "Commercial",
+                            "url": "/commercial-roofing-services/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Roof Types",
+                    "all": [
+                        "Compare roof types",
+                        "/roof-types/"
+                    ],
+                    "links": [
+                        {
+                            "label": "Tile",
+                            "url": "/tile-roofs/"
+                        },
+                        {
+                            "label": "Shingle",
+                            "url": "/asphalt-shingles/"
+                        },
+                        {
+                            "label": "Foam",
+                            "url": "/foam-roofing/"
+                        },
+                        {
+                            "label": "Coatings",
+                            "url": "/elastomeric-roofing-coating/"
+                        },
+                        {
+                            "label": "Flat",
+                            "url": "/flat-roofing/"
+                        },
+                        {
+                            "label": "Metal",
+                            "url": "/metal-roofing/"
+                        },
+                        {
+                            "label": "Sloped",
+                            "url": "/sloped-roofs/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Company",
+            "groups": [
+                {
+                    "title": "About",
+                    "links": [
+                        {
+                            "label": "About Us",
+                            "url": "/about-us/"
+                        },
+                        {
+                            "label": "Who We Are",
+                            "url": "/who-we-are/"
+                        },
+                        {
+                            "label": "Reviews",
+                            "url": "/reviews/"
+                        },
+                        {
+                            "label": "Location",
+                            "url": "/location/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Our Work",
+                    "links": [
+                        {
+                            "label": "Gallery",
+                            "url": "/gallery/"
+                        },
+                        {
+                            "label": "Videos",
+                            "url": "/media/"
+                        },
+                        {
+                            "label": "Blog",
+                            "url": "/blog-slug/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Contact",
+            "url": "/contact-us/"
+        }
+    ],
+    "demoSlugs": [
+        "the-fascinating-history-of-the-first-coffee-shop",
+        "diy-how-to-unclog-a-toilet",
+        "services-quick-links"
+    ],
+    "demoCats": [
+        "diy",
+        "unclog-toilet",
+        "uncategorized"
+    ],
+    "pageLikePosts": [
+        "blog-slug",
+        "metal-roofing",
+        "flat-roofing",
+        "foam-roofing",
+        "integrity-roofing"
+    ],
+    "images": {
+        "logo": {
+            "url": "/wp-content/uploads/2023/12/cropped-logo_clipped_rev_1-2-e1702935055461.png",
+            "alt": "Integrity Roofing logo",
+            "fit": "cover"
+        },
+        "trailers": {
+            "url": "/wp-content/uploads/2023/12/integrity-trailers_clipped_rev_1.png",
+            "alt": "Integrity Roofing work trailers",
+            "fit": "contain"
+        },
+        "hero_home": {
+            "url": "/wp-content/uploads/2023/12/roof-work.jpeg",
+            "alt": "Integrity Roofing crew working on an Arizona roof",
+            "fit": "cover"
+        },
+        "home_why": {
+            "url": "/wp-content/uploads/2023/12/158452097_257767729175705_6119281135834794873_n.jpg",
+            "alt": "Integrity Roofing crew on a residential roofing project",
+            "fit": "cover"
+        },
+        "home_storm": {
+            "url": "/wp-content/uploads/2023/12/emergency-repairs.jpg",
+            "alt": "Roof repair after storm damage in the Phoenix Valley",
+            "fit": "cover"
+        },
+        "svc_hub": {
+            "url": "/wp-content/uploads/2023/12/Repairs-And-Maintenance.jpg",
+            "alt": "Roofer repairing and maintaining a roof",
+            "fit": "cover"
+        },
+        "svc_hub_2": {
+            "url": "/wp-content/uploads/2023/12/roof-repair-or-replacement.jpg",
+            "alt": "Deciding between roof repair and roof replacement",
+            "fit": "cover"
+        },
+        "repairs": {
+            "url": "/wp-content/uploads/2023/12/roof-repair-image-3.jpg",
+            "alt": "Roof repair in progress in Gilbert, AZ",
+            "fit": "cover"
+        },
+        "repairs_2": {
+            "url": "/wp-content/uploads/2023/12/roof-repair-4.jpg",
+            "alt": "Roofer replacing damaged roofing material",
+            "fit": "cover"
+        },
+        "repairs_3": {
+            "url": "/wp-content/uploads/2023/12/158525914_257767659175712_3610736134047258251_n.jpg",
+            "alt": "Integrity Roofing maintenance work on a tile roof",
+            "fit": "cover"
+        },
+        "replacement": {
+            "url": "/wp-content/uploads/2023/12/roof-replacement-image-2.jpg",
+            "alt": "Roof replacement project in the Phoenix Valley",
+            "fit": "cover"
+        },
+        "replacement_2": {
+            "url": "/wp-content/uploads/2023/12/roof-replacement-image-3.jpg",
+            "alt": "Re-roofing a home with new underlayment",
+            "fit": "cover"
+        },
+        "replacement_3": {
+            "url": "/wp-content/uploads/2023/12/roof-replacement-image-1.jpg",
+            "alt": "Worn roof ready for replacement",
+            "fit": "cover"
+        },
+        "inspections": {
+            "url": "/wp-content/uploads/2023/12/roof-inspection-1.jpg",
+            "alt": "Roofer performing a roof inspection",
+            "fit": "cover"
+        },
+        "inspections_2": {
+            "url": "/wp-content/uploads/2023/12/roof-inspection-2.jpg",
+            "alt": "Close-up roof inspection for hidden damage",
+            "fit": "cover"
+        },
+        "damaged": {
+            "url": "/wp-content/uploads/2023/12/dr.jpg",
+            "alt": "Damaged roof needing repair",
+            "fit": "cover"
+        },
+        "damaged_2": {
+            "url": "/wp-content/uploads/2023/12/emergency-repairs.jpg",
+            "alt": "Storm-damaged roof repair",
+            "fit": "cover"
+        },
+        "damaged_3": {
+            "url": "/wp-content/uploads/2023/12/155016704_252832183002593_988226002827691913_n.jpg",
+            "alt": "Integrity Roofing repairing a damaged roof",
+            "fit": "cover"
+        },
+        "residential": {
+            "url": "/wp-content/uploads/2023/12/158458431_257767569175721_5578511724783945135_n.jpg",
+            "alt": "Residential roofing project by Integrity Roofing",
+            "fit": "cover"
+        },
+        "residential_2": {
+            "url": "/wp-content/uploads/2023/12/158317443_257767629175715_2224325122818992959_n.jpg",
+            "alt": "Home roof work in the East Valley",
+            "fit": "cover"
+        },
+        "residential_3": {
+            "url": "/wp-content/uploads/2023/12/157787252_257767805842364_542354310917479260_n.jpg",
+            "alt": "Finished residential roof",
+            "fit": "cover"
+        },
+        "residential_roofers": {
+            "url": "/wp-content/uploads/2023/12/148815836_243126773973134_609410775724224668_n.jpg",
+            "alt": "Integrity Roofing residential roofers on the job",
+            "fit": "cover"
+        },
+        "residential_roofers_2": {
+            "url": "/wp-content/uploads/2023/12/149108643_243126697306475_8528806939009317253_n.jpg",
+            "alt": "Residential roofers installing roofing materials",
+            "fit": "cover"
+        },
+        "commercial": {
+            "url": "/wp-content/uploads/2023/12/commercial-roofing-2.jpeg",
+            "alt": "Commercial flat roof in the Phoenix area",
+            "fit": "cover"
+        },
+        "commercial_2": {
+            "url": "/wp-content/uploads/2023/12/commercial-roofing-1.jpeg",
+            "alt": "Commercial roofing work on a low-slope roof",
+            "fit": "cover"
+        },
+        "commercial_3": {
+            "url": "/wp-content/uploads/2023/12/commercial-roofing-3.jpeg",
+            "alt": "Commercial building roof maintenance",
+            "fit": "cover"
+        },
+        "roof_types": {
+            "url": "/wp-content/uploads/2023/12/157664011_257767539175724_6394513862877478662_n.jpg",
+            "alt": "Arizona home roof by Integrity Roofing",
+            "fit": "cover"
+        },
+        "roof_types_2": {
+            "url": "/wp-content/uploads/2023/12/156928717_257202489232229_6351599575494578378_n.jpg",
+            "alt": "Choosing the right roof type for an Arizona home",
+            "fit": "cover"
+        },
+        "tile": {
+            "url": "/wp-content/uploads/2023/12/149261822_243126753973136_3787968046723776010_n.jpg",
+            "alt": "Tile roof project by Integrity Roofing",
+            "fit": "cover"
+        },
+        "tile_card": {
+            "url": "/wp-content/uploads/2023/12/Roof-type-tile.jpg",
+            "alt": "Concrete tile roof",
+            "fit": "cover"
+        },
+        "tile_2": {
+            "url": "/wp-content/uploads/2023/12/148626001_243126733973138_2912943859016256035_n.jpg",
+            "alt": "Tile roof underlayment replacement",
+            "fit": "cover"
+        },
+        "tile_3": {
+            "url": "/wp-content/uploads/2023/12/148631550_243126637306481_2589139713761605080_n.jpg",
+            "alt": "Tile roof repair in progress",
+            "fit": "cover"
+        },
+        "shingle": {
+            "url": "/wp-content/uploads/2023/12/157687607_257767599175718_6348202432380464460_n.jpg",
+            "alt": "Asphalt shingle roof project",
+            "fit": "cover"
+        },
+        "shingle_card": {
+            "url": "/wp-content/uploads/2023/12/roof-type-asphalt.jpg",
+            "alt": "Asphalt shingle roof",
+            "fit": "cover"
+        },
+        "shingle_2": {
+            "url": "/wp-content/uploads/2023/12/shingles.jpg",
+            "alt": "Asphalt shingles close-up",
+            "fit": "cover"
+        },
+        "shingle_3": {
+            "url": "/wp-content/uploads/2023/12/154325263_252832136335931_4779011178539676656_n.jpg",
+            "alt": "Shingle roof installation",
+            "fit": "cover"
+        },
+        "foam": {
+            "url": "/wp-content/uploads/2006/12/fr.jpg",
+            "alt": "Spray polyurethane foam roof",
+            "fit": "cover"
+        },
+        "foam_card": {
+            "url": "/wp-content/uploads/2023/12/roof-type-poly-1.jpg",
+            "alt": "Polyurethane foam roofing",
+            "fit": "cover"
+        },
+        "foam_2": {
+            "url": "/wp-content/uploads/2023/12/roof-type-poly-1.jpg",
+            "alt": "Seamless spray foam roof surface",
+            "fit": "cover"
+        },
+        "foam_3": {
+            "url": "/wp-content/uploads/2023/12/154112724_252832176335927_3640078631295461010_n.jpg",
+            "alt": "Foam roof repair and recoating",
+            "fit": "cover"
+        },
+        "elastomeric": {
+            "url": "/wp-content/uploads/2023/12/roof-type-emulsion-1.jpg",
+            "alt": "Elastomeric roof coating on a flat roof",
+            "fit": "cover"
+        },
+        "elastomeric_2": {
+            "url": "/wp-content/uploads/2023/12/roof-type-poly-1.jpg",
+            "alt": "Reflective coating over a foam roof",
+            "fit": "cover"
+        },
+        "flat": {
+            "url": "/wp-content/uploads/2001/12/fr.jpg",
+            "alt": "Flat roof in Arizona",
+            "fit": "cover"
+        },
+        "flat_card": {
+            "url": "/wp-content/uploads/2023/12/roof-type-flat-2.jpg",
+            "alt": "Flat roofing system",
+            "fit": "cover"
+        },
+        "flat_2": {
+            "url": "/wp-content/uploads/2023/12/roof-type-flat-2.jpg",
+            "alt": "Low-slope flat roof",
+            "fit": "cover"
+        },
+        "metal": {
+            "url": "/wp-content/uploads/2018/12/metal-roofing.jpg",
+            "alt": "Metal roofing",
+            "fit": "cover"
+        },
+        "sloped": {
+            "url": "/wp-content/uploads/2023/12/roof-type-sloped-2.jpg",
+            "alt": "Sloped pitched roof",
+            "fit": "cover"
+        },
+        "sloped_2": {
+            "url": "/wp-content/uploads/2023/12/154010295_252832146335930_4435072148276972931_n.jpg",
+            "alt": "Work on a steep sloped roof",
+            "fit": "cover"
+        },
+        "who": {
+            "url": "/wp-content/uploads/2023/12/158452097_257767729175705_6119281135834794873_n.jpg",
+            "alt": "Integrity Roofing team on a roof",
+            "fit": "cover"
+        },
+        "who_2": {
+            "url": "/wp-content/uploads/2023/12/157752279_257767695842375_5663899380639169376_n.jpg",
+            "alt": "Integrity Roofing crew at work",
+            "fit": "cover"
+        },
+        "about": {
+            "url": "/wp-content/uploads/2023/12/179810177_289887445963733_1063429946336919762_n.jpg",
+            "alt": "Integrity Roofing project in the Phoenix Valley",
+            "fit": "cover"
+        },
+        "about_2": {
+            "url": "/wp-content/uploads/2023/12/integrity-trailers_clipped_rev_1.png",
+            "alt": "Integrity Roofing branded work trailers",
+            "fit": "contain"
+        },
+        "about_3": {
+            "url": "/wp-content/uploads/2023/12/169085049_275401307412347_2534772214222665809_n.jpg",
+            "alt": "Licensed Integrity Roofing crew",
+            "fit": "cover"
+        },
+        "reviews": {
+            "url": "/wp-content/uploads/2023/12/122612973_183182153300930_1199033286517808264_n.jpg",
+            "alt": "Completed roof by Integrity Roofing",
+            "fit": "cover"
+        },
+        "location": {
+            "url": "/wp-content/uploads/2023/12/148594704_243126620639816_5526415609034036221_n.jpg",
+            "alt": "Integrity Roofing serving Gilbert and the Phoenix Valley",
+            "fit": "cover"
+        },
+        "gallery_1": {
+            "url": "/wp-content/uploads/2023/12/122570953_183182213300924_3501519804929701966_n.jpg",
+            "alt": "Roof before work by Integrity Roofing — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_2": {
+            "url": "/wp-content/uploads/2023/12/122612973_183182153300930_1199033286517808264_n.jpg",
+            "alt": "Roof after work by Integrity Roofing — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_3": {
+            "url": "/wp-content/uploads/2023/12/158452097_257767729175705_6119281135834794873_n.jpg",
+            "alt": "Roofing crew at work — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_4": {
+            "url": "/wp-content/uploads/2023/12/157752279_257767695842375_5663899380639169376_n.jpg",
+            "alt": "Roofing project in progress — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_5": {
+            "url": "/wp-content/uploads/2023/12/149261871_243126673973144_1987829403058023900_n.jpg",
+            "alt": "Tile roof project — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_6": {
+            "url": "/wp-content/uploads/2023/12/149406237_243126653973146_7503270655403479258_n.jpg",
+            "alt": "Tile roof installation — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_7": {
+            "url": "/wp-content/uploads/2023/12/125180683_188132186139260_2500472564288414705_n.jpg",
+            "alt": "Re-roof project — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_8": {
+            "url": "/wp-content/uploads/2023/12/125182635_188132189472593_5623080248449814001_n.jpg",
+            "alt": "Finished re-roof — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_9": {
+            "url": "/wp-content/uploads/2023/12/179810177_289887445963733_1063429946336919762_n.jpg",
+            "alt": "Completed roofing project — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_10": {
+            "url": "/wp-content/uploads/2023/12/169085049_275401307412347_2534772214222665809_n.jpg",
+            "alt": "Roofing work in the East Valley — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_11": {
+            "url": "/wp-content/uploads/2023/12/158525914_257767659175712_3610736134047258251_n.jpg",
+            "alt": "Roof maintenance work — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_12": {
+            "url": "/wp-content/uploads/2023/12/158458431_257767569175721_5578511724783945135_n.jpg",
+            "alt": "Residential roof project — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_13": {
+            "url": "/wp-content/uploads/2023/12/158325588_257767762509035_5813982946038122331_n.jpg",
+            "alt": "Roofing materials staged on a roof — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_14": {
+            "url": "/wp-content/uploads/2023/12/158317443_257767629175715_2224325122818992959_n.jpg",
+            "alt": "Home roofing project — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_15": {
+            "url": "/wp-content/uploads/2023/12/157787252_257767805842364_542354310917479260_n.jpg",
+            "alt": "Completed home roof — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_16": {
+            "url": "/wp-content/uploads/2023/12/157687607_257767599175718_6348202432380464460_n.jpg",
+            "alt": "Shingle roof project — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_17": {
+            "url": "/wp-content/uploads/2023/12/157664011_257767539175724_6394513862877478662_n.jpg",
+            "alt": "Arizona home roof — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_18": {
+            "url": "/wp-content/uploads/2023/12/157612196_257767479175730_1452043680507551718_n.jpg",
+            "alt": "Roofing crew on a residential job — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_19": {
+            "url": "/wp-content/uploads/2023/12/156928717_257202489232229_6351599575494578378_n.jpg",
+            "alt": "Roof project detail — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_20": {
+            "url": "/wp-content/uploads/2023/12/155016704_252832183002593_988226002827691913_n.jpg",
+            "alt": "Roof repair work — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_21": {
+            "url": "/wp-content/uploads/2023/12/154325263_252832136335931_4779011178539676656_n.jpg",
+            "alt": "Roof installation — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_22": {
+            "url": "/wp-content/uploads/2023/12/154112724_252832176335927_3640078631295461010_n.jpg",
+            "alt": "Roof surface repair — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_23": {
+            "url": "/wp-content/uploads/2023/12/154010295_252832146335930_4435072148276972931_n.jpg",
+            "alt": "Steep roof work — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_24": {
+            "url": "/wp-content/uploads/2023/12/149261822_243126753973136_3787968046723776010_n.jpg",
+            "alt": "Tile roof — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_25": {
+            "url": "/wp-content/uploads/2023/12/149108643_243126697306475_8528806939009317253_n.jpg",
+            "alt": "Roofers installing materials — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_26": {
+            "url": "/wp-content/uploads/2023/12/148815836_243126773973134_609410775724224668_n.jpg",
+            "alt": "Roofers on the job — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_27": {
+            "url": "/wp-content/uploads/2023/12/148631550_243126637306481_2589139713761605080_n.jpg",
+            "alt": "Tile roof repair — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_28": {
+            "url": "/wp-content/uploads/2023/12/148626001_243126733973138_2912943859016256035_n.jpg",
+            "alt": "Underlayment work — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_29": {
+            "url": "/wp-content/uploads/2023/12/148594704_243126620639816_5526415609034036221_n.jpg",
+            "alt": "Roof project in the Valley — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_30": {
+            "url": "/wp-content/uploads/2023/12/122271167_183182193300926_6089603199261795949_n.jpg",
+            "alt": "Roofing project progress — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        },
+        "gallery_31": {
+            "url": "/wp-content/uploads/2023/12/122251358_183182169967595_3519666986767937726_n.jpg",
+            "alt": "Roofing project progress — Integrity Roofing, Gilbert AZ",
+            "fit": "cover"
+        }
+    },
+    "gallery": [
+        "gallery_1",
+        "gallery_2",
+        "gallery_3",
+        "gallery_4",
+        "gallery_5",
+        "gallery_6",
+        "gallery_7",
+        "gallery_8",
+        "gallery_9",
+        "gallery_10",
+        "gallery_11",
+        "gallery_12",
+        "gallery_13",
+        "gallery_14",
+        "gallery_15",
+        "gallery_16",
+        "gallery_17",
+        "gallery_18",
+        "gallery_19",
+        "gallery_20",
+        "gallery_21",
+        "gallery_22",
+        "gallery_23",
+        "gallery_24",
+        "gallery_25",
+        "gallery_26",
+        "gallery_27",
+        "gallery_28",
+        "gallery_29",
+        "gallery_30",
+        "gallery_31"
+    ],
+    "pages": {
+        "__home": {
+            "title": "Integrity Roofing | Gilbert & Phoenix Roofer Since 1993",
+            "desc": "Family-owned roofing contractor in Gilbert, AZ since 1993. Tile, shingle, foam, flat & metal roof repair, inspections and replacement across the Phoenix Valley. ROC #096629.",
+            "h1": "Phoenix Valley roofing, done right since 1993",
+            "lead": "Integrity Roofing is a family-owned roofing contractor in Gilbert, Arizona. We repair, maintain, inspect and replace tile, shingle, foam, flat and metal roofs for homes and businesses across the Valley.",
+            "answer": "Integrity Roofing is a licensed, bonded and insured roofing contractor (Arizona ROC #096629) based in Gilbert, AZ. Family owned and operated since 1993, we have completed 2,500+ residential and commercial projects — roof repairs, maintenance, inspections, re-roofs and new roofs on every common Arizona roof type.",
+            "page_type": "WebPage",
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "faqs": [
+                [
+                    "What areas does Integrity Roofing serve?",
+                    "We are based in Gilbert and serve the Phoenix Valley, including Gilbert, Mesa, Chandler, Queen Creek, San Tan Valley, Tempe, Phoenix, Scottsdale, Apache Junction, Ahwatukee, Glendale and Peoria. If you're nearby and not sure, call the office at 602-548-3770."
+                ],
+                [
+                    "Is Integrity Roofing licensed and insured?",
+                    "Yes. We are licensed with the Arizona Registrar of Contractors (ROC #096629) and are bonded and insured. You can look up any contractor's license on the ROC website before you hire them."
+                ],
+                [
+                    "What types of roofs do you work on?",
+                    "Concrete and clay tile, asphalt shingles, spray polyurethane foam, flat/low-slope systems, elastomeric roof coatings, metal roofing and steep sloped roofs. Many Arizona homes have more than one type — for example a tile roof with a flat foam section over a patio."
+                ],
+                [
+                    "Do you work on homes and businesses?",
+                    "Both. We handle residential roofing for single-family homes and commercial roofing for offices, retail, industrial buildings and multi-family properties."
+                ],
+                [
+                    "How do I schedule an estimate?",
+                    "Call the office at 602-548-3770 (Monday–Friday, 7 am–5 pm) or use the estimate request form on our website. We'll set a time to inspect your roof and then give you a clear estimate for the recommended work."
+                ],
+                [
+                    "How do I know if my roof needs repair or replacement?",
+                    "It depends on the roof's age, the type of material and how widespread the damage is. A single leak or a few broken tiles is usually a repair. Widespread granule loss, brittle underlayment or repeated leaks in several places often point to replacement. An inspection gives you a clear answer."
+                ],
+                [
+                    "How long does a roof last in Arizona?",
+                    "Roughly: asphalt shingles 15–25 years, foam roofs 20+ years with regular recoating, metal 40+ years, and concrete or clay tile 50+ years — but the underlayment beneath tile usually needs replacing after about 20–25 years. Heat and UV shorten lifespans compared with milder climates."
+                ],
+                [
+                    "When is the best time to have my roof inspected?",
+                    "Spring, before monsoon season starts on June 15, and again after any major storm. Fall is also a good time to check for summer heat damage before winter rains."
+                ],
+                [
+                    "Do you offer financing?",
+                    "Yes, financing options are available. Ask about them when we schedule your estimate."
+                ],
+                [
+                    "What are your office hours?",
+                    "Monday through Friday, 7:00 am to 5:00 pm. We are closed Saturday and Sunday. Call 602-548-3770 or request an estimate online any time and we'll respond during business hours."
+                ],
+                [
+                    "Where is your office?",
+                    "Our office is at 16308 E Fairview St, Gilbert, AZ 85295."
+                ],
+                [
+                    "Can you help after monsoon storm damage?",
+                    "Yes. Call us during business hours and we will inspect the roof, document the damage with photos, and recommend a repair. If water is actively coming in, move belongings away from the leak and contain the water until we can get there."
+                ]
+            ]
+        },
+        "roofing-services": {
+            "title": "Roofing Services in Gilbert & Phoenix, AZ | Integrity Roofing",
+            "desc": "Roof repair, maintenance, inspections, roof replacement, storm damage and commercial roofing across the Phoenix Valley. Family-owned in Gilbert since 1993.",
+            "crumb": "Roofing Services",
+            "eyebrow": "Roofing services",
+            "h1": "Roofing services for Arizona homes and businesses",
+            "lead": "From a single cracked tile to a complete re-roof, one experienced, licensed crew handles the whole job — inspection, estimate, the work and the final walkthrough.",
+            "answer": "Integrity Roofing offers roof repairs and maintenance, roof inspections, full roof replacement and re-roofing, storm and damaged-roof repair, residential roofing and commercial roofing throughout the Phoenix Valley, on tile, shingle, foam, flat, metal and coated roofs.",
+            "hero_img": "svc_hub",
+            "icon": "layers",
+            "card_text": "Every service we offer, in one place.",
+            "page_type": "CollectionPage",
+            "cards": [
+                "repairs-and-maintenance",
+                "roof-replacement-services",
+                "roof-inspections",
+                "damaged-roof",
+                "residential-roofing-services",
+                "residential-roofers",
+                "commercial-roofing-services",
+                "roof-types"
+            ],
+            "cards_eyebrow": "Services",
+            "cards_title": "Choose a service",
+            "sections": [
+                {
+                    "h2": "One local team for every roofing job",
+                    "body": "<p>Integrity Roofing has worked on Valley roofs since 1993. Because we install, repair and maintain every common roof type, we can give you an honest recommendation instead of selling you the one thing we happen to do.</p><p>Every project follows the same simple process: we inspect, explain what we found, give you a clear estimate, schedule the work, and finish with a quality-control check.</p>",
+                    "bullets": [
+                        "Roof repairs and preventive maintenance",
+                        "Roof inspections for homeowners, buyers and sellers",
+                        "Re-roofs, tile underlayment replacement and new roofs",
+                        "Storm, monsoon and leak damage",
+                        "Foam roof recoating and elastomeric coatings",
+                        "Commercial and multi-family roofing"
+                    ],
+                    "img": "svc_hub_2"
+                }
+            ],
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "show_areas": true,
+            "faqs": [
+                [
+                    "What roofing services does Integrity Roofing offer?",
+                    "Roof repair, preventive maintenance, inspections, roof replacement and re-roofing, damaged-roof and storm repair, foam roof recoating, elastomeric coatings, and commercial roofing, for homes and businesses across the Phoenix Valley."
+                ],
+                [
+                    "Do you only do one type of roof?",
+                    "No. We work on tile, asphalt shingle, spray foam, flat/low-slope, metal, sloped and coated roofs, so our recommendation is based on what your building actually needs."
+                ],
+                [
+                    "How do I get started?",
+                    "Call the office at 602-548-3770 (Mon–Fri, 7 am–5 pm) or request an estimate online. We'll schedule a time to look at your roof."
+                ],
+                [
+                    "Do you handle small repairs or only big projects?",
+                    "Both. Small repairs like replacing broken tiles, fixing flashing or sealing a penetration are a big part of what we do, alongside full replacements."
+                ],
+                [
+                    "Are your crews licensed?",
+                    "Integrity Roofing is licensed with the Arizona Registrar of Contractors (ROC #096629) and is bonded and insured."
+                ],
+                [
+                    "Is financing available for larger projects?",
+                    "Yes, financing options are available. Ask about them during your estimate."
+                ]
+            ]
+        },
+        "repairs-and-maintenance": {
+            "title": "Roof Repair & Maintenance in Gilbert, AZ | Integrity Roofing",
+            "desc": "Roof leak repair, broken tile replacement, flashing repair and preventive roof maintenance in Gilbert, Mesa, Chandler & Phoenix. Family-owned since 1993. ROC #096629.",
+            "crumb": "Repairs & Maintenance",
+            "parent": "/roofing-services/",
+            "eyebrow": "Roof repair & maintenance",
+            "h1": "Roof repair and maintenance that adds years to your roof",
+            "lead": "Leaks, cracked tiles, lifted shingles, worn flashing, blistered foam — we find the cause, fix it properly, and help you keep your roof in shape so small problems don't become big ones.",
+            "answer": "Most roof leaks in Arizona come from cracked or slipped tiles, worn underlayment, failed flashing around vents and walls, or aging coatings on flat roofs. Integrity Roofing inspects the roof to find the real source, repairs it, and can set up routine maintenance so your roof lasts as long as possible.",
+            "hero_img": "repairs",
+            "card_text": "Leak repair, broken tiles, flashing and preventive maintenance.",
+            "icon": "wrench",
+            "service": "Roof Repair and Maintenance",
+            "service_type": "Roof repair",
+            "sections": [
+                {
+                    "h2": "Repairs for every roof type",
+                    "body": "<p>A good repair starts with finding where the water is really getting in — that's often not directly above the stain on your ceiling. We trace the problem, show you what we found, and repair it with materials that match your roof.</p>",
+                    "bullets": [
+                        "Leak detection and repair",
+                        "Cracked, broken or slipped tile replacement",
+                        "Shingle replacement after wind damage",
+                        "Flashing repair at walls, chimneys, skylights and vents",
+                        "Valley and ridge repairs",
+                        "Foam roof blister and puncture repair",
+                        "Flat roof seam and drain repairs",
+                        "Roof penetration sealing (solar, satellite, plumbing vents)"
+                    ],
+                    "img": "repairs_2"
+                },
+                {
+                    "h2": "Maintenance works like auto maintenance",
+                    "body": "<p>You change your car's oil so the engine lasts. Roofs are the same. Regular maintenance — clearing debris, replacing a few broken tiles, resealing flashings, recoating foam on schedule — is far less expensive than the water damage it prevents.</p><p>In Arizona, intense UV and heat break down sealants and coatings faster than in milder climates, so routine checks matter even more here.</p>",
+                    "bullets": [
+                        "Debris removal from valleys, gutters and roof drains",
+                        "Replacing broken or displaced tiles and shingles",
+                        "Resealing flashing and roof penetrations",
+                        "Checking and recoating foam and flat roofs",
+                        "Photo report of roof condition"
+                    ],
+                    "img": "repairs_3"
+                }
+            ],
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "cards": [
+                "roof-inspections",
+                "damaged-roof",
+                "roof-replacement-services"
+            ],
+            "faqs": [
+                [
+                    "How do I know if my roof is leaking?",
+                    "Look for water stains on ceilings or walls, peeling paint near the ceiling line, damp insulation in the attic, daylight through roof boards, or a musty smell. Outside, look for broken or slipped tiles, missing shingles, or bubbling on a foam roof."
+                ],
+                [
+                    "Can you repair a tile roof without replacing it?",
+                    "Usually, yes. Broken tiles can be replaced individually, and isolated underlayment problems can be repaired by lifting the tiles in that area. If the underlayment is failing across the whole roof, an underlayment replacement (tile re-felt) may be the better long-term fix."
+                ],
+                [
+                    "What causes most roof leaks in Arizona?",
+                    "Aged underlayment beneath tile, cracked or displaced tiles, worn flashing at walls and penetrations, clogged valleys and drains, and weathered coatings on flat and foam roofs. Monsoon winds and heavy rain expose these weak spots."
+                ],
+                [
+                    "How often should I have roof maintenance done?",
+                    "For most homes, once a year plus after major storms. Foam and coated flat roofs also need recoating on a schedule — typically every several years depending on the coating thickness and exposure."
+                ],
+                [
+                    "Is it worth repairing an old roof?",
+                    "If the problem is isolated and the rest of the roof is in good shape, a repair is usually the smart choice. If you are repairing the same roof again and again, replacement can cost less over time. We'll give you an honest recommendation."
+                ],
+                [
+                    "What should I do if my roof is leaking right now?",
+                    "Move furniture and valuables away from the leak, put a bucket under drips, and if the ceiling is bulging with water, carefully poke a small hole to let it drain into a bucket. Then call us at 602-548-3770 during business hours (Mon–Fri, 7 am–5 pm)."
+                ],
+                [
+                    "Do you repair roofs you didn't install?",
+                    "Yes. We repair roofs regardless of who installed them."
+                ]
+            ]
+        },
+        "roof-replacement-services": {
+            "title": "Roof Replacement & Re-Roofing, Gilbert AZ | Integrity Roofing",
+            "desc": "Tile, shingle, foam and flat roof replacement and re-roofing in Gilbert, Mesa, Chandler, Phoenix & the East Valley. Family-owned since 1993. Request an estimate.",
+            "crumb": "Roof Replacement",
+            "parent": "/roofing-services/",
+            "eyebrow": "Roof replacement",
+            "h1": "Roof replacement built for the Arizona sun",
+            "lead": "When repairs no longer make sense, we replace your roof with the right system for your home or building — from tile underlayment replacement to a full tear-off and new roof.",
+            "answer": "You likely need a roof replacement if your roof is near the end of its expected life, leaks in several places, has widespread cracked tiles or granule loss, or the underlayment beneath tile has become brittle. In Arizona, tile roofs are often \"re-felted\" — the tiles are lifted, new underlayment is installed, and the tiles are reinstalled.",
+            "hero_img": "replacement",
+            "card_text": "Re-roofs, tile underlayment replacement and new roofs.",
+            "icon": "roof",
+            "service": "Roof Replacement",
+            "service_type": "Roof replacement",
+            "sections": [
+                {
+                    "h2": "Re-roofing vs. full roof replacement",
+                    "body": "<p>\"Re-roofing\" can mean different things. On a tile roof, it often means removing the tiles, replacing the worn underlayment, and reinstalling the existing tiles (replacing any broken ones). On shingle roofs, it typically means a complete tear-off down to the deck and new shingles. A full replacement may also include new decking, flashing and ventilation.</p><p>We'll explain which option fits your roof, what's included, and why.</p>",
+                    "img": "replacement_2"
+                },
+                {
+                    "h2": "Signs it's time to replace your roof",
+                    "body": "<p>Age alone doesn't decide it, but these signs mean it's time for a serious look:</p>",
+                    "bullets": [
+                        "Leaks in more than one area, or the same leak returning",
+                        "Brittle, torn or exposed underlayment beneath tile",
+                        "Curling, cracked or bald shingles and heavy granule loss",
+                        "Sagging roof lines or soft spots in the deck",
+                        "Foam roof worn through the coating to bare foam",
+                        "The roof is near or past its expected lifespan"
+                    ],
+                    "img": "replacement_3"
+                }
+            ],
+            "table": {
+                "title": "Typical roof lifespans in Arizona",
+                "note": "General ranges — actual life depends on installation, ventilation, maintenance and exposure.",
+                "head": [
+                    "Roof type",
+                    "Typical lifespan",
+                    "What usually wears out first"
+                ],
+                "rows": [
+                    [
+                        "Concrete / clay tile",
+                        "50+ years (tiles)",
+                        "Underlayment, often after ~20–25 years"
+                    ],
+                    [
+                        "Asphalt shingles",
+                        "15–25 years",
+                        "Granules and sealant from heat and UV"
+                    ],
+                    [
+                        "Spray foam (SPF)",
+                        "20+ years with recoating",
+                        "Top coating — needs periodic recoat"
+                    ],
+                    [
+                        "Metal",
+                        "40+ years",
+                        "Fasteners, sealants and flashing"
+                    ],
+                    [
+                        "Flat / modified bitumen",
+                        "10–20 years",
+                        "Seams, flashing and drainage areas"
+                    ]
+                ]
+            },
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear, written estimate."
+                ],
+                [
+                    "Plan & schedule",
+                    "We confirm materials and colors, handle scheduling, and set a start date."
+                ],
+                [
+                    "Tear-off & install",
+                    "Old materials come off, the deck is checked, and the new roof system goes on."
+                ],
+                [
+                    "Clean-up & final check",
+                    "We clean the site and complete a quality-control walkthrough with you."
+                ]
+            ],
+            "cards": [
+                "tile-roofs",
+                "asphalt-shingles",
+                "foam-roofing"
+            ],
+            "cards_title": "Choose your new roof",
+            "faqs": [
+                [
+                    "How long does a roof replacement take?",
+                    "Most residential roof replacements take a few days once work begins, depending on size, roof type, weather and whether decking needs repair. We'll give you a timeline with your estimate."
+                ],
+                [
+                    "What is a tile re-felt or underlayment replacement?",
+                    "On a tile roof, the tiles themselves can last 50 years or more, but the underlayment beneath them wears out sooner. A re-felt removes the tiles, installs new underlayment, and reinstalls the tiles, replacing any that are broken."
+                ],
+                [
+                    "Can a new roof be installed over my old one?",
+                    "Sometimes on shingle roofs, but we generally recommend a full tear-off so the deck can be inspected and the new roof performs as designed. Tile roofs should not be layered."
+                ],
+                [
+                    "Do I need a permit to replace my roof?",
+                    "Most Valley cities require a permit for re-roofing. Requirements vary by city, and we'll let you know what applies to your property."
+                ],
+                [
+                    "Will I need to leave my home during the replacement?",
+                    "Usually not. It will be noisy during the workday, and we recommend moving cars out of the driveway and keeping pets inside or away from the work area."
+                ],
+                [
+                    "How much does a roof replacement cost?",
+                    "It depends on roof size, pitch, material, the condition of the deck and how many layers need removal. We'll give you a clear estimate after inspecting your roof. Financing options are available."
+                ],
+                [
+                    "Which roof type is best for Arizona?",
+                    "Tile and foam roofs perform very well in Arizona heat; shingles are a cost-effective choice for many homes; metal offers long life and reflectivity. The best choice depends on your home's design and budget — see our roof types page for a comparison."
+                ]
+            ]
+        },
+        "roof-inspections": {
+            "title": "Roof Inspections in Gilbert & Phoenix, AZ | Integrity Roofing",
+            "desc": "Thorough roof inspections for homeowners, buyers, sellers and property managers in Gilbert, Mesa, Chandler & Phoenix. Find hidden damage before monsoon season.",
+            "crumb": "Roof Inspections",
+            "parent": "/roofing-services/",
+            "eyebrow": "Roof inspections",
+            "h1": "Roof inspections that catch problems early",
+            "lead": "A roof can look fine from the street and still have cracked tiles, failing underlayment or worn flashing. An inspection tells you exactly where your roof stands — and what, if anything, needs attention.",
+            "answer": "A roof inspection is a hands-on check of your roof covering, underlayment (where visible), flashing, penetrations, valleys, drainage and signs of leaks. In Arizona, it's smart to inspect your roof once a year — ideally in spring before monsoon season — plus after major storms and before buying or selling a home.",
+            "hero_img": "inspections",
+            "card_text": "Find hidden damage before it becomes a leak.",
+            "icon": "search",
+            "service": "Roof Inspection",
+            "service_type": "Roof inspection",
+            "sections": [
+                {
+                    "h2": "Why inspect a roof that \"looks fine\"",
+                    "body": "<p>Most roof damage isn't visible from the ground. Tiles crack from foot traffic and heat, underlayment dries out under the tiles, and sealants around vents shrink in the sun. By the time there's a stain on the ceiling, the water has usually been getting in for a while.</p><p>A routine inspection is the least expensive way to protect the most expensive part of your home's exterior.</p>",
+                    "img": "inspections_2"
+                }
+            ],
+            "features_eyebrow": "Inspection checklist",
+            "features_title": "What we look at",
+            "features": [
+                [
+                    "layers",
+                    "Roof covering",
+                    "Cracked, broken, slipped or missing tiles and shingles; foam and coating wear."
+                ],
+                [
+                    "drop",
+                    "Leak points",
+                    "Signs of water entry, staining, and soft or damaged decking."
+                ],
+                [
+                    "shield",
+                    "Flashing",
+                    "Walls, chimneys, skylights, valleys and roof-to-wall transitions."
+                ],
+                [
+                    "wrench",
+                    "Penetrations",
+                    "Plumbing vents, HVAC, solar mounts and satellite dishes."
+                ],
+                [
+                    "sun",
+                    "Heat & UV wear",
+                    "Brittle underlayment, dried sealants and coating breakdown."
+                ],
+                [
+                    "file",
+                    "Clear findings",
+                    "Photos of what we found and our recommendation — repair, maintain, or replace."
+                ]
+            ],
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "cards": [
+                "repairs-and-maintenance",
+                "damaged-roof",
+                "roof-replacement-services"
+            ],
+            "faqs": [
+                [
+                    "How often should a roof be inspected in Arizona?",
+                    "At least once a year, ideally in spring before monsoon season begins June 15, and again after any major storm. Older roofs benefit from more frequent checks."
+                ],
+                [
+                    "Should I get a roof inspection when buying a home?",
+                    "Yes. A general home inspector looks at the roof, but a roofing contractor can give you a closer look at the roof's condition, the remaining life, and what repairs may be needed — useful information before you close."
+                ],
+                [
+                    "What happens during a roof inspection?",
+                    "We check the roof covering, flashing, valleys, penetrations, drainage and visible signs of leaks, document what we find with photos, and explain our recommendation."
+                ],
+                [
+                    "How long does a roof inspection take?",
+                    "Most residential inspections take about an hour, depending on the roof's size, pitch and access."
+                ],
+                [
+                    "Do I need to be home for the inspection?",
+                    "It helps if you can be there so we can walk you through what we found, but it isn't always required for an exterior roof inspection. We'll arrange the details when we schedule."
+                ],
+                [
+                    "Can an inspection help with an insurance claim?",
+                    "Our photos and findings document the roof's condition and any damage, which you can share with your insurance company. Coverage decisions are made by your insurer."
+                ]
+            ]
+        },
+        "damaged-roof": {
+            "title": "Storm & Damaged Roof Repair, Gilbert AZ | Integrity Roofing",
+            "desc": "Monsoon, wind and storm-damaged roof repair in Gilbert, Mesa, Chandler & Phoenix. Inspection, photo documentation and lasting repairs from a family-owned roofer.",
+            "crumb": "Damaged Roofs",
+            "parent": "/roofing-services/",
+            "eyebrow": "Storm & damaged roofs",
+            "h1": "Damaged roof? Let's find out how bad it is",
+            "lead": "Monsoon winds, falling branches, hail and heat can all damage a roof. We inspect it, document the damage, and make a repair that holds up to the next storm.",
+            "answer": "After a storm, look for missing or lifted shingles, cracked or displaced tiles, punctures or exposed foam on flat roofs, debris in valleys, and new stains on ceilings. If you see damage, call Integrity Roofing during business hours to inspect and document it. Don't walk on a damaged roof yourself.",
+            "hero_img": "damaged",
+            "card_text": "Monsoon, wind and storm damage repair.",
+            "icon": "alert",
+            "service": "Storm-Damaged Roof Repair",
+            "service_type": "Storm damage roof repair",
+            "sections": [
+                {
+                    "h2": "Common types of roof damage in Arizona",
+                    "body": "<p>Arizona's monsoon season (June 15 – September 30) brings sudden high winds and heavy rain. Combined with year-round heat and UV, that's a tough environment for any roof.</p>",
+                    "bullets": [
+                        "Wind-lifted or missing shingles",
+                        "Cracked, broken or slipped tiles",
+                        "Punctures, blisters or exposed foam on flat roofs",
+                        "Damage from falling branches or debris",
+                        "Water intrusion from clogged valleys and drains",
+                        "Heat-cracked sealants and flashing"
+                    ],
+                    "img": "damaged_2"
+                },
+                {
+                    "h2": "What to do after a storm",
+                    "body": "<ol><li><strong>Stay safe.</strong> Don't climb onto a wet or damaged roof.</li><li><strong>Protect the inside.</strong> Move belongings away from leaks and contain dripping water.</li><li><strong>Take photos.</strong> Photograph visible damage from the ground and any interior water stains.</li><li><strong>Call us.</strong> Phone 602-548-3770 (Mon–Fri, 7 am–5 pm) to schedule an inspection.</li><li><strong>Contact your insurer</strong> if you plan to file a claim — our photos and findings can help document the damage.</li></ol>",
+                    "img": "damaged_3"
+                }
+            ],
+            "cards": [
+                "roof-inspections",
+                "repairs-and-maintenance",
+                "roof-replacement-services"
+            ],
+            "faqs": [
+                [
+                    "How can I tell if my roof was damaged in a storm?",
+                    "From the ground, look for missing or lifted shingles, broken or shifted tiles, debris on the roof, dents in gutters, and granules collecting at downspouts. Inside, check ceilings and the attic for new stains or damp spots."
+                ],
+                [
+                    "Should I get on the roof to check for damage?",
+                    "No. Wet and damaged roofs are slippery, and walking on tile can break more tiles. Let a roofer inspect it."
+                ],
+                [
+                    "Will insurance cover storm damage to my roof?",
+                    "Many homeowner policies cover sudden storm damage, but not wear and tear. Coverage depends on your policy and your insurer's decision. We can document the damage with photos for you to share with your insurance company."
+                ],
+                [
+                    "Do you offer emergency or after-hours service?",
+                    "Our office is open Monday through Friday, 7:00 am to 5:00 pm. Call 602-548-3770 during those hours, or request an estimate online and we'll follow up on the next business day."
+                ],
+                [
+                    "Can a damaged roof be repaired, or does it need to be replaced?",
+                    "Most storm damage is repairable. Replacement is usually recommended only when damage is widespread or the roof was already near the end of its life."
+                ],
+                [
+                    "How can I prepare my roof for monsoon season?",
+                    "Have it inspected in spring, replace broken tiles or shingles, clear valleys, gutters and roof drains, trim overhanging branches, and reseal flashing and penetrations."
+                ]
+            ]
+        },
+        "residential-roofing-services": {
+            "title": "Residential Roofing Services, Gilbert AZ | Integrity Roofing",
+            "desc": "Home roof repair, maintenance, inspections and replacement for tile, shingle, foam and flat roofs across the Phoenix Valley. Family-owned in Gilbert since 1993.",
+            "crumb": "Residential Roofing Services",
+            "parent": "/roofing-services/",
+            "eyebrow": "Residential roofing",
+            "h1": "Residential roofing services for Valley homeowners",
+            "lead": "Your roof protects everything under it. We help homeowners keep it that way — with honest inspections, careful repairs and roof replacements built for Arizona heat.",
+            "answer": "Integrity Roofing provides residential roof repair, maintenance, inspections, re-roofing and new roof installation for homes in Gilbert, Mesa, Chandler, Phoenix and across the Valley, on tile, asphalt shingle, foam, flat and metal roofs.",
+            "hero_img": "residential",
+            "card_text": "Repairs, inspections and replacements for your home.",
+            "icon": "home",
+            "service": "Residential Roofing",
+            "service_type": "Residential roofing",
+            "audience": "Homeowners",
+            "sections": [
+                {
+                    "h2": "Everything your home's roof needs",
+                    "body": "<p>Most Valley homes combine roof types — concrete tile on the main roof with a flat foam section over a patio or addition, for example. We work on all of them, so one call covers the whole house.</p>",
+                    "bullets": [
+                        "Leak repair and broken tile replacement",
+                        "Tile underlayment replacement (re-felt)",
+                        "Asphalt shingle roof replacement",
+                        "Foam roof repair and recoating",
+                        "Flat and low-slope roof repair",
+                        "Pre-purchase and pre-sale roof inspections",
+                        "Monsoon prep and storm-damage repair"
+                    ],
+                    "img": "residential_2"
+                },
+                {
+                    "h2": "What homeowners can expect",
+                    "body": "<p>We explain what we find in plain language and show you photos, so you understand the problem before you decide anything. Our estimates describe the scope of work clearly, and our team manages the project from scheduling to the final quality check.</p><p>Financing options are available — ask during your estimate.</p>",
+                    "img": "residential_3"
+                }
+            ],
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "cards": [
+                "residential-roofers",
+                "roof-types",
+                "roof-inspections"
+            ],
+            "faqs": [
+                [
+                    "What residential roofing services do you offer?",
+                    "Roof repair, maintenance, inspections, tile underlayment replacement, re-roofing and new roofs for tile, shingle, foam, flat and metal roofs."
+                ],
+                [
+                    "What's the most common roof type on Arizona homes?",
+                    "Concrete tile is very common on Valley homes, followed by asphalt shingles. Many homes also have flat foam sections over patios, additions or garages."
+                ],
+                [
+                    "How do I choose between repairing and replacing my home's roof?",
+                    "Consider the roof's age, how widespread the problem is, and how often it has needed repair. We'll inspect it and give you an honest recommendation."
+                ],
+                [
+                    "Do you work with HOAs?",
+                    "Yes. Many Valley neighborhoods have HOA rules on roof colors and materials. We can help you choose options that fit your HOA's guidelines; check your HOA's approval requirements before work starts."
+                ],
+                [
+                    "Can I stay home during the work?",
+                    "Yes, in most cases. Expect noise during working hours, and keep pets and vehicles away from the work area."
+                ],
+                [
+                    "Do you offer financing for home roofing?",
+                    "Yes, financing options are available. Ask during your estimate."
+                ]
+            ]
+        },
+        "residential-roofers": {
+            "title": "Residential Roofers in Gilbert, AZ | Integrity Roofing",
+            "desc": "Looking for a trustworthy residential roofer in Gilbert, Mesa or Chandler? Integrity Roofing is family-owned, licensed (ROC #096629) and has completed 2,500+ projects.",
+            "crumb": "Residential Roofers",
+            "parent": "/roofing-services/",
+            "eyebrow": "Residential roofers",
+            "h1": "Local residential roofers you can trust",
+            "lead": "Hiring a roofer is a big decision. Here's who we are, how we work, and what to look for in any roofing contractor you consider.",
+            "answer": "When choosing a residential roofer in Arizona, confirm an active Arizona ROC license, insurance, local experience with your roof type, and a clear written estimate. Integrity Roofing is family owned since 1993, licensed under ROC #096629, bonded and insured, and based in Gilbert.",
+            "hero_img": "residential_roofers",
+            "card_text": "Who we are and how to choose the right roofer.",
+            "icon": "users",
+            "service": "Residential Roofing Contractor",
+            "service_type": "Residential roofing",
+            "audience": "Homeowners",
+            "sections": [
+                {
+                    "h2": "How to choose a residential roofer",
+                    "body": "<p>Whoever you hire, check these first:</p>",
+                    "bullets": [
+                        "<strong>Active Arizona ROC license</strong> — look it up on the Registrar of Contractors website",
+                        "<strong>Insurance</strong> — liability and workers' compensation",
+                        "<strong>Local experience</strong> with your roof type in Arizona heat",
+                        "<strong>A clear written estimate</strong> describing materials and scope",
+                        "<strong>A local office</strong> and a phone number answered by real people",
+                        "<strong>Reviews</strong> on Google, Facebook or Yelp"
+                    ],
+                    "img": "residential_roofers_2"
+                },
+                {
+                    "h2": "Why homeowners choose Integrity Roofing",
+                    "body": "<p>We're a family-owned roofing company that has worked on Valley roofs since 1993 and completed more than 2,500 projects. Our team has seen nearly every roofing problem there is, and we handle every common roof type — so you get a recommendation based on your roof, not on what we want to sell.</p>",
+                    "link": [
+                        "Read our reviews",
+                        "/reviews/"
+                    ]
+                }
+            ],
+            "cards": [
+                "residential-roofing-services",
+                "who-we-are",
+                "reviews"
+            ],
+            "faqs": [
+                [
+                    "How do I verify a roofer's license in Arizona?",
+                    "Search the contractor's name or license number on the Arizona Registrar of Contractors (ROC) website. Integrity Roofing's license is ROC #096629."
+                ],
+                [
+                    "What questions should I ask a roofer before hiring?",
+                    "Ask about their license and insurance, how long they've worked in Arizona, what's included in the estimate, who will be on the job, how long it will take, and how they handle cleanup and any surprises like damaged decking."
+                ],
+                [
+                    "Why does it matter that a roofer is local?",
+                    "A local roofer knows Arizona's heat, monsoons and city requirements, and is nearby if you need follow-up work."
+                ],
+                [
+                    "How long has Integrity Roofing been in business?",
+                    "We have provided Valley-wide roofing services since 1993 and are family owned and operated."
+                ],
+                [
+                    "Where are you located?",
+                    "Our office is at 16308 E Fairview St, Gilbert, AZ 85295. We're open Monday–Friday, 7 am–5 pm."
+                ],
+                [
+                    "How many roofs have you worked on?",
+                    "More than 2,500 residential and commercial projects."
+                ]
+            ]
+        },
+        "commercial-roofing-services": {
+            "title": "Commercial Roofing, Phoenix & Gilbert | Integrity Roofing",
+            "desc": "Commercial roof repair, maintenance, foam roofing, coatings and replacement for offices, retail, industrial and multi-family buildings across the Phoenix Valley.",
+            "crumb": "Commercial Roofing",
+            "parent": "/roofing-services/",
+            "eyebrow": "Commercial roofing",
+            "h1": "Commercial roofing for Valley businesses and properties",
+            "lead": "Flat and low-slope roofs on commercial buildings take the full force of Arizona sun. We repair, maintain, recoat and replace them so your business stays dry and running.",
+            "answer": "Integrity Roofing provides commercial roof inspections, repairs, preventive maintenance, foam roofing, elastomeric coatings and roof replacement for offices, retail centers, industrial buildings, churches and multi-family properties throughout the Phoenix Valley.",
+            "hero_img": "commercial",
+            "card_text": "Flat roofs, foam, coatings and maintenance for businesses.",
+            "icon": "building",
+            "service": "Commercial Roofing",
+            "service_type": "Commercial roofing",
+            "audience": "Business owners and property managers",
+            "sections": [
+                {
+                    "h2": "Commercial roofing services",
+                    "body": "<p>Most commercial buildings in the Valley have flat or low-slope roofs — spray foam, modified bitumen, or coated systems — plus HVAC units and lots of penetrations. Those details are where leaks start.</p>",
+                    "bullets": [
+                        "Commercial roof inspections and condition reports",
+                        "Leak repair and drain/scupper repairs",
+                        "Spray polyurethane foam roofing and recoating",
+                        "Elastomeric and reflective roof coatings",
+                        "Preventive maintenance programs",
+                        "Commercial roof replacement",
+                        "Multi-family and HOA roofing"
+                    ],
+                    "img": "commercial_2"
+                },
+                {
+                    "h2": "Planned maintenance saves budgets",
+                    "body": "<p>For property managers, unplanned leaks mean tenant complaints and damaged inventory. Regular inspections and scheduled recoating spread costs out, extend the roof's life, and help you plan capital expenses instead of reacting to emergencies.</p>",
+                    "img": "commercial_3"
+                }
+            ],
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "cards": [
+                "foam-roofing",
+                "elastomeric-roofing-coating",
+                "flat-roofing"
+            ],
+            "cards_title": "Commercial roof systems",
+            "faqs": [
+                [
+                    "What types of commercial roofs do you work on?",
+                    "Spray polyurethane foam, elastomeric-coated roofs, flat and low-slope systems such as modified bitumen, metal roofs, and tile or shingle on sloped commercial buildings."
+                ],
+                [
+                    "How often should a commercial roof be inspected?",
+                    "At least twice a year — typically spring and fall — and after major storms. Regular inspections catch drainage and flashing issues early."
+                ],
+                [
+                    "Can a commercial roof be recoated instead of replaced?",
+                    "Often, yes. If the existing roof is structurally sound and mostly dry, a coating or foam recoat can extend its life at a fraction of the cost of replacement. An inspection will tell us if your roof is a good candidate."
+                ],
+                [
+                    "Do you work with property managers and HOAs?",
+                    "Yes. We work with property managers, HOAs and building owners on multi-family and commercial properties."
+                ],
+                [
+                    "Can you work around our business hours?",
+                    "We'll coordinate scheduling with you to minimize disruption to your tenants, customers and operations."
+                ],
+                [
+                    "Why are reflective roofs popular on Arizona commercial buildings?",
+                    "Light-colored, reflective coatings reflect sunlight and reduce heat absorbed by the roof, which can help lower cooling demand in hot climates."
+                ]
+            ]
+        },
+        "roof-types": {
+            "title": "Arizona Roof Types: Tile, Shingle, Foam & More | Integrity Roofing",
+            "desc": "Compare tile, asphalt shingle, spray foam, elastomeric, flat, metal and sloped roofs for Arizona homes and businesses. Lifespans, pros and cons from a Gilbert roofer.",
+            "crumb": "Roof Types",
+            "eyebrow": "Roof types",
+            "h1": "Roof types we install, repair and replace",
+            "lead": "Every roof type behaves differently in Arizona heat. Here's a plain-English guide to the roofs we work on — and how to choose the right one.",
+            "answer": "The most common Arizona roof types are concrete or clay tile (very long-lasting, great in heat), asphalt shingles (cost-effective), spray polyurethane foam (seamless and insulating for flat roofs), elastomeric coatings (reflective protection for flat roofs), metal (long life, reflective), and modified bitumen or other flat-roof systems. Integrity Roofing works on all of them.",
+            "hero_img": "roof_types",
+            "card_text": "Compare the roof systems we work on.",
+            "icon": "layers",
+            "page_type": "CollectionPage",
+            "cards": [
+                "tile-roofs",
+                "asphalt-shingles",
+                "foam-roofing",
+                "elastomeric-roofing-coating",
+                "flat-roofing",
+                "metal-roofing",
+                "sloped-roofs"
+            ],
+            "cards_eyebrow": "Roof types",
+            "cards_title": "Explore each roof type",
+            "table": {
+                "title": "Arizona roof types at a glance",
+                "note": "General guidance only — the right choice depends on your building, budget and HOA rules.",
+                "head": [
+                    "Roof type",
+                    "Best for",
+                    "Typical lifespan",
+                    "Heat performance"
+                ],
+                "rows": [
+                    [
+                        "Concrete / clay tile",
+                        "Sloped residential roofs",
+                        "Tiles 50+ yrs; underlayment ~20–25 yrs",
+                        "Excellent — air space under tiles"
+                    ],
+                    [
+                        "Asphalt shingles",
+                        "Budget-friendly sloped roofs",
+                        "15–25 years",
+                        "Good; lighter colors help"
+                    ],
+                    [
+                        "Spray foam (SPF)",
+                        "Flat & low-slope roofs",
+                        "20+ years with recoating",
+                        "Excellent — insulating & reflective"
+                    ],
+                    [
+                        "Elastomeric coating",
+                        "Protecting existing flat roofs",
+                        "Recoat every several years",
+                        "Excellent — highly reflective"
+                    ],
+                    [
+                        "Metal",
+                        "Sloped homes & commercial",
+                        "40+ years",
+                        "Very good — reflective finishes"
+                    ],
+                    [
+                        "Flat / modified bitumen",
+                        "Flat commercial & additions",
+                        "10–20 years",
+                        "Good with reflective cap sheet/coating"
+                    ]
+                ]
+            },
+            "sections": [
+                {
+                    "h2": "How to choose the right roof",
+                    "body": "<p>Start with your roof's slope: tile, shingle and metal need a sloped roof, while foam, coatings and modified bitumen are made for flat and low-slope areas. Then weigh budget, how long you plan to stay, the look you want, and your HOA's rules.</p><p>We'll walk you through the options that fit your home and give you a clear estimate for each.</p>",
+                    "img": "roof_types_2"
+                }
+            ],
+            "faqs": [
+                [
+                    "What is the best roof type for Arizona heat?",
+                    "Tile and spray foam are top performers in Arizona heat — tile because of the air space beneath it, foam because it insulates and is coated with a reflective surface. Metal with a reflective finish also performs well. The best choice depends on your roof's slope and budget."
+                ],
+                [
+                    "What is the longest-lasting roof in Arizona?",
+                    "Concrete and clay tiles can last 50 years or more, and metal roofs 40+ years. Keep in mind that the underlayment beneath tile typically needs replacing sooner — often after about 20–25 years."
+                ],
+                [
+                    "What roof is best for a flat roof in Arizona?",
+                    "Spray polyurethane foam is a popular choice for flat roofs in Arizona because it's seamless, insulating and can be recoated to extend its life. Modified bitumen and coated systems are also common."
+                ],
+                [
+                    "Can I switch from shingles to tile?",
+                    "Sometimes. Tile is much heavier than shingles, so the roof structure must be able to support it. An engineering review may be needed. We can tell you what's involved."
+                ],
+                [
+                    "Are shingles a good choice in Arizona?",
+                    "Yes, for many homes. Asphalt shingles are cost-effective and come in many colors, though Arizona heat and UV tend to shorten their life compared with cooler climates. Lighter colors and good attic ventilation help."
+                ],
+                [
+                    "Does Integrity Roofing work on every roof type?",
+                    "Yes — tile, shingle, foam, elastomeric, flat, metal and sloped roofs, for homes and businesses."
+                ]
+            ]
+        },
+        "tile-roofs": {
+            "card_img": "tile_card",
+            "title": "Tile Roof Repair & Re-Felt in Gilbert, AZ | Integrity Roofing",
+            "desc": "Concrete and clay tile roof repair, broken tile replacement, underlayment replacement (re-felt) and new tile roofs in Gilbert, Mesa, Chandler & Phoenix.",
+            "crumb": "Tile Roofs",
+            "parent": "/roof-types/",
+            "eyebrow": "Tile roofs",
+            "h1": "Tile roof repair, underlayment and replacement",
+            "lead": "Concrete and clay tile is the classic Arizona roof — beautiful, durable and great in the heat. The key to a long life is what's underneath the tiles.",
+            "answer": "Tile roofs are very durable — the tiles themselves often last 50 years or more — but the underlayment beneath them is the real waterproofing layer and typically wears out after about 20–25 years in Arizona. Integrity Roofing repairs broken tiles, replaces underlayment (re-felt) and installs new tile roofs.",
+            "hero_img": "tile",
+            "card_text": "Concrete & clay tile repair, re-felt and replacement.",
+            "service": "Tile Roofing",
+            "service_type": "Tile roof installation and repair",
+            "sections": [
+                {
+                    "h2": "The tile isn't the waterproofing — the underlayment is",
+                    "body": "<p>Tiles shed most of the water and shade the roof, but the underlayment beneath them is what keeps water out of your home. Arizona heat dries it out over time until it becomes brittle and cracks. When that happens, leaks begin even if the tiles look perfect.</p><p>A tile underlayment replacement (often called a re-felt) removes the tiles, installs new underlayment, and reinstalls your tiles — replacing any broken ones.</p>",
+                    "img": "tile_2"
+                },
+                {
+                    "h2": "Tile roof services",
+                    "body": "<p>We work on concrete and clay tile in all common profiles — flat, S-tile and barrel.</p>",
+                    "bullets": [
+                        "Broken and slipped tile replacement",
+                        "Leak repair and partial underlayment repair",
+                        "Full underlayment replacement (re-felt)",
+                        "Flashing, valley and ridge repair",
+                        "New tile roof installation",
+                        "Tile roof inspections"
+                    ],
+                    "img": "tile_3"
+                }
+            ],
+            "cards": [
+                "roof-replacement-services",
+                "repairs-and-maintenance",
+                "sloped-roofs"
+            ],
+            "faqs": [
+                [
+                    "How long does a tile roof last in Arizona?",
+                    "Concrete and clay tiles can last 50 years or more. The underlayment beneath the tiles usually needs replacement after about 20–25 years, depending on the material and exposure."
+                ],
+                [
+                    "Why is my tile roof leaking if the tiles look fine?",
+                    "The underlayment under the tiles is the main waterproofing layer. When it becomes brittle or torn from age and heat, water gets through even if the tiles look perfect."
+                ],
+                [
+                    "Can broken roof tiles be replaced individually?",
+                    "Yes. Individual cracked or broken tiles can be replaced. We try to match the profile and color as closely as possible."
+                ],
+                [
+                    "Can I walk on my tile roof?",
+                    "It's best not to. Tiles can crack under foot pressure if you step in the wrong place. Let a roofer handle access."
+                ],
+                [
+                    "Can my existing tiles be reused during a re-felt?",
+                    "In most cases, yes. Intact tiles are removed, stacked, and reinstalled over the new underlayment. Broken tiles are replaced."
+                ],
+                [
+                    "What is the difference between concrete and clay tile?",
+                    "Clay tile is fired clay with color that won't fade; concrete tile is heavier and usually less expensive. Both perform very well in Arizona."
+                ]
+            ]
+        },
+        "asphalt-shingles": {
+            "card_img": "shingle_card",
+            "title": "Asphalt Shingle Roofing, Gilbert AZ | Integrity Roofing",
+            "desc": "Asphalt shingle roof repair and replacement in Gilbert, Mesa, Chandler & Phoenix. Wind damage, granule loss and full re-roofs from a family-owned Arizona roofer.",
+            "crumb": "Asphalt Shingles",
+            "parent": "/roof-types/",
+            "eyebrow": "Asphalt shingles",
+            "h1": "Asphalt shingle roof repair and replacement",
+            "lead": "Shingles are a cost-effective, good-looking roof for many Valley homes. We repair wind and heat damage and install new shingle roofs built to handle the Arizona sun.",
+            "answer": "Asphalt shingle roofs typically last about 15–25 years in Arizona, where heat and UV wear them faster than in cooler climates. Signs of a failing shingle roof include curling or cracked shingles, bald spots, heavy granule loss in gutters, and wind-lifted or missing tabs.",
+            "hero_img": "shingle",
+            "card_text": "Repair and replacement for shingle roofs.",
+            "service": "Asphalt Shingle Roofing",
+            "service_type": "Asphalt shingle roof installation and repair",
+            "sections": [
+                {
+                    "h2": "Shingle repairs",
+                    "body": "<p>Monsoon winds can lift and tear shingles, and summer heat can make them brittle. We replace damaged shingles, reseal lifted ones, and repair flashing and vents so water stays out.</p>",
+                    "bullets": [
+                        "Wind-damaged and missing shingle replacement",
+                        "Flashing and vent boot repair",
+                        "Ridge cap repair",
+                        "Leak detection and repair"
+                    ],
+                    "img": "shingle_2"
+                },
+                {
+                    "h2": "Shingle roof replacement",
+                    "body": "<p>When your shingles are worn out, we tear the old roof off, inspect and repair the deck, and install a new shingle system with new underlayment, flashing and ridge caps. Lighter colors and good attic ventilation help shingles last longer in Arizona.</p>",
+                    "img": "shingle_3"
+                }
+            ],
+            "cards": [
+                "roof-replacement-services",
+                "tile-roofs",
+                "metal-roofing"
+            ],
+            "cards_title": "Compare other roof types",
+            "faqs": [
+                [
+                    "How long do asphalt shingles last in Arizona?",
+                    "Typically about 15–25 years, depending on the shingle quality, color, attic ventilation and exposure. Heat and UV shorten shingle life compared with milder climates."
+                ],
+                [
+                    "What are signs my shingle roof needs replacing?",
+                    "Curling, cracking or brittle shingles, bald spots, granules piling up in gutters, multiple leaks, and a roof that's near the end of its expected life."
+                ],
+                [
+                    "Can a few shingles be replaced after a storm?",
+                    "Yes. Wind damage to a handful of shingles is usually a simple repair, as long as the surrounding shingles are still in good condition."
+                ],
+                [
+                    "Are dark shingles bad in Arizona?",
+                    "Darker shingles absorb more heat, which can raise attic temperatures and speed up aging. Lighter colors reflect more sunlight. Many homeowners balance appearance with heat performance."
+                ],
+                [
+                    "Why are there granules in my gutters?",
+                    "Some granule loss is normal on new shingles. Heavy, ongoing loss on an older roof means the shingles are wearing out and losing their UV protection."
+                ]
+            ]
+        },
+        "foam-roofing": {
+            "card_img": "foam_card",
+            "title": "Foam Roofing (SPF) in Gilbert & Phoenix, AZ | Integrity Roofing",
+            "desc": "Spray polyurethane foam roof installation, repair and recoating for flat roofs in Gilbert, Mesa, Chandler & Phoenix. Seamless, insulating and built for Arizona heat.",
+            "crumb": "Foam Roofing",
+            "parent": "/roof-types/",
+            "eyebrow": "Foam roofing",
+            "h1": "Spray foam roofing for flat roofs",
+            "lead": "Spray polyurethane foam (SPF) is one of the most popular flat-roof systems in Arizona: seamless, lightweight, insulating, and renewable with a fresh coating.",
+            "answer": "A foam roof is spray polyurethane foam applied as a liquid that expands into a seamless, insulating layer, then protected with a UV-resistant coating. With regular recoating, a foam roof can last 20+ years. The coating is what wears — when bare foam is exposed, it's time to recoat.",
+            "hero_img": "foam",
+            "card_text": "Seamless, insulating flat roofs — install, repair, recoat.",
+            "service": "Spray Foam Roofing",
+            "service_type": "Spray polyurethane foam roofing",
+            "sections": [
+                {
+                    "h2": "Why foam works in Arizona",
+                    "body": "<p>Foam is sprayed on as a liquid and expands to form one continuous layer with no seams — and seams are where most flat roofs leak. It adds insulation to the roof, and its reflective coating helps keep heat out of the building.</p>",
+                    "bullets": [
+                        "Seamless, monolithic surface",
+                        "Adds insulation value",
+                        "Lightweight — often applied over existing roofs",
+                        "Can be shaped to improve drainage",
+                        "Renewable: recoat instead of replace"
+                    ],
+                    "img": "foam_2"
+                },
+                {
+                    "h2": "Foam roof repair and recoating",
+                    "body": "<p>Birds, foot traffic, and UV exposure eventually wear through the coating. We repair blisters, punctures and damaged areas, then recoat the roof to restore protection — usually far less expensive than replacement.</p>",
+                    "img": "foam_3"
+                }
+            ],
+            "cards": [
+                "elastomeric-roofing-coating",
+                "flat-roofing",
+                "commercial-roofing-services"
+            ],
+            "faqs": [
+                [
+                    "How long does a foam roof last?",
+                    "With regular recoating, a foam roof can last 20 years or more. The foam itself is durable; the protective coating on top is what needs periodic renewal."
+                ],
+                [
+                    "How often does a foam roof need to be recoated?",
+                    "It depends on the coating type and thickness, typically every several years. An inspection will show if your coating is getting thin or if bare foam is showing."
+                ],
+                [
+                    "What are signs my foam roof needs attention?",
+                    "Exposed yellow or brown foam, cracks or peeling in the coating, blisters, bird pecks, ponding water, and soft spots."
+                ],
+                [
+                    "Can foam be applied over my existing flat roof?",
+                    "Often, yes, if the existing roof is dry and sound. Wet or deteriorated material must be removed first. We'll check during the inspection."
+                ],
+                [
+                    "Is foam roofing good for homes or only commercial buildings?",
+                    "Both. Many Arizona homes have foam on flat sections — patios, additions and garages — and many commercial buildings use foam on the entire roof."
+                ]
+            ]
+        },
+        "elastomeric-roofing-coating": {
+            "title": "Elastomeric Roof Coatings, Gilbert AZ | Integrity Roofing",
+            "desc": "Elastomeric roof coatings for flat and low-slope roofs in Gilbert, Mesa, Chandler & Phoenix. Reflective, waterproof protection that extends your roof's life.",
+            "crumb": "Elastomeric Coatings",
+            "parent": "/roof-types/",
+            "eyebrow": "Elastomeric coatings",
+            "h1": "Elastomeric roof coatings that reflect the Arizona sun",
+            "lead": "A quality elastomeric coating adds a flexible, waterproof, reflective layer to flat and low-slope roofs — often extending the life of a sound roof without a full replacement.",
+            "answer": "An elastomeric roof coating is a thick, flexible liquid-applied membrane (such as acrylic or silicone) that stretches and contracts with the roof as temperatures change. It waterproofs the surface and reflects sunlight, which helps reduce heat absorbed by the roof. It works best on roofs that are structurally sound and dry.",
+            "hero_img": "elastomeric",
+            "card_text": "Reflective, waterproof coatings for flat roofs.",
+            "service": "Elastomeric Roof Coating",
+            "service_type": "Roof coating",
+            "sections": [
+                {
+                    "h2": "Benefits of elastomeric coatings",
+                    "body": "<p>Arizona roofs can swing dramatically in temperature between day and night. Elastomeric coatings flex with that movement instead of cracking.</p>",
+                    "bullets": [
+                        "Seamless waterproof layer",
+                        "Reflects sunlight to reduce roof heat",
+                        "Flexes with expansion and contraction",
+                        "Protects foam and other flat-roof surfaces from UV",
+                        "Can extend the life of a sound roof"
+                    ],
+                    "img": "elastomeric_2"
+                },
+                {
+                    "h2": "Is your roof a good candidate?",
+                    "body": "<p>Coatings protect a roof — they don't fix a failed one. The roof must be dry, solid, and properly prepared: cleaned, repaired, and primed where needed. We'll inspect the roof and tell you honestly if coating or replacement is the right move.</p>"
+                }
+            ],
+            "cards": [
+                "foam-roofing",
+                "flat-roofing",
+                "commercial-roofing-services"
+            ],
+            "faqs": [
+                [
+                    "What is an elastomeric roof coating?",
+                    "A thick, flexible, liquid-applied coating — commonly acrylic or silicone — that forms a seamless waterproof and reflective membrane over a roof."
+                ],
+                [
+                    "How long does an elastomeric coating last?",
+                    "It depends on the product, thickness applied and exposure. Coatings are typically renewed every several years; thicker applications last longer."
+                ],
+                [
+                    "Can a coating stop my roof from leaking?",
+                    "A coating can seal minor surface issues, but active leaks and wet or damaged areas must be repaired first. Coatings work best on sound, dry roofs."
+                ],
+                [
+                    "Does a reflective roof coating lower energy bills?",
+                    "Reflective coatings reduce how much heat the roof absorbs, which can lower cooling demand in hot climates. Actual savings depend on the building, insulation and HVAC system."
+                ],
+                [
+                    "What roofs can be coated?",
+                    "Foam roofs, many modified bitumen and built-up roofs, some metal roofs, and other low-slope surfaces in good condition."
+                ]
+            ]
+        },
+        "flat-roofing": {
+            "card_img": "flat_card",
+            "title": "Flat Roof Repair in Gilbert & Phoenix | Integrity Roofing",
+            "desc": "Flat and low-slope roof repair, coating and replacement for homes and businesses in Gilbert, Mesa, Chandler & Phoenix. Foam, modified bitumen and coated systems.",
+            "crumb": "Flat Roofing",
+            "parent": "/roof-types/",
+            "eyebrow": "Flat roofing",
+            "h1": "Flat roof repair, coating and replacement",
+            "lead": "Flat roofs are everywhere in the Valley — on commercial buildings, patios, additions and Pueblo-style homes. Good drainage and a healthy surface are what keep them dry.",
+            "answer": "Flat roofs aren't completely flat — they're built with a slight slope to drain. Most flat-roof leaks start at seams, flashing, roof drains and scuppers, or where water ponds. Common flat-roof systems in Arizona include spray foam, modified bitumen and elastomeric-coated roofs.",
+            "hero_img": "flat",
+            "card_text": "Low-slope roofs on homes, patios and businesses.",
+            "service": "Flat Roofing",
+            "service_type": "Flat roof installation and repair",
+            "sections": [
+                {
+                    "h2": "Flat roof systems we work on",
+                    "body": "<p>The right system depends on the building, the existing roof, and your budget.</p>",
+                    "bullets": [
+                        "<strong>Spray polyurethane foam</strong> — seamless and insulating",
+                        "<strong>Modified bitumen</strong> — durable rolled roofing with a protective cap sheet",
+                        "<strong>Elastomeric coatings</strong> — reflective protection over sound roofs",
+                        "<strong>Repairs</strong> to seams, drains, scuppers, parapets and flashing"
+                    ],
+                    "img": "flat_2"
+                },
+                {
+                    "h2": "Ponding water is a warning sign",
+                    "body": "<p>Water that stands on a flat roof for more than a couple of days after rain speeds up wear and finds its way into seams. We can improve drainage — for example by adding tapered foam or clearing and repairing drains — as part of a repair or replacement.</p>"
+                }
+            ],
+            "cards": [
+                "foam-roofing",
+                "elastomeric-roofing-coating",
+                "commercial-roofing-services"
+            ],
+            "faqs": [
+                [
+                    "Why do flat roofs leak?",
+                    "Common causes are failed seams, worn flashing at parapet walls and penetrations, clogged drains and scuppers, ponding water, and coatings that have worn thin from UV exposure."
+                ],
+                [
+                    "How long does a flat roof last in Arizona?",
+                    "It depends on the system: modified bitumen often lasts around 10–20 years, while a well-maintained foam roof can last 20+ years with periodic recoating."
+                ],
+                [
+                    "Is ponding water on a flat roof normal?",
+                    "A little water that evaporates within a day or two is common. Water that stands longer can accelerate wear and should be addressed by improving drainage."
+                ],
+                [
+                    "Can a flat roof be converted to foam?",
+                    "Often, yes. If the existing roof is dry and sound, foam may be applied over it; otherwise the old roof is removed first."
+                ],
+                [
+                    "How often should a flat roof be inspected?",
+                    "At least once a year, plus after major storms. Commercial flat roofs benefit from inspections in both spring and fall."
+                ]
+            ]
+        },
+        "metal-roofing": {
+            "title": "Metal Roofing in Gilbert & Phoenix, AZ | Integrity Roofing",
+            "desc": "Metal roof installation and repair for homes and commercial buildings in Gilbert, Mesa, Chandler & Phoenix. Long-lasting, reflective roofing built for Arizona.",
+            "crumb": "Metal Roofing",
+            "parent": "/roof-types/",
+            "eyebrow": "Metal roofing",
+            "h1": "Metal roofing built to last in Arizona",
+            "lead": "Metal roofs are long-lasting, lightweight and reflective, with a clean modern look. They're a strong choice for homes, outbuildings and commercial properties.",
+            "answer": "A properly installed metal roof can last 40 years or more. Metal is lightweight, sheds water quickly, and reflective finishes help reduce heat absorbed by the roof. The parts that need attention over time are fasteners, sealants and flashing.",
+            "hero_img": "metal",
+            "card_text": "Long-lasting, reflective metal roof systems.",
+            "service": "Metal Roofing",
+            "service_type": "Metal roof installation and repair",
+            "sections": [
+                {
+                    "h2": "Why choose metal?",
+                    "body": "<p>Metal roofing stands up well to sun, wind and rain, and its reflective finishes are a good match for Arizona summers.</p>",
+                    "bullets": [
+                        "Long lifespan — often 40+ years",
+                        "Lightweight compared with tile",
+                        "Reflective finishes help reduce roof heat",
+                        "Sheds monsoon rain quickly",
+                        "Clean, modern appearance"
+                    ],
+                    "img": "metal_2"
+                },
+                {
+                    "h2": "Metal roof repair and maintenance",
+                    "body": "<p>Over time, exposed fasteners can loosen and sealants can dry out in the sun. We tighten or replace fasteners, reseal seams and penetrations, and repair flashing so your metal roof keeps performing.</p>"
+                }
+            ],
+            "cards": [
+                "asphalt-shingles",
+                "tile-roofs",
+                "sloped-roofs"
+            ],
+            "cards_title": "Compare other roof types",
+            "faqs": [
+                [
+                    "How long does a metal roof last?",
+                    "A well-installed metal roof can last 40 years or more, depending on the panel type, finish and maintenance."
+                ],
+                [
+                    "Are metal roofs hot in Arizona?",
+                    "Metal with a reflective finish reflects much of the sun's energy and sheds heat quickly once the sun goes down. Combined with proper insulation and ventilation, metal roofs perform well in Arizona."
+                ],
+                [
+                    "Are metal roofs noisy in the rain?",
+                    "With solid decking and underlayment beneath, metal roofs on homes are typically not much louder than other roofs."
+                ],
+                [
+                    "Can metal be installed on any roof?",
+                    "Metal is designed for sloped roofs. Flat and very low-slope areas are better suited to foam, coatings or modified bitumen."
+                ],
+                [
+                    "What maintenance does a metal roof need?",
+                    "Periodic checks of fasteners, sealants, flashing and penetrations, plus clearing debris from valleys and gutters."
+                ]
+            ]
+        },
+        "sloped-roofs": {
+            "title": "Sloped & Pitched Roof Repair in Gilbert, AZ | Integrity Roofing",
+            "desc": "Repair and replacement for sloped and steep roofs — tile, shingle and metal — in Gilbert, Mesa, Chandler & Phoenix. Experienced, licensed, family-owned roofers.",
+            "crumb": "Sloped Roofs",
+            "parent": "/roof-types/",
+            "eyebrow": "Sloped roofs",
+            "h1": "Sloped and pitched roofs",
+            "lead": "Sloped roofs shed water fast and look great — and they come with their own challenges: valleys, ridges, flashing details, and safe access on steeper pitches.",
+            "answer": "A sloped (pitched) roof is any roof steep enough to shed water quickly, usually covered with tile, asphalt shingles or metal. Benefits include fast drainage, longer material life, and attic space for ventilation. The most common trouble spots are valleys, ridges, and flashing where the roof meets walls.",
+            "hero_img": "sloped",
+            "card_text": "Tile, shingle and metal on pitched roofs.",
+            "service": "Sloped Roof Repair and Replacement",
+            "service_type": "Pitched roof repair and replacement",
+            "sections": [
+                {
+                    "h2": "Benefits of a sloped roof",
+                    "body": "<p>Steeper roofs move water off quickly, which is a big advantage during monsoon downpours.</p>",
+                    "bullets": [
+                        "Fast drainage and less standing water",
+                        "Works with tile, shingle and metal",
+                        "Attic space for insulation and ventilation",
+                        "Classic curb appeal"
+                    ],
+                    "img": "sloped_2"
+                },
+                {
+                    "h2": "Where sloped roofs need attention",
+                    "body": "<p>Valleys collect water and debris, ridges and hips take wind, and every wall, chimney and skylight needs proper flashing. We focus on these details during repairs and replacements, and we use proper safety equipment on steep pitches.</p>"
+                }
+            ],
+            "cards": [
+                "tile-roofs",
+                "asphalt-shingles",
+                "metal-roofing"
+            ],
+            "faqs": [
+                [
+                    "What is considered a sloped roof?",
+                    "Generally, any roof with enough pitch to shed water quickly — typically roofs covered with tile, shingles or metal rather than flat-roof systems."
+                ],
+                [
+                    "Do steep roofs cost more to repair or replace?",
+                    "Steeper roofs can take more time and safety equipment to work on, which can affect cost. Your estimate will reflect your roof's pitch and access."
+                ],
+                [
+                    "What are the most common leaks on sloped roofs?",
+                    "Valleys, roof-to-wall flashing, chimneys and skylights, and plumbing vent penetrations."
+                ],
+                [
+                    "Which roofing materials work on sloped roofs?",
+                    "Concrete and clay tile, asphalt shingles and metal are the most common choices for sloped roofs in Arizona."
+                ],
+                [
+                    "Why is attic ventilation important on a sloped roof?",
+                    "Good ventilation lets hot air escape the attic, which helps protect roofing materials from excess heat and can reduce cooling costs."
+                ]
+            ]
+        },
+        "who-we-are": {
+            "title": "Who We Are | Family-Owned Roofers | Integrity Roofing",
+            "desc": "Integrity Roofing is a family-owned, licensed roofing contractor based in Gilbert, AZ, serving the Phoenix Valley since 1993 with 2,500+ completed projects.",
+            "crumb": "Who We Are",
+            "parent": "/about-us/",
+            "eyebrow": "Who we are",
+            "h1": "A family roofing company built on integrity",
+            "lead": "We're a family-owned and operated roofing contractor in Gilbert. Our team has worked on Valley roofs since 1993 and has seen nearly every roofing problem there is.",
+            "answer": "Integrity Roofing is a family-owned and operated roofing contractor based in Gilbert, Arizona. Since 1993 we have completed more than 2,500 residential and commercial projects across the Phoenix Valley. We are licensed (ROC #096629), bonded and insured.",
+            "hero_img": "who",
+            "card_text": "Meet the family-owned team behind the work.",
+            "icon": "users",
+            "page_type": "AboutPage",
+            "sections": [
+                {
+                    "h2": "Experience you can count on",
+                    "body": "<p>Our roofing professionals bring decades of hands-on experience to every job. Whether it's a single repair or a full re-roof, we treat your property the way we'd want ours treated — and we stand behind the work.</p>",
+                    "bullets": [
+                        "Family owned &amp; operated",
+                        "Serving the Valley since 1993",
+                        "2,500+ successful projects",
+                        "Licensed, bonded &amp; insured — ROC #096629",
+                        "Residential, commercial &amp; multi-family"
+                    ],
+                    "img": "who_2"
+                }
+            ],
+            "features_eyebrow": "What we value",
+            "features_title": "How we work",
+            "features": [
+                [
+                    "shield",
+                    "Integrity",
+                    "We recommend what your roof actually needs — nothing more."
+                ],
+                [
+                    "clipboard",
+                    "Quality control",
+                    "Every project ends with a quality-control check."
+                ],
+                [
+                    "users",
+                    "Communication",
+                    "You'll know what we found, what we recommend, and why."
+                ]
+            ],
+            "steps": [
+                [
+                    "Inspection & estimate",
+                    "We inspect the roof, photograph what we find, and give you a clear estimate for repair or replacement."
+                ],
+                [
+                    "Scheduling",
+                    "Once you approve, we coordinate materials and schedule the job around you."
+                ],
+                [
+                    "The work",
+                    "Our crew completes the repair or replacement to manufacturer and code requirements."
+                ],
+                [
+                    "Quality check",
+                    "We manage the project to completion and do a final quality-control walkthrough."
+                ]
+            ],
+            "steps_title": "The Integrity way",
+            "cards": [
+                "about-us",
+                "reviews",
+                "roofing-services"
+            ],
+            "faqs": [
+                [
+                    "Is Integrity Roofing a family-owned business?",
+                    "Yes. Integrity Roofing is family owned and operated."
+                ],
+                [
+                    "How long has Integrity Roofing been in business?",
+                    "We've provided Valley-wide roofing services since 1993."
+                ],
+                [
+                    "What is Integrity Roofing's license number?",
+                    "Arizona Registrar of Contractors license ROC #096629. We are also bonded and insured."
+                ],
+                [
+                    "Where is Integrity Roofing located?",
+                    "Our office is at 16308 E Fairview St, Gilbert, AZ 85295, open Monday–Friday 7 am–5 pm."
+                ],
+                [
+                    "Do you do residential and commercial work?",
+                    "Yes — residential, commercial and multi-family roofing."
+                ]
+            ]
+        },
+        "about-us": {
+            "title": "About Integrity Roofing | Gilbert, AZ Roofers Since 1993",
+            "desc": "Learn about Integrity Roofing — a family-owned Gilbert, AZ roofing contractor serving the Phoenix Valley since 1993. Licensed, bonded & insured, ROC #096629.",
+            "crumb": "About Us",
+            "eyebrow": "About us",
+            "h1": "About Integrity Roofing",
+            "lead": "Integrity Roofing is a team of seasoned roofing professionals. We've tackled nearly every roofing issue imaginable, so you can be confident in our ability to handle yours.",
+            "answer": "Integrity Roofing is a family-owned roofing contractor in Gilbert, AZ, providing Valley-wide roofing services since 1993. We repair, maintain, inspect and replace tile, shingle, foam, flat, metal and coated roofs for homes and businesses, and we are licensed (ROC #096629), bonded and insured.",
+            "hero_img": "about",
+            "card_text": "Our story, credentials and service area.",
+            "icon": "home",
+            "page_type": "AboutPage",
+            "sections": [
+                {
+                    "h2": "Valley-wide roofing since 1993",
+                    "body": "<p>For more than three decades, Integrity Roofing has helped Arizona homeowners and businesses protect their properties. We've grown by doing honest work and earning repeat customers and referrals.</p><p>Our office is in Gilbert, and our crews work across the East Valley and greater Phoenix.</p>",
+                    "img": "about_2"
+                },
+                {
+                    "h2": "Credentials",
+                    "body": "<p>Before you hire any roofer, check their credentials. Here are ours:</p>",
+                    "bullets": [
+                        "Arizona Registrar of Contractors license ROC #096629",
+                        "Licensed, bonded &amp; insured",
+                        "Family owned &amp; operated since 1993",
+                        "2,500+ residential and commercial projects",
+                        "Financing options available"
+                    ],
+                    "img": "about_3"
+                }
+            ],
+            "cards": [
+                "who-we-are",
+                "reviews",
+                "location"
+            ],
+            "show_areas": true,
+            "faqs": [
+                [
+                    "What does Integrity Roofing do?",
+                    "We repair, maintain, inspect and replace roofs — tile, shingle, foam, flat, metal and coated — for homes and businesses across the Phoenix Valley."
+                ],
+                [
+                    "How long has Integrity Roofing been in business?",
+                    "Since 1993."
+                ],
+                [
+                    "Is Integrity Roofing licensed?",
+                    "Yes, ROC #096629. We are licensed, bonded and insured."
+                ],
+                [
+                    "What areas do you serve?",
+                    "Gilbert, Mesa, Chandler, Queen Creek, San Tan Valley, Tempe, Phoenix, Scottsdale, Apache Junction, Ahwatukee, Glendale, Peoria and surrounding Valley communities."
+                ],
+                [
+                    "How can I contact Integrity Roofing?",
+                    "Call 602-548-3770 (Mon–Fri, 7 am–5 pm), email office.integrityroofing@gmail.com, or request an estimate online."
+                ]
+            ]
+        },
+        "reviews": {
+            "title": "Integrity Roofing Reviews | Google, Facebook & Yelp",
+            "desc": "Read Integrity Roofing customer reviews on Google, Facebook and Yelp, or share your own experience with our Gilbert, AZ roofing team.",
+            "crumb": "Reviews",
+            "parent": "/about-us/",
+            "eyebrow": "Reviews",
+            "h1": "What our customers say",
+            "lead": "We welcome you to read our reviews — and to leave one sharing your experience with us. Your feedback helps your neighbors choose a roofer with confidence.",
+            "answer": "You can read and leave reviews for Integrity Roofing on Google, Facebook and Yelp. If you've worked with us, we'd be grateful for an honest review.",
+            "hero_img": "reviews",
+            "card_text": "Read reviews on Google, Facebook and Yelp.",
+            "icon": "star",
+            "layout": "reviews",
+            "sections": [
+                {
+                    "h2": "Had a good experience? Leave a review",
+                    "body": "<p>Reviews take just a minute and make a big difference for a family business. Tell others what we did, how the project went, and how your roof is holding up.</p>"
+                }
+            ],
+            "faqs": [
+                [
+                    "Where can I read Integrity Roofing reviews?",
+                    "On Google, Facebook and Yelp — use the links on this page."
+                ],
+                [
+                    "How do I leave a review?",
+                    "Choose Google, Facebook or Yelp above and follow the prompts. A few sentences about your project is plenty."
+                ],
+                [
+                    "What if I had a problem with my project?",
+                    "Please call us at 602-548-3770 during business hours so we can make it right."
+                ]
+            ]
+        },
+        "location": {
+            "title": "Location & Service Area | Integrity Roofing, Gilbert AZ",
+            "desc": "Integrity Roofing's office is at 16308 E Fairview St, Gilbert, AZ 85295, open Mon–Fri 7am–5pm. Serving Gilbert, Mesa, Chandler, Phoenix and the whole Valley.",
+            "crumb": "Location",
+            "parent": "/about-us/",
+            "eyebrow": "Location & service area",
+            "h1": "Our Gilbert office and service area",
+            "lead": "Integrity Roofing operates from one office in Gilbert, Arizona, and serves homes and businesses throughout the Phoenix Valley.",
+            "answer": "Integrity Roofing is located at 16308 E Fairview St, Gilbert, AZ 85295. Office hours are Monday through Friday, 7:00 am to 5:00 pm. We serve Gilbert, Mesa, Chandler, Queen Creek, San Tan Valley, Tempe, Phoenix, Scottsdale and the surrounding Valley.",
+            "hero_img": "location",
+            "card_text": "Our Gilbert office, hours and service area.",
+            "icon": "pin",
+            "layout": "location",
+            "page_type": "ContactPage",
+            "show_areas": true,
+            "faqs": [
+                [
+                    "Where is Integrity Roofing located?",
+                    "16308 E Fairview St, Gilbert, AZ 85295."
+                ],
+                [
+                    "What are your hours?",
+                    "Monday through Friday, 7:00 am to 5:00 pm. Closed Saturday and Sunday."
+                ],
+                [
+                    "Do you have more than one location?",
+                    "No — we operate from a single office in Gilbert and serve the entire Valley from there."
+                ],
+                [
+                    "What cities do you serve?",
+                    "Gilbert, Mesa, Chandler, Queen Creek, San Tan Valley, Tempe, Phoenix, Scottsdale, Apache Junction, Ahwatukee, Glendale, Peoria and nearby communities."
+                ]
+            ]
+        },
+        "contact-us": {
+            "title": "Contact Integrity Roofing | Gilbert, AZ | 602-548-3770",
+            "desc": "Contact Integrity Roofing in Gilbert, AZ. Call 602-548-3770 (Mon–Fri 7am–5pm), email us, or request an estimate online for roof repair, inspection or replacement.",
+            "crumb": "Contact Us",
+            "eyebrow": "Contact us",
+            "h1": "Contact Integrity Roofing",
+            "lead": "Call the office, send an email, or fill out the form below. We respond during business hours, Monday through Friday, 7 am to 5 pm.",
+            "answer": "Call Integrity Roofing at 602-548-3770 (Monday–Friday, 7:00 am–5:00 pm), email office.integrityroofing@gmail.com, or use the form on this page. Our office is at 16308 E Fairview St, Gilbert, AZ 85295.",
+            "hero_img": "",
+            "card_text": "Call, email or send us a message.",
+            "icon": "phone",
+            "layout": "contact",
+            "page_type": "ContactPage",
+            "faqs": [
+                [
+                    "What's the best way to reach Integrity Roofing?",
+                    "Call 602-548-3770 during business hours (Mon–Fri, 7 am–5 pm). You can also email office.integrityroofing@gmail.com or use the form on this page."
+                ],
+                [
+                    "Do you have an after-hours phone line?",
+                    "No. Our office is open Monday through Friday, 7:00 am to 5:00 pm. Messages and online requests received after hours are answered the next business day."
+                ],
+                [
+                    "How quickly will you respond to my request?",
+                    "We respond to calls, emails and form requests during business hours."
+                ],
+                [
+                    "What information should I include?",
+                    "Your name, phone number, property address, the type of roof if you know it, and what you're seeing — leaks, broken tiles, bubbling, or storm damage."
+                ]
+            ]
+        },
+        "get-a-quote": {
+            "title": "Request a Roofing Estimate | Integrity Roofing | Gilbert, AZ",
+            "desc": "Request a roofing estimate from Integrity Roofing for repair, inspection, coating or roof replacement in Gilbert, Mesa, Chandler, Phoenix and across the Valley.",
+            "crumb": "Request an Estimate",
+            "eyebrow": "Estimates",
+            "h1": "Request an estimate",
+            "lead": "Tell us a little about your roof and we'll call you during business hours to schedule a time to take a look.",
+            "answer": "To request a roofing estimate, fill out the form on this page or call 602-548-3770 (Mon–Fri, 7 am–5 pm). We'll schedule a time to inspect your roof and then provide a clear estimate for the recommended work.",
+            "hero_img": "",
+            "card_text": "Tell us about your roof.",
+            "icon": "clipboard",
+            "layout": "quote",
+            "page_type": "ContactPage",
+            "steps": [
+                [
+                    "Send your request",
+                    "Use the form or call the office."
+                ],
+                [
+                    "We schedule a visit",
+                    "Our office calls to set a time that works for you."
+                ],
+                [
+                    "Roof inspection",
+                    "We inspect the roof and photograph what we find."
+                ],
+                [
+                    "Your estimate",
+                    "You receive a clear estimate with our recommendation."
+                ]
+            ],
+            "steps_title": "What happens next",
+            "faqs": [
+                [
+                    "What does an estimate include?",
+                    "A description of what we found, the recommended work, materials, and the price for the project."
+                ],
+                [
+                    "How soon can you come out?",
+                    "Scheduling depends on the season and demand. Our office will give you the next available time when we call."
+                ],
+                [
+                    "Do I need to be home for the estimate?",
+                    "It's helpful so we can discuss what we find, but we can arrange the details when we call you."
+                ],
+                [
+                    "Do you offer financing?",
+                    "Yes, financing options are available. Ask during your estimate."
+                ]
+            ]
+        },
+        "gallery": {
+            "title": "Roofing Project Gallery | Integrity Roofing | Gilbert, AZ",
+            "desc": "Photos of tile, shingle, foam and flat roofing projects by Integrity Roofing across Gilbert, Mesa, Chandler, Phoenix and the Valley.",
+            "crumb": "Gallery",
+            "eyebrow": "Gallery",
+            "h1": "Our work",
+            "lead": "A look at roofing projects our crew has completed across the Phoenix Valley — tile, shingle, foam and flat roofs, before and after.",
+            "answer": "These photos show real Integrity Roofing projects in Gilbert, Mesa, Chandler, Phoenix and nearby communities. Select any photo to view it larger.",
+            "hero_img": "",
+            "card_img": "gallery_1",
+            "card_text": "Photos of completed roofing projects.",
+            "icon": "image",
+            "layout": "gallery",
+            "page_type": "CollectionPage",
+            "gallery": [
+                "gallery_1",
+                "gallery_2",
+                "gallery_3",
+                "gallery_4",
+                "gallery_5",
+                "gallery_6",
+                "gallery_7",
+                "gallery_8",
+                "gallery_9",
+                "gallery_10",
+                "gallery_11",
+                "gallery_12",
+                "gallery_13",
+                "gallery_14",
+                "gallery_15",
+                "gallery_16",
+                "gallery_17",
+                "gallery_18",
+                "gallery_19",
+                "gallery_20",
+                "gallery_21",
+                "gallery_22",
+                "gallery_23",
+                "gallery_24",
+                "gallery_25",
+                "gallery_26",
+                "gallery_27",
+                "gallery_28",
+                "gallery_29",
+                "gallery_30",
+                "gallery_31"
+            ],
+            "cards": [
+                "media",
+                "roofing-services",
+                "roof-types"
+            ]
+        },
+        "media": {
+            "title": "Videos & Media | Integrity Roofing",
+            "desc": "Watch Integrity Roofing at work — job-site videos from tile roofing projects across the Phoenix Valley.",
+            "crumb": "Media",
+            "eyebrow": "Media",
+            "h1": "Integrity Roofing in action",
+            "lead": "Videos and media from our job sites around the Valley.",
+            "hero_img": "",
+            "card_img": "who_2",
+            "icon": "play",
+            "card_text": "Watch our crew at work.",
+            "layout": "media",
+            "page_type": "CollectionPage",
+            "videos": [
+                {
+                    "mp4": "/wp-content/uploads/2023/12/INTEGRITY-ROOFING-LEAKY-ROOF-FIX-hd.mp4",
+                    "title": "Fixing a leaky roof",
+                    "text": "Our crew tracks down and repairs a roof leak."
+                },
+                {
+                    "mp4": "/wp-content/uploads/2023/12/DID-YOU-KNOW-YOU.mp4",
+                    "title": "Did you know?",
+                    "text": "A quick roofing tip from our team."
+                },
+                {
+                    "mp4": "/wp-content/uploads/2023/12/CALL-602-548-3770.mp4",
+                    "title": "Call Integrity Roofing",
+                    "text": "602-548-3770, Monday–Friday 7am–5pm."
+                },
+                {
+                    "url": "https://www.facebook.com/integrityroofingaz/videos/1077137019348067/",
+                    "title": "On the job",
+                    "text": "From our Facebook page."
+                },
+                {
+                    "url": "https://www.facebook.com/integrityroofingaz/videos/2627221407576631/",
+                    "title": "On the job",
+                    "text": "From our Facebook page."
+                },
+                {
+                    "url": "https://www.facebook.com/integrityroofingaz/videos/980057175773151/",
+                    "title": "On the job",
+                    "text": "From our Facebook page."
+                },
+                {
+                    "url": "https://www.facebook.com/integrityroofingaz/videos/1181103978927902/",
+                    "title": "On the job",
+                    "text": "From our Facebook page."
+                },
+                {
+                    "mp4": "/wp-content/uploads/2023/12/xmas-trivia.mp4",
+                    "title": "Holiday trivia",
+                    "text": "A seasonal video from our team."
+                }
+            ],
+            "cards": [
+                "gallery",
+                "blog-slug",
+                "reviews"
+            ]
+        },
+        "blog-slug": {
+            "title": "Roofing Blog: Tips for Arizona Homeowners | Integrity Roofing",
+            "desc": "Roofing tips, monsoon prep, maintenance advice and roof replacement guides for Arizona homeowners from Integrity Roofing in Gilbert, AZ.",
+            "crumb": "Blog",
+            "eyebrow": "Blog",
+            "h1": "Roofing tips for Arizona homeowners",
+            "lead": "Practical advice on roof maintenance, monsoon season, inspections and replacement — from a Gilbert roofing contractor.",
+            "icon": "file",
+            "card_text": "Roofing tips and advice.",
+            "layout": "blog",
+            "page_type": "CollectionPage"
+        },
+        "privacy-policy": {
+            "title": "Privacy Policy | Integrity Roofing",
+            "desc": "How Integrity Roofing collects, uses and protects information submitted through integrityroofingaz.com.",
+            "crumb": "Privacy Policy",
+            "eyebrow": "Legal",
+            "h1": "Privacy Policy",
+            "lead": "How we collect, use and protect the information you share with us through this website.",
+            "layout": "legal"
+        }
+    }
+}

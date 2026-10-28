@@ -1,0 +1,27 @@
+name: Import from WordPress
+# Copies blog posts, the privacy policy, photos and videos from the WordPress site into this repo.
+# Runs once automatically when this file or the import script changes; run again any time from the Actions tab.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/import-wordpress.mjs', '.github/workflows/import-wordpress.yml']
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm install --no-save sanitize-html@2
+      - run: node scripts/import-wordpress.mjs
+      - name: Commit imported content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add content public
+          git diff --cached --quiet && echo "Nothing new to import" && exit 0
+          git commit -m "Import blog posts, privacy policy and media from WordPress"
+          git push
