@@ -401,3 +401,4 @@ p { margin: 0 0 1em; }
 .review-link span { color: var(--muted); font-size: 16px; }
 .review-link em { font-style: normal; font-weight: 700; color: var(--saguaro-2); margin-top: 8px; }
 @media (max-width: 480px) { .brand__sub { display: none; } .brand__name { white-space: nowrap; font-size: 20px; } }
+@media (max-width: 480px) { .header .wrap { gap: 10px; } .menu-btn { padding: 0 12px; } .brand { gap: 10px; } .brand__mark { width: 40px; height: 40px; } .brand__mark img { width: 34px; height: 34px; } }

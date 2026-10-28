@@ -83,6 +83,8 @@ await fs.writeFile(path.join(ROOT, 'content/posts.json'), JSON.stringify(posts, 
 try {
   const { data } = await fromAnySource(async (base) => (await getJson(`${base}/wp-json/wp/v2/pages?slug=privacy-policy`)).json);
   const html = data[0] ? clean(data[0].content.rendered) : '';
+  // WordPress's sample policy ("Suggested text: …") is demo content; keep the site's own policy instead.
+  if (!html || /Suggested text/i.test(html)) throw new Error('WordPress has only the sample policy');
   await fs.writeFile(path.join(ROOT, 'content/privacy.json'), JSON.stringify({ html }));
   console.log(`Privacy policy: ${html.length} characters`);
 } catch (e) { console.warn(`Privacy policy not imported: ${e.message}`); }
