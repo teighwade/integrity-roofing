@@ -1,0 +1,879 @@
+{"pages": {
+"roof-types": {
+ "title": "Arizona Roof Types: Tile, Shingle, Foam & More | Integrity Roofing",
+ "desc": "Compare tile, asphalt shingle, spray foam, elastomeric, flat and sloped roofs for Arizona homes and businesses. Lifespans, pros and cons from a Gilbert roofer.",
+ "crumb": "Roof Types",
+ "eyebrow": "Roof types",
+ "h1": "Roof types we install, repair and replace",
+ "lead": "Every roof type behaves differently in Arizona heat. Here's a plain-English guide to the roofs we work on and how to choose the right one.",
+ "answer": "The most common Arizona roof types are concrete or clay tile (very long-lasting and well suited to heat), asphalt shingles (cost-effective), spray polyurethane foam (seamless and insulating for flat roofs), elastomeric coatings (reflective protection for flat roofs), and modified bitumen or other flat-roof systems. Your roof's slope decides which ones are options, and Integrity Roofing works on all of them.",
+ "hero_img": "roof_types",
+ "card_text": "Compare the roof systems we work on.",
+ "icon": "layers",
+ "page_type": "CollectionPage",
+ "cards": [
+  "tile-roofs",
+  "asphalt-shingles",
+  "foam-roofing",
+  "elastomeric-roofing-coating",
+  "flat-roofing",
+  "sloped-roofs"
+ ],
+ "cards_eyebrow": "Roof types",
+ "cards_title": "Explore each roof type",
+ "table": {
+  "title": "Arizona roof types at a glance",
+  "note": "General guidance only. The right choice depends on your building, budget and HOA rules.",
+  "head": [
+   "Roof type",
+   "Best for",
+   "Typical lifespan",
+   "Heat performance"
+  ],
+  "rows": [
+   [
+    "Concrete / clay tile",
+    "Sloped residential roofs",
+    "Tiles 50+ yrs; underlayment ~20–25 yrs",
+    "Excellent: air space under tiles"
+   ],
+   [
+    "Asphalt shingles",
+    "Budget-friendly sloped roofs",
+    "15–25 years",
+    "Good; lighter colors help"
+   ],
+   [
+    "Spray foam (SPF)",
+    "Flat & low-slope roofs",
+    "20+ years with recoating",
+    "Excellent: insulating & reflective"
+   ],
+   [
+    "Elastomeric coating",
+    "Protecting existing flat roofs",
+    "Recoat every several years",
+    "Excellent: highly reflective"
+   ],
+   [
+    "Flat / modified bitumen",
+    "Flat commercial & additions",
+    "10–20 years",
+    "Good with reflective cap sheet/coating"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "h2": "How to choose the right roof",
+   "body": "<p>Start with your roof's slope. Tile and shingle need a sloped roof, while foam, coatings and modified bitumen are made for flat and low-slope areas. Then weigh your budget, how long you plan to stay, the look you want, and your HOA's rules.</p><p>Weight matters too. Tile is far heavier than shingles, so a home framed for shingles may need an engineering review before it can carry tile. We'll walk you through the options that fit your home and give you a clear estimate for each.</p>",
+   "img": "roof_types_2"
+  },
+  {
+   "h2": "Sloped roof options: tile and shingle",
+   "body": "<p><a href=\"/tile-roofs/\">Concrete and clay tile</a> is the most familiar roof in the Valley. The tiles shade the roof and shed most of the water, while the underlayment beneath them does the real waterproofing. Tiles can outlast several underlayment cycles, which is why many tile roofs get a re-felt rather than a full replacement.</p><p><a href=\"/asphalt-shingles/\">Asphalt shingles</a> cost less up front and go on quickly. They wear faster in Arizona sun than in cooler places, so color choice and attic ventilation make a real difference in how long they last. See our <a href=\"/sloped-roofs/\">sloped roofs</a> page for pitch, valleys and ventilation basics.</p>"
+  },
+  {
+   "h2": "Flat and low-slope options: foam, coatings and modified bitumen",
+   "body": "<p>Flat roofs are common on commercial buildings, patios, garages, additions and Pueblo-style homes. <a href=\"/foam-roofing/\">Spray foam</a> goes on as a liquid, expands into one seamless layer, adds insulation, and can be tapered to help water drain. It needs a protective coating that is renewed over time.</p><p><a href=\"/elastomeric-roofing-coating/\">Elastomeric coatings</a> add a reflective, waterproof skin to a sound flat roof. Modified bitumen is a rolled roofing with a cap sheet that resists foot traffic. Our <a href=\"/flat-roofing/\">flat roofing</a> page covers drainage, parapets and scuppers in more detail.</p>"
+  },
+  {
+   "h2": "What Arizona heat does to every roof",
+   "body": "<p>Roof surfaces in the Valley can get far hotter than the air temperature on a summer afternoon, then cool off sharply at night. That daily expansion and contraction, plus intense UV, is what ages roofs here.</p>",
+   "bullets": [
+    "Tile underlayment dries out and turns brittle, often around 20–25 years",
+    "Shingles lose granules, curl and crack as the asphalt hardens",
+    "Foam and flat-roof coatings chalk and thin, exposing the layer beneath",
+    "Sealants around vents, skylights and flashing shrink and pull away"
+   ]
+  },
+  {
+   "h2": "How each roof handles monsoon season",
+   "body": "<p>Monsoon season runs June 15–September 30 and brings sudden wind, dust and heavy rain. Sloped roofs shed water fast, but wind can lift shingles or shift loose tiles. Flat roofs depend on clear drains and scuppers; a clogged scupper during a downpour can send water over flashing that was never meant to sit underwater.</p><p>A quick look before the season starts, and again after a big storm, catches most problems early. If you see damage, our <a href=\"/damaged-roof/\">storm damage</a> page explains what to check.</p>"
+  },
+  {
+   "h2": "Energy, reflectivity and solar",
+   "body": "<p>A cool roof reflects more sunlight and absorbs less heat. White foam coatings and elastomeric coatings are among the most reflective surfaces you can put on a roof. Light-colored tile benefits from the air space under the tiles, and lighter shingles run cooler than dark ones.</p><p>Solar panels can go on every roof type we work on, but each one needs its own mounting and flashing approach. If your roof is near the end of its life, it usually makes sense to replace or re-felt it before panels go on, so they don't have to come off again soon after.</p>"
+  }
+ ],
+ "faqs": [
+  [
+   "What is the best roof type for Arizona heat?",
+   "Tile and spray foam are top performers in Arizona heat. Tile benefits from the air space beneath it, and foam insulates and carries a reflective coating. The best choice depends on your roof's slope and budget."
+  ],
+  [
+   "What is the longest-lasting roof in Arizona?",
+   "Concrete and clay tiles can last 50 years or more. Keep in mind that the underlayment beneath tile typically needs replacing sooner, often after about 20–25 years."
+  ],
+  [
+   "What roof is best for a flat roof in Arizona?",
+   "Spray polyurethane foam is a popular choice for flat roofs in Arizona because it's seamless, insulating and can be recoated to extend its life. Modified bitumen and coated systems are also common."
+  ],
+  [
+   "Can I switch from shingles to tile?",
+   "Sometimes. Tile is much heavier than shingles, so the roof structure must be able to support it. An engineering review may be needed. We can tell you what's involved."
+  ],
+  [
+   "Are shingles a good choice in Arizona?",
+   "Yes, for many homes. Asphalt shingles are cost-effective and come in many colors, though Arizona heat and UV tend to shorten their life compared with cooler climates. Lighter colors and good attic ventilation help."
+  ],
+  [
+   "Which roof types does Integrity Roofing work on?",
+   "We work on concrete and clay tile, asphalt shingle, spray foam, elastomeric-coated, modified bitumen and other flat roofs, on both sloped and flat roofs, for homes and businesses."
+  ],
+  [
+   "How do I tell what type of roof I have?",
+   "Look from the street or a ladder at the eaves. Tile is thick and shaped, often curved or flat with visible overlaps. Shingles are thin, flat and gritty. Flat roofs are usually hidden behind parapet walls and covered in foam, a coating or a rolled cap sheet."
+  ],
+  [
+   "Can a home have more than one roof type?",
+   "Yes, and it's common in the Valley. Many tile or shingle homes have a flat section over a patio, addition or entry that uses foam or a coated system. Each section needs care suited to its material."
+  ],
+  [
+   "How much does each roof type cost?",
+   "Every roof is different, and price depends on size, pitch, access, material and the condition of the deck underneath. Our Roofing Cost Guide at /resources/roofing-cost-guide/ explains what drives cost for each type, and we give a written estimate after looking at your roof."
+  ],
+  [
+   "Which roof type holds up best in monsoon storms?",
+   "A well-installed tile or shingle roof sheds water quickly, and a seamless foam roof has no seams for wind-driven rain to get into. Installation quality, flashing and clear drainage matter more than the material alone."
+  ],
+  [
+   "Are cool roofs worth it in Arizona?",
+   "Reflective roofs absorb less heat, which can lower cooling demand and reduce wear on the roof itself. Actual savings depend on your insulation, ductwork and HVAC system, so treat energy savings as a benefit rather than a guarantee."
+  ],
+  [
+   "Can solar panels go on any roof type?",
+   "Yes, with the right mounting and flashing for that material. It's best to make sure the roof has plenty of life left before panels are installed, since removing and resetting them later adds cost."
+  ],
+  [
+   "Does my HOA control what roof I can install?",
+   "Many Arizona HOAs set rules on roof material, color and profile, especially for tile. Check your HOA's guidelines and get any required approval before work begins."
+  ],
+  [
+   "How do I get an estimate for my roof?",
+   "Call us at 602-548-3770, Monday to Friday, 7 am to 5 pm. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+},
+"tile-roofs": {
+ "card_img": "tile_card",
+ "title": "Tile Roof Repair & Re-Felt in Gilbert, AZ | Integrity Roofing",
+ "desc": "Concrete and clay tile roof repair, broken tile replacement, underlayment replacement (re-felt) and new tile roofs in Gilbert, Mesa, Chandler & Phoenix.",
+ "crumb": "Tile Roofs",
+ "parent": "/roof-types/",
+ "eyebrow": "Tile roofs",
+ "h1": "Tile roof repair, underlayment and replacement",
+ "lead": "Concrete and clay tile is the classic Arizona roof: good-looking, durable and well suited to the heat. The key to a long life is what's underneath the tiles.",
+ "answer": "Tile roofs are very durable, and the tiles themselves often last 50 years or more, but the underlayment beneath them is the real waterproofing layer and typically wears out after about 20–25 years in Arizona. Integrity Roofing repairs broken tiles, replaces underlayment (re-felt) and installs new tile roofs.",
+ "hero_img": "tile",
+ "card_text": "Concrete & clay tile repair, re-felt and replacement.",
+ "service": "Tile Roofing",
+ "service_type": "Tile roof installation and repair",
+ "sections": [
+  {
+   "h2": "The tile isn't the waterproofing; the underlayment is",
+   "body": "<p>Tiles shed most of the water and shade the roof, but the underlayment beneath them is what keeps water out of your home. Arizona heat dries it out over time until it becomes brittle and cracks. When that happens, leaks begin even if the tiles look perfect.</p><p>A tile underlayment replacement (often called a re-felt or lift and relay) removes the tiles, installs new underlayment, and reinstalls your tiles, replacing any broken ones.</p>",
+   "img": "tile_2"
+  },
+  {
+   "h2": "Tile roof services",
+   "body": "<p>We work on concrete and clay tile in all common profiles: flat, S-tile and barrel.</p>",
+   "bullets": [
+    "Broken and slipped tile replacement",
+    "Leak repair and partial underlayment repair",
+    "Full underlayment replacement (re-felt)",
+    "Flashing, valley and ridge repair",
+    "New tile roof installation",
+    "Tile roof inspections"
+   ],
+   "img": "tile_3"
+  },
+  {
+   "h2": "Concrete vs clay tile",
+   "body": "<p>Concrete tile is made from cement and sand, shaped and colored, and is the most common tile on Valley homes. It's heavier than clay and usually less expensive. Its surface color can fade or wear over the decades, though the tile itself stays strong.</p><p>Clay tile is fired in a kiln, so its color goes all the way through and doesn't fade. It's lighter than concrete but can be more brittle under foot. Both handle heat well, and both rely on good underlayment to keep water out.</p>"
+  },
+  {
+   "h2": "Why underlayment fails first in Arizona",
+   "body": "<p>On a summer afternoon the space under the tiles gets extremely hot, and the underlayment bakes there day after day. Older felt underlayments lose their oils, shrink and crack, especially along the eaves, in valleys and around penetrations where water runs most. Many Valley tile roofs reach this point around 20–25 years.</p><p>Newer underlayments, including heavier felts, synthetic sheets and self-adhered membranes, are built to resist heat better. The right choice depends on your roof's pitch, tile profile and budget, and we'll explain the options during your estimate.</p>"
+  },
+  {
+   "h2": "Re-felt or new tile roof?",
+   "body": "<p>If most of your tiles are sound, a re-felt is usually the smart move. You keep the tiles you already paid for, get new underlayment and flashing, and replace only the broken pieces. A full new tile roof makes more sense when tiles are widely cracked, badly worn, discontinued, or when you want a different look.</p><p>For pricing factors on both, see our <a href=\"/resources/roofing-cost-guide/\">Roofing Cost Guide</a>. Every roof is different, so a look at yours is the only way to get a real number.</p>"
+  },
+  {
+   "h2": "Signs your tile roof needs attention",
+   "body": "<p>Many tile problems are hidden, so watch for these clues from the ground and inside the house.</p>",
+   "bullets": [
+    "Cracked, slipped or missing tiles, especially after monsoon wind",
+    "Water stains on ceilings or in the attic",
+    "Brittle, torn underlayment visible at the eaves",
+    "Debris piled in valleys or behind chimneys",
+    "Mortar at ridges or hips that is cracked or falling out",
+    "A roof that is 20 years old or more and has never had a re-felt"
+   ]
+  },
+  {
+   "h2": "Monsoon storms, solar and HOA rules",
+   "body": "<p>Strong monsoon gusts can lift or shift tiles, and a single slipped tile can let water reach tired underlayment. After a storm, look for tiles out of line or pieces in the yard, and see our <a href=\"/damaged-roof/\">storm damage</a> page.</p><p>Solar on tile takes care: tiles are removed or cut at each mount, and the mounts are flashed. If the underlayment is aging, re-felt first. Many HOAs specify tile color and profile, so check with yours before replacing tile.</p>"
+  }
+ ],
+ "cards": [
+  "roof-replacement-services",
+  "repairs-and-maintenance",
+  "sloped-roofs"
+ ],
+ "faqs": [
+  [
+   "How long does a tile roof last in Arizona?",
+   "Concrete and clay tiles can last 50 years or more. The underlayment beneath the tiles usually needs replacement after about 20–25 years, depending on the material and exposure."
+  ],
+  [
+   "Why is my tile roof leaking if the tiles look fine?",
+   "The underlayment under the tiles is the main waterproofing layer. When it becomes brittle or torn from age and heat, water gets through even if the tiles look perfect."
+  ],
+  [
+   "Can broken roof tiles be replaced individually?",
+   "Yes. Individual cracked or broken tiles can be replaced. We try to match the profile and color as closely as possible."
+  ],
+  [
+   "Can I walk on my tile roof?",
+   "It's best not to. Tiles can crack under foot pressure if you step in the wrong place. Let a roofer handle access."
+  ],
+  [
+   "Can my existing tiles be reused during a re-felt?",
+   "In most cases, yes. Intact tiles are removed, stacked, and reinstalled over the new underlayment. Broken tiles are replaced."
+  ],
+  [
+   "What is the difference between concrete and clay tile?",
+   "Clay tile is fired clay with color that won't fade; concrete tile is heavier and usually less expensive. Both perform very well in Arizona."
+  ],
+  [
+   "What is a lift and relay?",
+   "It's another name for a tile underlayment replacement or re-felt. The tiles are lifted off, the old underlayment is removed, new underlayment and flashing go on, and the tiles are relaid."
+  ],
+  [
+   "Is a re-felt worth it compared with a new tile roof?",
+   "For most homes with sound tiles, yes. A re-felt fixes the part that actually wears out while keeping your existing tiles. A new roof is the better choice when many tiles are damaged or you want a different style."
+  ],
+  [
+   "What if my tiles are discontinued and can't be matched?",
+   "We look for the closest available match in profile and color. A common approach is to use salvaged original tiles on the most visible slopes and put closer-match replacements where they're less noticeable."
+  ],
+  [
+   "Why do roof tiles slip out of place?",
+   "Tiles can slide when fasteners loosen, battens deteriorate, or wind and foot traffic shift them. A slipped tile exposes the underlayment to direct sun and rain, so it's worth fixing promptly."
+  ],
+  [
+   "How long does a tile underlayment replacement take?",
+   "It depends on the size, pitch and complexity of the roof. We'll give you an expected schedule with your estimate and plan the work around the weather, especially during monsoon season."
+  ],
+  [
+   "Can solar panels be installed on a tile roof?",
+   "Yes. Mounts are attached through the roof and flashed, with tiles removed or cut around them. If your underlayment is near the end of its life, a re-felt before solar avoids removing panels later."
+  ],
+  [
+   "How much does tile roof work cost?",
+   "Cost depends on roof size, pitch, tile type, the underlayment chosen and how many tiles need replacing. See our Roofing Cost Guide at /resources/roofing-cost-guide/, and call 602-548-3770 for an estimate. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+},
+"asphalt-shingles": {
+ "card_img": "shingle_card",
+ "title": "Asphalt Shingle Roofing, Gilbert AZ | Integrity Roofing",
+ "desc": "Asphalt shingle roof repair and replacement in Gilbert, Mesa, Chandler & Phoenix. Wind damage, granule loss and full re-roofs from a family-owned Arizona roofer.",
+ "crumb": "Asphalt Shingles",
+ "parent": "/roof-types/",
+ "eyebrow": "Asphalt shingles",
+ "h1": "Asphalt shingle roof repair and replacement",
+ "lead": "Shingles are a cost-effective, good-looking roof for many Valley homes. We repair wind and heat damage and install new shingle roofs built to handle the Arizona sun.",
+ "answer": "Asphalt shingle roofs typically last about 15–25 years in Arizona, where heat and UV wear them faster than in cooler climates. Signs of a failing shingle roof include curling or cracked shingles, bald spots, heavy granule loss in gutters, and wind-lifted or missing tabs.",
+ "hero_img": "shingle",
+ "card_text": "Repair and replacement for shingle roofs.",
+ "service": "Asphalt Shingle Roofing",
+ "service_type": "Asphalt shingle roof installation and repair",
+ "sections": [
+  {
+   "h2": "Shingle repairs",
+   "body": "<p>Monsoon winds can lift and tear shingles, and summer heat can make them brittle. We replace damaged shingles, reseal lifted ones, and repair flashing and vents so water stays out.</p>",
+   "bullets": [
+    "Wind-damaged and missing shingle replacement",
+    "Flashing and vent boot repair",
+    "Ridge cap repair",
+    "Leak detection and repair"
+   ],
+   "img": "shingle_2"
+  },
+  {
+   "h2": "Shingle roof replacement",
+   "body": "<p>When your shingles are worn out, we tear the old roof off, inspect and repair the deck, and install a new shingle system with new underlayment, flashing and ridge caps. Lighter colors and good attic ventilation help shingles last longer in Arizona.</p>",
+   "img": "shingle_3"
+  },
+  {
+   "h2": "How an asphalt shingle works",
+   "body": "<p>A modern shingle is a fiberglass mat soaked in asphalt and topped with ceramic-coated mineral granules. The asphalt sheds water, and the granules shield the asphalt from UV and give the roof its color. A strip of sealant on each shingle bonds it to the one below once the sun warms it.</p><p>Underneath, an underlayment adds a second line of defense, and flashing seals the edges, valleys, walls and vents. A shingle roof is only as good as those details.</p>"
+  },
+  {
+   "h2": "Heat, UV and granule loss",
+   "body": "<p>Arizona sun slowly cooks the oils out of the asphalt. As it hardens, shingles get brittle, curl at the edges and crack. Granules loosen and wash into gutters, and once bare asphalt is exposed, UV speeds the damage even more.</p><p>That's why shingle roofs here often fall toward the shorter end of their rated life. A balanced attic ventilation system and a lighter color both help slow the process.</p>"
+  },
+  {
+   "h2": "Ventilation and attic heat",
+   "body": "<p>A hot, poorly vented attic heats shingles from below while the sun heats them from above. Good ventilation pairs intake vents low on the roof, usually at the soffits, with exhaust vents near the ridge, so hot air keeps moving out.</p><p>During a replacement we check that intake and exhaust are balanced and that vents aren't blocked by insulation. It's one of the simplest ways to help a new shingle roof last.</p>"
+  },
+  {
+   "h2": "Three-tab vs architectural shingles",
+   "body": "<p>Three-tab shingles are a single flat layer with a uniform pattern. Architectural (dimensional) shingles are made of laminated layers, so they're thicker, have a more textured look and generally hold up better to wind. Most new shingle roofs today use architectural shingles, and many HOAs prefer or require them.</p>"
+  },
+  {
+   "h2": "Shingle maintenance checklist",
+   "body": "<p>A few simple habits help a shingle roof reach its full life.</p>",
+   "bullets": [
+    "Check from the ground for lifted, creased or missing shingles after monsoon storms",
+    "Look for granules piling up at downspouts",
+    "Keep gutters and valleys clear of leaves and debris",
+    "Trim tree limbs that rub or drop debris on the roof",
+    "Watch ceilings and the attic for stains after heavy rain",
+    "Schedule a <a href=\"/roof-inspections/\">roof inspection</a> as the roof passes 15 years"
+   ]
+  }
+ ],
+ "cards": [
+  "roof-replacement-services",
+  "tile-roofs",
+  "sloped-roofs"
+ ],
+ "cards_title": "Compare other roof types",
+ "faqs": [
+  [
+   "How long do asphalt shingles last in Arizona?",
+   "Typically about 15–25 years, depending on the shingle quality, color, attic ventilation and exposure. Heat and UV shorten shingle life compared with milder climates."
+  ],
+  [
+   "What are signs my shingle roof needs replacing?",
+   "Curling, cracking or brittle shingles, bald spots, granules piling up in gutters, multiple leaks, and a roof that's near the end of its expected life."
+  ],
+  [
+   "Can a few shingles be replaced after a storm?",
+   "Yes. Wind damage to a handful of shingles is usually a simple repair, as long as the surrounding shingles are still in good condition."
+  ],
+  [
+   "Are dark shingles bad in Arizona?",
+   "Darker shingles absorb more heat, which can raise attic temperatures and speed up aging. Lighter colors reflect more sunlight. Many homeowners balance appearance with heat performance."
+  ],
+  [
+   "Why are there granules in my gutters?",
+   "Some granule loss is normal on new shingles. Heavy, ongoing loss on an older roof means the shingles are wearing out and losing their UV protection."
+  ],
+  [
+   "Can new shingles go over my old ones?",
+   "Building codes generally allow a limited number of layers, but we recommend a full tear-off. Removing the old roof lets us inspect and repair the deck, replace the underlayment and flashing, and avoid trapping heat and extra weight."
+  ],
+  [
+   "Should I choose three-tab or architectural shingles?",
+   "Architectural shingles are thicker, more wind-resistant and have a more textured look, so they're the usual choice today. Three-tab shingles are thinner and less common on new roofs."
+  ],
+  [
+   "How does monsoon wind damage shingles?",
+   "Strong gusts can break the sealant bond and fold shingles back, leaving a crease or tearing them off. Creased shingles may look flat afterward but no longer seal properly, so they should be checked and replaced."
+  ],
+  [
+   "Can a shingle roof be replaced with tile?",
+   "Sometimes. Tile is much heavier, so the framing must be able to carry it, and an engineering review may be required. We can explain what's involved for your home."
+  ],
+  [
+   "How much does a shingle roof cost?",
+   "Every roof is different. Size, pitch, shingle type, layers to remove and deck repairs all affect the price. Our Roofing Cost Guide at /resources/roofing-cost-guide/ explains the main factors."
+  ],
+  [
+   "Can solar panels go on a shingle roof?",
+   "Yes. Shingle roofs are one of the simpler roofs for solar mounts, which are flashed into the shingles. If the roof is past its middle years, consider replacing it before panels go on."
+  ],
+  [
+   "How do I schedule a shingle repair or estimate?",
+   "Call 602-548-3770, Monday to Friday, 7 am to 5 pm. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+},
+"foam-roofing": {
+ "card_img": "foam_card",
+ "title": "Foam Roofing (SPF) in Gilbert & Phoenix, AZ | Integrity Roofing",
+ "desc": "Spray polyurethane foam roof installation, repair and recoating for flat roofs in Gilbert, Mesa, Chandler & Phoenix. Seamless, insulating and built for Arizona heat.",
+ "crumb": "Foam Roofing",
+ "parent": "/roof-types/",
+ "eyebrow": "Foam roofing",
+ "h1": "Spray foam roofing for flat roofs",
+ "lead": "Spray polyurethane foam (SPF) is one of the most popular flat-roof systems in Arizona: seamless, lightweight, insulating, and renewable with a fresh coating.",
+ "answer": "A foam roof is spray polyurethane foam applied as a liquid that expands into a seamless, insulating layer, then protected with a UV-resistant coating. With regular recoating, a foam roof can last 20+ years. The coating is what wears, and when bare foam is exposed, it's time to recoat.",
+ "hero_img": "foam",
+ "card_text": "Seamless, insulating flat roofs: install, repair, recoat.",
+ "service": "Spray Foam Roofing",
+ "service_type": "Spray polyurethane foam roofing",
+ "sections": [
+  {
+   "h2": "Why foam works in Arizona",
+   "body": "<p>Foam is sprayed on as a liquid and expands into one continuous layer with no seams, and seams are where most flat roofs leak. It adds insulation to the roof, and its reflective coating helps keep heat out of the building.</p>",
+   "bullets": [
+    "Seamless, monolithic surface",
+    "Adds insulation value",
+    "Lightweight and often applied over existing roofs",
+    "Can be shaped to improve drainage",
+    "Renewable: recoat instead of replace"
+   ],
+   "img": "foam_2"
+  },
+  {
+   "h2": "Foam roof repair and recoating",
+   "body": "<p>Birds, foot traffic, and UV exposure eventually wear through the coating. We repair blisters, punctures and damaged areas, then recoat the roof to restore protection. That is usually far less expensive than replacement.</p>",
+   "img": "foam_3"
+  },
+  {
+   "h2": "How a foam roof is built",
+   "body": "<p>The roof is cleaned and prepared first, and any wet or failed material is removed. Two liquid components are mixed at the spray gun and expand within seconds into rigid, closed-cell foam. The foam is usually applied at least an inch thick, and more where it's tapered toward drains and scuppers to move water off the roof.</p><p>Bare foam can't take sunlight, so it's covered with an elastomeric coating, usually acrylic or silicone, applied in a base coat and a top coat. Some roofs get granules broadcast into the final coat for extra protection where people walk.</p>"
+  },
+  {
+   "h2": "Recoat cycles: the secret to a long foam roof",
+   "body": "<p>The foam does the insulating and waterproofing, and the coating protects the foam. As UV wears the coating down, it chalks and thins. Recoating before the foam is exposed keeps the system healthy, and many foam roofs are recoated every 5–10 years depending on the coating type and thickness.</p><p>Skip the recoat too long and the sun breaks down the top of the foam, which turns brown, crumbles and loses thickness. At that point the damaged foam has to be removed and replaced before a new coating will hold.</p>"
+  },
+  {
+   "h2": "Blisters, bird damage and other problems",
+   "body": "<p>Most foam roof damage is small and fixable if caught early.</p>",
+   "bullets": [
+    "<strong>Blisters:</strong> raised bubbles caused by moisture or poor adhesion; they're cut out, filled and recoated",
+    "<strong>Bird pecks:</strong> birds pick at foam and leave holes that let water in; patch quickly",
+    "<strong>Foot traffic:</strong> worn paths near AC units and access hatches",
+    "<strong>Ponding:</strong> low spots that hold water and wear the coating faster",
+    "<strong>Cracks at edges:</strong> around parapets, curbs and penetrations"
+   ]
+  },
+  {
+   "h2": "Foam roof maintenance checklist",
+   "body": "<p>Look at your foam roof, or have it inspected, at least once a year and after major monsoon storms.</p>",
+   "bullets": [
+    "Clear debris from drains and scuppers",
+    "Look for yellow or brown foam showing through the coating",
+    "Check for pecks, punctures and blisters",
+    "Inspect around AC units, vents and skylights",
+    "Note any areas that hold water two days after rain",
+    "Plan your next recoat before the coating wears through"
+   ]
+  },
+  {
+   "h2": "Solar, energy and monsoon season",
+   "body": "<p>A white foam roof reflects much of the sun's heat, and the foam itself adds insulation, so it can help top-floor rooms stay cooler. Solar can go on foam roofs using mounts that are sealed into the foam and coating. Monsoon rain and humidity affect foam application, so we schedule spraying for dry conditions. For pricing factors, see the <a href=\"/resources/roofing-cost-guide/\">Roofing Cost Guide</a>.</p>"
+  }
+ ],
+ "cards": [
+  "elastomeric-roofing-coating",
+  "flat-roofing",
+  "commercial-roofing-services"
+ ],
+ "faqs": [
+  [
+   "How long does a foam roof last?",
+   "With regular recoating, a foam roof can last 20 years or more. The foam itself is durable; the protective coating on top is what needs periodic renewal."
+  ],
+  [
+   "How often does a foam roof need to be recoated?",
+   "It depends on the coating type and thickness, often every 5–10 years. An inspection will show if your coating is getting thin or if bare foam is showing."
+  ],
+  [
+   "What are signs my foam roof needs attention?",
+   "Exposed yellow or brown foam, cracks or peeling in the coating, blisters, bird pecks, ponding water, and soft spots."
+  ],
+  [
+   "Can foam be applied over my existing flat roof?",
+   "Often, yes, if the existing roof is dry and sound. Wet or deteriorated material must be removed first. We'll check during the inspection."
+  ],
+  [
+   "Is foam roofing good for homes or only commercial buildings?",
+   "Both. Many Arizona homes have foam on flat sections such as patios, additions and garages, and many commercial buildings use foam on the entire roof."
+  ],
+  [
+   "What happens if I don't recoat my foam roof?",
+   "UV breaks down the exposed foam, which turns brown, crumbles and gets thinner. Water can then get in, and the damaged foam must be removed and replaced before recoating, which costs more than a timely recoat."
+  ],
+  [
+   "Are blisters on a foam roof serious?",
+   "A few small blisters are usually a simple repair. They should be cut out, filled and recoated so they don't crack open and let water in. Many blisters across the roof can point to a moisture or adhesion problem worth investigating."
+  ],
+  [
+   "How do I keep birds from damaging my foam roof?",
+   "Repair pecked areas quickly so birds aren't drawn back to them, and keep the coating in good shape. Granules in the top coat can make the surface less appealing to peck."
+  ],
+  [
+   "Can I walk on a foam roof?",
+   "Foam is firm enough for occasional foot traffic, such as servicing an AC unit. Regular walking wears the coating, so heavy-traffic paths may need extra protection like a granulated coating."
+  ],
+  [
+   "How much insulation does foam add?",
+   "Spray foam adds roughly R-6 per inch of thickness, and the thickness varies across the roof where it's tapered for drainage. That insulation is in addition to whatever is already in the building."
+  ],
+  [
+   "Is a silicone or acrylic coating better on foam?",
+   "Silicone holds up well where water ponds, while acrylic is often less expensive and very reflective. The best choice depends on your roof's drainage and what's already on it. See our elastomeric coatings page for more."
+  ],
+  [
+   "How much does a foam roof or recoat cost?",
+   "Every roof is different. Size, foam thickness, coating type, repairs and whether the old roof must be removed all affect cost. See /resources/roofing-cost-guide/, or call 602-548-3770. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+},
+"elastomeric-roofing-coating": {
+ "title": "Elastomeric Roof Coatings, Gilbert AZ | Integrity Roofing",
+ "desc": "Elastomeric roof coatings for flat and low-slope roofs in Gilbert, Mesa, Chandler & Phoenix. Reflective, waterproof protection that extends your roof's life.",
+ "crumb": "Elastomeric Coatings",
+ "parent": "/roof-types/",
+ "eyebrow": "Elastomeric coatings",
+ "h1": "Elastomeric roof coatings that reflect the Arizona sun",
+ "lead": "A quality elastomeric coating adds a flexible, waterproof, reflective layer to flat and low-slope roofs, often extending the life of a sound roof without a full replacement.",
+ "answer": "An elastomeric roof coating is a thick, flexible liquid-applied membrane (such as acrylic or silicone) that stretches and contracts with the roof as temperatures change. It waterproofs the surface and reflects sunlight, which helps reduce heat absorbed by the roof. It works best on roofs that are structurally sound and dry.",
+ "hero_img": "elastomeric",
+ "card_text": "Reflective, waterproof coatings for flat roofs.",
+ "service": "Elastomeric Roof Coating",
+ "service_type": "Roof coating",
+ "sections": [
+  {
+   "h2": "Benefits of elastomeric coatings",
+   "body": "<p>Arizona roofs can swing dramatically in temperature between day and night. Elastomeric coatings flex with that movement instead of cracking.</p>",
+   "bullets": [
+    "Seamless waterproof layer",
+    "Reflects sunlight to reduce roof heat",
+    "Flexes with expansion and contraction",
+    "Protects foam and other flat-roof surfaces from UV",
+    "Can extend the life of a sound roof"
+   ],
+   "img": "elastomeric_2"
+  },
+  {
+   "h2": "Is your roof a good candidate?",
+   "body": "<p>Coatings protect a roof; they don't fix a failed one. The roof must be dry, solid, and properly prepared: cleaned, repaired, and primed where needed. We'll inspect the roof and tell you honestly if coating or replacement is the right move.</p><p>Coatings are made for flat and low-slope roofs such as foam, modified bitumen and built-up roofs. Tile and shingle roofs are not candidates for elastomeric coating.</p>"
+  },
+  {
+   "h2": "Acrylic vs silicone vs other coatings",
+   "body": "<p>“Elastomeric” describes how the coating behaves, not one product. The main types each have strengths.</p>",
+   "bullets": [
+    "<strong>Acrylic:</strong> water-based, very reflective and widely used on Arizona foam roofs; best where the roof drains well",
+    "<strong>Silicone:</strong> resists ponding water and UV well; new coats generally need to be silicone too, since most other coatings won't stick to it",
+    "<strong>Polyurethane and others:</strong> tougher against foot traffic and impact; sometimes used as a base coat or in high-traffic areas"
+   ]
+  },
+  {
+   "h2": "How a coating is applied",
+   "body": "<p>Preparation matters more than the coating itself. The roof is cleaned of dirt, dust and loose material, and any wet areas, blisters, open seams and failed flashing are repaired. Seams and transitions are often reinforced with fabric embedded in coating, and a primer is used where the surface needs it.</p><p>The coating then goes on in one or more coats to a specified thickness. Thickness is what gives a coating its life, so a properly measured application lasts longer than a thin coat spread to cover more area.</p>"
+  },
+  {
+   "h2": "Ponding water and coatings",
+   "body": "<p>Water that sits on a roof for days is hard on most coatings, and acrylics in particular can soften and wear under standing water. If your roof ponds, we look at fixing the drainage first, for example with tapered foam or by clearing scuppers and drains, or we recommend a coating made to tolerate ponding.</p>"
+  },
+  {
+   "h2": "Signs your coating is worn",
+   "body": "<p>Check the roof surface every year and after monsoon storms.</p>",
+   "bullets": [
+    "A chalky residue that rubs off on your hand",
+    "Thin spots where the color of the layer underneath shows through",
+    "Cracking, peeling or flaking, especially around edges",
+    "Bare foam or exposed seams",
+    "Dirt-stained low spots where water sits"
+   ]
+  },
+  {
+   "h2": "Cool roofs and timing",
+   "body": "<p>A bright white coating reflects much of the sun's energy and releases heat it does absorb. Dust lowers reflectivity over time, so a light rinse when the roof is cleaned helps. Coatings need dry weather to cure, so we plan around monsoon storms and cool, damp nights. For cost factors, see the <a href=\"/resources/roofing-cost-guide/\">Roofing Cost Guide</a>.</p>"
+  }
+ ],
+ "cards": [
+  "foam-roofing",
+  "flat-roofing",
+  "commercial-roofing-services"
+ ],
+ "faqs": [
+  [
+   "What is an elastomeric roof coating?",
+   "A thick, flexible, liquid-applied coating, commonly acrylic or silicone, that creates a seamless waterproof and reflective membrane over a roof."
+  ],
+  [
+   "How long does an elastomeric coating last?",
+   "It depends on the product, thickness applied and exposure. Coatings are typically renewed every several years; thicker applications last longer."
+  ],
+  [
+   "Can a coating stop my roof from leaking?",
+   "A coating can seal minor surface issues, but active leaks and wet or damaged areas must be repaired first. Coatings work best on sound, dry roofs."
+  ],
+  [
+   "Does a reflective roof coating lower energy bills?",
+   "Reflective coatings reduce how much heat the roof absorbs, which can lower cooling demand in hot climates. Actual savings depend on the building, insulation and HVAC system."
+  ],
+  [
+   "What roofs can be coated?",
+   "Foam roofs, many modified bitumen and built-up roofs, and other low-slope surfaces in good condition."
+  ],
+  [
+   "Is acrylic or silicone coating better?",
+   "Neither is best for every roof. Acrylic is reflective and cost-effective on roofs that drain well. Silicone handles ponding water better but limits future recoats to silicone. We recommend based on your roof's drainage and existing surface."
+  ],
+  [
+   "Can I put acrylic over an old silicone coating?",
+   "Generally no. Most coatings won't bond to silicone, so a silicone roof is usually recoated with silicone. That's worth knowing before you choose a coating the first time."
+  ],
+  [
+   "Can a tile or shingle roof be coated?",
+   "No. Elastomeric coatings are meant for flat and low-slope roofs. Tile and shingle roofs rely on underlayment, overlap and flashing to shed water, and coating them can cause more problems than it solves."
+  ],
+  [
+   "What is the best time of year to coat a roof in Arizona?",
+   "Coatings need dry conditions and mild-to-warm temperatures to cure, so dry stretches outside monsoon season work best. Very cold or damp nights can also slow curing."
+  ],
+  [
+   "How thick should a roof coating be?",
+   "Thickness depends on the product and the roof, and it's specified in mils by the coating maker. A thicker, properly measured application lasts longer than a thin one."
+  ],
+  [
+   "Why does my coated roof look dirty?",
+   "Dust settles on every Arizona roof and can reduce reflectivity. Dark, stained patches often mark spots where water ponds, which should be checked for drainage problems."
+  ],
+  [
+   "How much does an elastomeric coating cost?",
+   "Every roof is different. Size, prep work, repairs, coating type and thickness all affect price. See our Roofing Cost Guide at /resources/roofing-cost-guide/ or call 602-548-3770. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+},
+"flat-roofing": {
+ "card_img": "flat_card",
+ "title": "Flat Roof Repair in Gilbert & Phoenix | Integrity Roofing",
+ "desc": "Flat and low-slope roof repair, coating and replacement for homes and businesses in Gilbert, Mesa, Chandler & Phoenix. Foam, modified bitumen and coated systems.",
+ "crumb": "Flat Roofing",
+ "parent": "/roof-types/",
+ "eyebrow": "Flat roofing",
+ "h1": "Flat roof repair, coating and replacement",
+ "lead": "Flat roofs are everywhere in the Valley: on commercial buildings, patios, additions and Pueblo-style homes. Good drainage and a healthy surface are what keep them dry.",
+ "answer": "Flat roofs aren't completely flat; they're built with a slight slope to drain. Most flat-roof leaks start at seams, flashing, roof drains and scuppers, or where water ponds. Common flat-roof systems in Arizona include spray foam, modified bitumen and elastomeric-coated roofs.",
+ "hero_img": "flat",
+ "card_text": "Low-slope roofs on homes, patios and businesses.",
+ "service": "Flat Roofing",
+ "service_type": "Flat roof installation and repair",
+ "sections": [
+  {
+   "h2": "Flat roof systems we work on",
+   "body": "<p>The right system depends on the building, the existing roof, and your budget.</p>",
+   "bullets": [
+    "<strong>Spray polyurethane foam</strong>: seamless and insulating",
+    "<strong>Modified bitumen</strong>: durable rolled roofing with a protective cap sheet",
+    "<strong>Elastomeric coatings</strong>: reflective protection over sound roofs",
+    "<strong>Repairs</strong> to seams, drains, scuppers, parapets and flashing"
+   ],
+   "img": "flat_2"
+  },
+  {
+   "h2": "Ponding water is a warning sign",
+   "body": "<p>Water that stands on a flat roof for more than a couple of days after rain speeds up wear and finds its way into seams. It also adds weight and collects dirt that cuts reflectivity. We can improve drainage, for example by adding tapered foam or clearing and repairing drains, as part of a repair or replacement.</p>"
+  },
+  {
+   "h2": "How a flat roof drains",
+   "body": "<p>A flat roof moves water with a gentle slope toward its exits. Those exits are either roof drains, which carry water down through pipes inside the building, or scuppers, which are openings through the parapet wall that send water to a downspout or off the edge.</p><p>Crickets, small sloped ridges built behind AC units, chimneys and along walls, steer water around obstacles toward the drains. When any part of this path settles or clogs, water backs up and finds a weak spot.</p>"
+  },
+  {
+   "h2": "Parapet walls and scuppers",
+   "body": "<p>Many Arizona flat roofs are surrounded by parapets, the short walls that rise above the roof line. They hide equipment and give homes their Pueblo look, but every place where the roof meets the wall needs flashing that climbs up the wall and is sealed at the top.</p><p>Common leak points include cracked stucco on parapet tops, failed caps, and scuppers whose flashing has pulled loose. A clogged scupper during a monsoon downpour can flood the roof edge in minutes, so keeping them clear is one of the easiest ways to prevent leaks.</p>"
+  },
+  {
+   "h2": "Modified bitumen explained",
+   "body": "<p>Modified bitumen is an asphalt-based roofing sold in rolls and reinforced with polyester or fiberglass. It's installed in overlapping layers, with the seams heat-welded or adhered. The top cap sheet is usually covered in granules for UV protection, and a reflective coating can be added to keep it cooler. It handles foot traffic well, which is why it's common on commercial roofs.</p>"
+  },
+  {
+   "h2": "Rooftop equipment and penetrations",
+   "body": "<p>AC units, evaporative coolers, vent pipes, skylights and solar mounts all pass through or sit on a flat roof. Each needs a sealed curb or boot, and evaporative cooler drips and service foot traffic wear the surface around them. Solar works well on flat roofs, but the roof should be in good shape before panels go on.</p>"
+  },
+  {
+   "h2": "Flat roof maintenance checklist",
+   "body": "<p>Do this before monsoon season and after big storms.</p>",
+   "bullets": [
+    "Clear leaves, dust and debris from drains and scuppers",
+    "Look for water that remains two days after rain",
+    "Check parapet caps and stucco for cracks",
+    "Inspect flashing around AC units, vents and skylights",
+    "Look for blisters, cracks, open seams or exposed foam",
+    "Schedule a <a href=\"/roof-inspections/\">roof inspection</a> once a year"
+   ]
+  },
+  {
+   "h2": "Repair, recoat or replace?",
+   "body": "<p>If the roof is dry and mostly sound, targeted repairs plus a fresh coating can buy many more years. If moisture has soaked the insulation or the surface has failed across large areas, replacement is the better value. For cost factors on each, see the <a href=\"/resources/roofing-cost-guide/\">Roofing Cost Guide</a>.</p>"
+  }
+ ],
+ "cards": [
+  "foam-roofing",
+  "elastomeric-roofing-coating",
+  "commercial-roofing-services"
+ ],
+ "faqs": [
+  [
+   "Why do flat roofs leak?",
+   "Common causes are failed seams, worn flashing at parapet walls and penetrations, clogged drains and scuppers, ponding water, and coatings that have worn thin from UV exposure."
+  ],
+  [
+   "How long does a flat roof last in Arizona?",
+   "It depends on the system: modified bitumen often lasts around 10–20 years, while a well-maintained foam roof can last 20+ years with periodic recoating."
+  ],
+  [
+   "Is ponding water on a flat roof normal?",
+   "A little water that evaporates within a day or two is common. Water that stands longer can accelerate wear and should be addressed by improving drainage."
+  ],
+  [
+   "Can a flat roof be converted to foam?",
+   "Often, yes. If the existing roof is dry and sound, foam may be applied over it; otherwise the old roof is removed first."
+  ],
+  [
+   "How often should a flat roof be inspected?",
+   "At least once a year, plus after major storms. Commercial flat roofs benefit from inspections in both spring and fall."
+  ],
+  [
+   "What is a scupper?",
+   "A scupper is an opening through a parapet wall that lets water drain off a flat roof, usually into a downspout. Its flashing must be sealed to the roof, and it needs to stay clear of debris."
+  ],
+  [
+   "What is a parapet wall?",
+   "It's the short wall that extends above the roof surface around the edge of many flat roofs. The joint where the roof meets the parapet, and the cap on top, are common leak points."
+  ],
+  [
+   "What is a cricket on a flat roof?",
+   "A cricket is a small built-up ridge that directs water around an obstacle, such as an AC unit or chimney, and toward a drain. It prevents water from pooling behind the obstacle."
+  ],
+  [
+   "Why does my patio roof leak?",
+   "Flat patio roofs often leak where they tie into the main house, at worn coatings, or where water ponds because the slope is too shallow. The connection to the main roof needs careful flashing."
+  ],
+  [
+   "Can my AC unit cause roof leaks?",
+   "Yes. Units sit on curbs that must be sealed, condensation and cooler drips wear the roof, and service visits add foot traffic. We check these areas closely during inspections."
+  ],
+  [
+   "Can solar panels go on a flat roof?",
+   "Yes. Panels are mounted on racks that are either sealed into the roof or weighted, depending on the design. Make sure the roof is in good condition first so panels don't need to be removed for repairs."
+  ],
+  [
+   "How much does flat roof work cost?",
+   "Every roof is different, and price depends on size, the system, drainage work, repairs and access. See our Roofing Cost Guide at /resources/roofing-cost-guide/, or call 602-548-3770. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+},
+"sloped-roofs": {
+ "title": "Sloped & Pitched Roof Repair in Gilbert, AZ | Integrity Roofing",
+ "desc": "Repair and replacement for sloped and steep roofs, tile and shingle, in Gilbert, Mesa, Chandler & Phoenix. Experienced, licensed, family-owned roofers.",
+ "crumb": "Sloped Roofs",
+ "parent": "/roof-types/",
+ "eyebrow": "Sloped roofs",
+ "h1": "Sloped and pitched roofs",
+ "lead": "Sloped roofs shed water fast and look great, and they come with their own challenges: valleys, ridges, flashing details, ventilation and safe access on steeper pitches.",
+ "answer": "A sloped (pitched) roof is any roof steep enough to shed water quickly, usually covered with tile or asphalt shingles. Benefits include fast drainage, longer material life, and attic space for ventilation. The most common trouble spots are valleys, ridges, and flashing where the roof meets walls.",
+ "hero_img": "sloped",
+ "card_text": "Tile and shingle on pitched roofs.",
+ "service": "Sloped Roof Repair and Replacement",
+ "service_type": "Pitched roof repair and replacement",
+ "sections": [
+  {
+   "h2": "Benefits of a sloped roof",
+   "body": "<p>Steeper roofs move water off quickly, which is a big advantage during monsoon downpours.</p>",
+   "bullets": [
+    "Fast drainage and less standing water",
+    "Works with tile and shingle",
+    "Attic space for insulation and ventilation",
+    "Classic curb appeal"
+   ],
+   "img": "sloped_2"
+  },
+  {
+   "h2": "Where sloped roofs need attention",
+   "body": "<p>Valleys collect water and debris, ridges and hips take wind, and every wall, chimney and skylight needs proper flashing. We focus on these details during repairs and replacements, and we use proper safety equipment on steep pitches.</p>"
+  },
+  {
+   "h2": "What roof pitch means",
+   "body": "<p>Pitch is how much the roof rises for every 12 inches it runs horizontally. A 4:12 roof rises 4 inches per foot, and a 6:12 roof rises 6. Roofs below about 2:12 are treated as low-slope and usually need a flat-roof system instead.</p><p>Pitch decides which materials fit. Tile and shingles each have minimum pitches set by the manufacturer and building code, and the lowest acceptable slopes often call for extra underlayment. Steeper roofs shed water faster but take more time and safety gear to work on.</p>"
+  },
+  {
+   "h2": "Ventilation and attic heat",
+   "body": "<p>An Arizona attic can get far hotter than the outdoor air in summer. That heat ages underlayment and shingles from below and pushes more heat into the living space. Good ventilation lets cooler air in low, at soffit or eave vents, and lets hot air out high, through ridge, off-ridge or gable vents.</p><p>Intake and exhaust should be balanced, and insulation shouldn't block the soffit vents. A replacement or re-felt is a good time to check and correct the ventilation.</p>"
+  },
+  {
+   "h2": "Valleys, flashing and the details that leak",
+   "body": "<p>Most sloped-roof leaks start at the details, not the open field of the roof.</p>",
+   "bullets": [
+    "<strong>Valleys:</strong> where two slopes meet and carry the most water; debris here backs water up under the roof",
+    "<strong>Roof-to-wall flashing:</strong> where a lower roof meets a second-story wall",
+    "<strong>Chimneys and skylights:</strong> need flashing on all sides and a cricket on the uphill side of wide chimneys",
+    "<strong>Vent pipes:</strong> rubber boots crack in the sun and should be checked often",
+    "<strong>Ridges and hips:</strong> mortar or caps can crack or loosen in wind"
+   ]
+  },
+  {
+   "h2": "Monsoon season on a sloped roof",
+   "body": "<p>Sloped roofs drain fast, but monsoon gusts can lift shingles, shift tiles and drive rain sideways under loose pieces. Before the season starts, clear valleys and gutters and look for anything already loose. After a strong storm, scan the roof from the ground and check the yard for broken tile or shingle pieces. Our <a href=\"/damaged-roof/\">storm damage</a> page lists what to look for.</p>"
+  },
+  {
+   "h2": "Homes with sloped and flat sections",
+   "body": "<p>Many Valley homes combine a tile or shingle main roof with a flat section over a patio or addition. The joint between them is a frequent leak point, because water from the steep roof pours onto the flat one. These tie-ins need careful flashing, and the flat part needs its own care. See <a href=\"/flat-roofing/\">flat roofing</a> for details.</p>"
+  },
+  {
+   "h2": "Solar and HOA considerations",
+   "body": "<p>South- and west-facing slopes are common spots for solar, and each mount must be flashed into the tile or shingles. If your roof is aging, repair or replace it before panels go on. Many HOAs set rules on roof material and color, so check before choosing a replacement. For pricing factors, see the <a href=\"/resources/roofing-cost-guide/\">Roofing Cost Guide</a>.</p>"
+  }
+ ],
+ "cards": [
+  "tile-roofs",
+  "asphalt-shingles"
+ ],
+ "faqs": [
+  [
+   "What is considered a sloped roof?",
+   "Generally, any roof with enough pitch to shed water quickly, typically roofs covered with tile or shingles rather than flat-roof systems."
+  ],
+  [
+   "Do steep roofs cost more to repair or replace?",
+   "Steeper roofs can take more time and safety equipment to work on, which can affect cost. Your estimate will reflect your roof's pitch and access."
+  ],
+  [
+   "What are the most common leaks on sloped roofs?",
+   "Valleys, roof-to-wall flashing, chimneys and skylights, and plumbing vent penetrations."
+  ],
+  [
+   "Which roofing materials work on sloped roofs?",
+   "Concrete and clay tile and asphalt shingles are the most common choices for sloped roofs in Arizona."
+  ],
+  [
+   "Why is attic ventilation important on a sloped roof?",
+   "Good ventilation lets hot air escape the attic, which helps protect roofing materials from excess heat and can reduce cooling costs."
+  ],
+  [
+   "What is roof pitch?",
+   "Pitch is the rise of a roof over 12 inches of horizontal run, written like 4:12 or 6:12. It determines which materials can be used and how quickly water drains."
+  ],
+  [
+   "What is the minimum pitch for tile or shingles?",
+   "Each product has a minimum set by its manufacturer and the building code, and lower slopes often need extra underlayment. If your roof is close to the minimum, we'll explain what that means for your options."
+  ],
+  [
+   "What are signs of poor attic ventilation?",
+   "An extremely hot attic, upstairs rooms that are hard to cool, shingles that age faster than expected, and blocked or missing soffit vents. Too few exhaust vents near the ridge is another clue."
+  ],
+  [
+   "Can ventilation be improved during a roof replacement?",
+   "Yes. With the old roof off, it's a good time to add or rebalance intake and exhaust vents. We review ventilation as part of every replacement."
+  ],
+  [
+   "What is a roof valley?",
+   "A valley is the channel where two roof slopes meet. It carries a large share of the roof's water, so it needs proper flashing and should be kept clear of leaves and debris."
+  ],
+  [
+   "Should I clean my gutters in Arizona?",
+   "Yes. Dust, leaves and broken granules or tile pieces collect in gutters and valleys. Clearing them before monsoon season helps water leave the roof quickly instead of backing up."
+  ],
+  [
+   "Can solar panels go on a sloped roof?",
+   "Yes, and sloped roofs are common for solar. Each mount is flashed into the tile or shingles, so the roof should be in good condition first."
+  ],
+  [
+   "How do I get a sloped roof repair estimate?",
+   "Call 602-548-3770, Monday to Friday, 7 am to 5 pm. If we don't answer, leave a message and we'll return your call within 24 hours."
+  ]
+ ]
+}
+}}

@@ -4,7 +4,9 @@ import { usePathname } from 'next/navigation';
 import Icon from './Icon';
 import { B, NAV, TEL, img } from '../lib/site';
 
-export default function Header() {
+const MENU_HOODS = 9;
+
+export default function Header({ areas = [] }) {
   const [open, setOpen] = useState(false);
   const ref = useRef(null);
   const path = usePathname();
@@ -31,11 +33,19 @@ export default function Header() {
     ref.current?.querySelectorAll('details[open]').forEach((d) => d !== e.currentTarget && d.removeAttribute('open'));
   };
 
+  const groupsFor = (item) => item.areas
+    ? areas.map((c) => ({
+        title: `${c.name}, AZ`,
+        links: [{ label: `Roofing in ${c.name}`, url: c.href, strong: true }, ...c.hoods.slice(0, MENU_HOODS).map((h) => ({ label: h.name, url: h.href }))],
+        all: c.hoods.length > MENU_HOODS ? [`All ${c.hoods.length} ${c.name} neighborhoods`, `${c.href}#neighborhoods`] : null,
+      })).concat([{ title: 'More', links: [{ label: 'All service areas', url: '/roofing/' }] }])
+    : item.groups;
+
   return (
     <>
       <div className="topline">
         <div className="wrap">
-          <span className="topline__hours">Licensed, bonded and insured, {B.roc}. Office open {B.hours_label}.</span>
+          <span className="topline__hours">Licensed, bonded and insured, {B.roc}. Office open Monday to Friday, 7 am to 5 pm.</span>
           <span>Call the office <a href={TEL}>{B.phone}</a></span>
         </div>
       </div>
@@ -50,15 +60,15 @@ export default function Header() {
           </a>
           <nav className="nav" id="site-nav" aria-label="Main">
             {NAV.map((item) =>
-              item.groups ? (
+              item.groups || item.areas ? (
                 <details className="nav__item" key={item.label} onToggle={onToggle}>
                   <summary>{item.label} <Icon name="chevron" size={16} /></summary>
-                  <div className="mega">
-                    {item.groups.map((g) => (
+                  <div className={`mega${item.areas ? ' mega--areas' : ''}`}>
+                    {groupsFor(item).map((g) => (
                       <div key={g.title}>
                         <h2>{g.title}</h2>
                         <ul>
-                          {g.links.map((l) => <li key={l.url}><a href={l.url}>{l.label}</a></li>)}
+                          {g.links.map((l) => <li key={l.url}><a href={l.url} className={l.strong ? 'mega__city' : undefined}>{l.label}</a></li>)}
                           {g.all && <li><a className="mega__all" href={g.all[1]}>{g.all[0]}</a></li>}
                         </ul>
                       </div>
@@ -70,13 +80,11 @@ export default function Header() {
               )
             )}
             <div className="nav__mobile-cta">
-              <a className="btn btn--sun" href="/get-a-quote/">Request an estimate</a>
-              <a className="btn btn--line-light" href={TEL}><Icon name="phone" size={18} /> {B.phone}</a>
+              <a className="btn btn--sun" href={TEL}><Icon name="phone" size={18} /> Call {B.phone}</a>
             </div>
           </nav>
           <div className="header__cta">
-            <a className="header__phone" href={TEL}><Icon name="phone" size={18} /><span>{B.phone}</span></a>
-            <a className="btn btn--sun" href="/get-a-quote/">Request an estimate</a>
+            <a className="btn btn--sun" href={TEL}><Icon name="phone" size={18} /> {B.phone}</a>
           </div>
           <button className="menu-btn" type="button" aria-expanded={open} aria-controls="site-nav" onClick={() => setOpen(!open)}>
             <Icon name={open ? 'close' : 'menu'} size={18} /> Menu

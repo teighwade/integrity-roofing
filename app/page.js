@@ -3,7 +3,9 @@ import TileEdge from '../components/TileEdge';
 import RoofPicker from '../components/RoofPicker';
 import JsonLd from '../components/JsonLd';
 import { Faq, Cta, LatestPosts, OfficeCard } from '../components/Blocks';
-import { B, AREAS, PAGES, TEL, img } from '../lib/site';
+import { B, AREAS, PAGES, TEL, VOICEMAIL, img } from '../lib/site';
+import { IssueFeature } from '../components/ResourceBlocks';
+import { CURRENT_ISSUE, CITIES, hoodsIn, cityPath, FAQ_COUNT, GUIDES } from '../lib/content';
 import { webPageSchema } from '../lib/schema';
 
 const home = PAGES.__home;
@@ -15,8 +17,7 @@ const ROOFS = [
   ['asphalt-shingles', 'Shingle', 1, 'shingle'],
   ['foam-roofing', 'Foam', 2, 'foam'],
   ['elastomeric-roofing-coating', 'Coating', 3, 'elastomeric'],
-  ['metal-roofing', 'Metal', 4, 'metal'],
-  ['flat-roofing', 'Flat', 5, 'flat'],
+  ['flat-roofing', 'Flat', 4, 'flat'],
 ];
 
 function roofData() {
@@ -63,12 +64,13 @@ export default function Home() {
             <h1>Roofs built for Arizona sun and monsoon storms.</h1>
             <p className="hero__lead">{home.lead}</p>
             <div className="btns on-dark">
-              <a className="btn btn--sun" href="/get-a-quote/">Request an estimate</a>
-              <a className="btn btn--line" href={TEL}><Icon name="phone" size={18} /> {B.phone}</a>
+              <a className="btn btn--sun" href={TEL}><Icon name="phone" size={18} /> Call {B.phone}</a>
+              <a className="btn btn--line" href="/resources/">Homeowner resource center</a>
             </div>
             <ul className="hero__facts">
               <li><Icon name="shield" size={18} /> Licensed, bonded and insured, {B.roc}</li>
-              <li><Icon name="clock" size={18} /> Office open {B.hours_short.replace('Mon–Fri', 'Mon to Fri,')}</li>
+              <li><Icon name="clock" size={18} /> Office open Monday to Friday, 7 am to 5 pm</li>
+              <li><Icon name="phone" size={18} /> {VOICEMAIL}</li>
             </ul>
           </div>
           <div className="hero__media">
@@ -84,11 +86,17 @@ export default function Home() {
           <ul>
             <li><Icon name="calendar" size={22} /><div><strong>Since {B.founded}</strong><span>Family owned and operated</span></div></li>
             <li><Icon name="shield" size={22} /><div><strong>{B.roc}</strong><span>Licensed, bonded and insured</span></div></li>
-            <li><Icon name="layers" size={22} /><div><strong>Every roof type</strong><span>Tile, shingle, foam, flat, metal</span></div></li>
+            <li><Icon name="layers" size={22} /><div><strong>Every roof type</strong><span>Tile, shingle, foam, flat, coatings</span></div></li>
             <li><Icon name="dollar" size={22} /><div><strong>Financing available</strong><span>Ask during your estimate</span></div></li>
           </ul>
         </div>
       </section>
+
+      {CURRENT_ISSUE && (
+        <section className="section section--tight" aria-label="This month's newsletter" style={{ background: 'var(--sky)', paddingBottom: 0 }}>
+          <div className="wrap"><IssueFeature /></div>
+        </section>
+      )}
 
       <section className="section section--sky" aria-labelledby="roofs-title" style={{ paddingTop: 'clamp(32px, 4vw, 56px)' }}>
         <div className="wrap">
@@ -134,7 +142,8 @@ export default function Home() {
             <p>Arizona&apos;s monsoon runs from June 15 to September 30. Wind lifts tiles and shingles, and heavy rain finds every weak spot in underlayment and flashing.</p>
             <p>Have the roof inspected in spring, again after any big storm, and in fall to catch summer heat damage before winter rain.</p>
             <div className="btns">
-              <a className="btn btn--sun" href="/roof-inspections/">Schedule an inspection</a>
+              <a className="btn btn--sun" href="/resources/library/monsoon-roof-prep-checklist/">Monsoon prep checklist</a>
+              <a className="btn btn--line" href="/roof-inspections/">Roof inspections</a>
               <a className="btn btn--line" href="/damaged-roof/">{storm.crumb}</a>
             </div>
           </div>
@@ -173,8 +182,32 @@ export default function Home() {
             <h2 id="area-title">Roofing across the Phoenix Valley</h2>
             <p>Our office is in Gilbert, and our crews work throughout the East Valley and greater Phoenix.</p>
             <ul className="cities">{AREAS.map((c) => <li key={c}><Icon name="pin" size={16} /> {c}</li>)}</ul>
+            {CITIES.length > 0 && (
+              <div className="city-links">
+                {CITIES.map((c) => <a key={c.slug} className="btn btn--line" href={cityPath(c.slug)}>{c.city}: {hoodsIn(c.slug).length} neighborhoods</a>)}
+              </div>
+            )}
           </div>
           <OfficeCard title="Visit or call the office" directions />
+        </div>
+      </section>
+
+      <section className="section section--green" aria-labelledby="learn-title">
+        <div className="wrap">
+          <div className="head head--row">
+            <div>
+              <h2 id="learn-title">Learn before you call</h2>
+              <p>Our homeowner resource center explains roof types, typical Phoenix-area costs, monsoon prep and how to hire a roofer, in plain English.</p>
+            </div>
+            <a className="btn btn--line btn--line-light" href="/resources/">Resource center</a>
+          </div>
+          <ul className="svc-list">
+            {[['dollar', 'Roofing cost guide', 'Estimated Phoenix-area price ranges for repairs, re-roofs, foam and coatings.', '/resources/roofing-cost-guide/'],
+              ['file', 'Homeowner library', `${GUIDES.length} in-depth guides, from tile underlayment to HOA approval.`, '/resources/library/'],
+              ['clipboard', 'Roofing FAQ', `${FAQ_COUNT} answers to the questions homeowners ask us most.`, '/faq/']].map(([icon, t, d, href]) => (
+              <li key={href}><a href={href}><span className="svc__icon"><Icon name={icon} size={24} /></span><h3>{t}</h3><p>{d}</p><span className="svc__go"><Icon name="arrow" size={20} /></span></a></li>
+            ))}
+          </ul>
         </div>
       </section>
 

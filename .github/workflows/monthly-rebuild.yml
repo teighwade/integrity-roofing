@@ -1,0 +1,19 @@
+name: Monthly rebuild
+# Newsletters go live on the first of their month. This empty commit makes Vercel rebuild
+# just after midnight Arizona time on the 1st, so the new issue appears on the home page.
+on:
+  schedule:
+    - cron: '10 7 1 * *'   # 00:10 Arizona time (UTC-7) on the 1st of every month
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Monthly rebuild: publish this month's newsletter"
+          git push

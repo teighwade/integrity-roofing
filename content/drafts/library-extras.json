@@ -1,0 +1,506 @@
+{
+ "glossary": [
+  [
+   "Asphalt shingle",
+   "A common sloped-roof covering made of a fiberglass mat coated with asphalt and topped with mineral granules. Shingles are lighter than tile and are installed in overlapping rows."
+  ],
+  [
+   "Architectural shingle",
+   "A thicker, multi-layer asphalt shingle, also called a dimensional or laminated shingle. It gives a more textured look than a flat three-tab shingle."
+  ],
+  [
+   "Three-tab shingle",
+   "A flat, single-layer asphalt shingle with cutouts that make each strip look like three separate pieces. It is thinner and lighter than an architectural shingle."
+  ],
+  [
+   "Granules",
+   "The small, colored mineral chips on the surface of asphalt shingles. They protect the asphalt from UV light, so heavy granule loss is a sign of aging."
+  ],
+  [
+   "Concrete tile",
+   "A heavy, durable roofing tile made from cement, sand and water, very common on Arizona homes. The tile sheds most water and sun, while the underlayment beneath it is the true waterproof layer."
+  ],
+  [
+   "Clay tile",
+   "A roofing tile made from fired clay, known for its classic Spanish and Mediterranean look. Clay tile holds its color well but can be brittle underfoot."
+  ],
+  [
+   "Tile profile",
+   "The shape of a roof tile, such as flat, low-profile S or high-profile S. HOAs often require a replacement roof to keep the same profile."
+  ],
+  [
+   "S-tile",
+   "A curved roof tile with an S-shaped profile that creates the rolling look of a Spanish or mission style roof. It comes in low- and high-profile versions."
+  ],
+  [
+   "Underlayment",
+   "The water-resistant layer installed on the roof deck beneath tile or shingles. On a tile roof it does most of the waterproofing, and in Arizona heat it often wears out before the tile."
+  ],
+  [
+   "Felt",
+   "A traditional underlayment made of paper or fiberglass saturated with asphalt, often sold by weight such as 30-pound felt. Over years of heat it can become brittle and crack."
+  ],
+  [
+   "Synthetic underlayment",
+   "A lightweight underlayment made from woven or spun plastic materials. It is tear-resistant and generally handles heat and UV exposure better than traditional felt."
+  ],
+  [
+   "Self-adhered underlayment",
+   "A peel-and-stick underlayment with a sticky back that bonds to the deck and seals around nails. It is often used in valleys, at eaves and around penetrations."
+  ],
+  [
+   "Two-ply underlayment",
+   "Two overlapping layers of underlayment installed for extra protection, commonly used under tile on lower-slope roofs. Requirements depend on the roof slope and the tile manufacturer."
+  ],
+  [
+   "Battens",
+   "Strips of wood or other material fastened across the roof deck to hold tiles in place. Some tile roofs use battens, while others have tiles fastened directly to the deck."
+  ],
+  [
+   "Bird stop",
+   "A shaped piece, often called eave closure, installed at the bottom edge of a tile roof to fill the open space under curved tiles. It keeps birds and pests from nesting under the tile."
+  ],
+  [
+   "Eave riser",
+   "A strip installed along the eave of a tile roof that raises the first row of tile so it sits at the same angle as the rows above. It helps the tile lie flat and drain properly."
+  ],
+  [
+   "Drip edge",
+   "A strip of metal flashing installed along roof edges that directs water away from the fascia and into gutters. It also helps protect the edge of the roof deck."
+  ],
+  [
+   "Eave",
+   "The lower edge of a roof that overhangs the wall of the house. Water drains off the roof at the eaves."
+  ],
+  [
+   "Rake",
+   "The sloped edge of a roof at the end of a gable, running from the eave up to the ridge. Rake tiles or trim finish this edge."
+  ],
+  [
+   "Ridge",
+   "The highest horizontal line on a sloped roof where two roof planes meet. It is capped with ridge tiles or ridge cap shingles."
+  ],
+  [
+   "Hip",
+   "The sloped line where two roof planes meet on an outside corner, running from the ridge down to the eave. Hips are covered with hip tiles or cap shingles."
+  ],
+  [
+   "Valley",
+   "The inside angle where two roof slopes meet and carry water down. Valleys handle a lot of water, so they are a common place for leaks when flashing or underlayment fails."
+  ],
+  [
+   "Gable",
+   "The triangular wall section at the end of a pitched roof. A gable roof has two slopes that meet at a central ridge."
+  ],
+  [
+   "Hip roof",
+   "A roof with slopes on all four sides that meet at hips and a ridge. There are no vertical gable ends."
+  ],
+  [
+   "Fascia",
+   "The vertical board along the roof edge that the gutters are usually attached to. Peeling paint or rot on the fascia can be a sign of water at the roof edge."
+  ],
+  [
+   "Soffit",
+   "The underside of the roof overhang, between the fascia and the house wall. Soffits often contain intake vents for the attic."
+  ],
+  [
+   "Overhang",
+   "The part of the roof that extends past the exterior walls. It shades walls and windows and keeps water away from the house."
+  ],
+  [
+   "Flashing",
+   "Thin pieces of metal or other material installed where the roof meets walls, chimneys, vents, skylights and valleys. Flashing directs water away from joints that would otherwise leak."
+  ],
+  [
+   "Counter-flashing",
+   "A second piece of flashing set into or attached to a wall or chimney that laps over the base flashing. It covers the top edge of the base flashing so water cannot get behind it."
+  ],
+  [
+   "Step flashing",
+   "Individual L-shaped pieces of flashing woven in with each course of shingles where a roof meets a side wall. Each piece overlaps the one below to shed water."
+  ],
+  [
+   "Headwall flashing",
+   "Flashing installed where the top of a roof slope meets a vertical wall. It keeps water from running behind the roofing at that joint."
+  ],
+  [
+   "Pipe boot",
+   "A flashing collar that fits around a plumbing vent pipe where it passes through the roof. Rubber parts on pipe boots can crack in the sun over time."
+  ],
+  [
+   "Penetration",
+   "Any opening that passes through the roof, such as vents, pipes, skylights, conduit or solar mounts. Every penetration needs proper flashing to stay watertight."
+  ],
+  [
+   "Cricket",
+   "A small peaked structure built behind a chimney or other roof obstruction to divert water around it. It keeps water from pooling on the uphill side."
+  ],
+  [
+   "Saddle",
+   "Another name for a cricket, the small ridge built to divert water around a chimney or curb."
+  ],
+  [
+   "Scupper",
+   "An opening through a parapet wall that lets water drain off a flat roof. Scuppers must stay clear of debris to prevent backups."
+  ],
+  [
+   "Canale",
+   "A decorative drain spout or channel that carries water off a flat roof through a parapet, common on Pueblo-style homes in Arizona."
+  ],
+  [
+   "Roof drain",
+   "A drain set into the surface of a flat roof that carries water down through internal piping. It needs regular cleaning to prevent ponding."
+  ],
+  [
+   "Parapet",
+   "A low wall that extends above the roof line, common on flat-roof and Southwest-style homes. Cracks on top of parapets or at the roof joint are frequent leak sources."
+  ],
+  [
+   "Parapet cap",
+   "The covering on top of a parapet wall that keeps water from entering the wall. It may be stucco, flashing or another material."
+  ],
+  [
+   "Flat roof",
+   "A low-slope roof that looks flat but has a slight pitch to move water toward drains or scuppers. Flat roofs are common on Arizona homes and commercial buildings."
+  ],
+  [
+   "Low-slope roof",
+   "A roof with a gentle pitch, generally too shallow for standard tile or shingles without special underlayment or a different roof system."
+  ],
+  [
+   "Ponding",
+   "Water that stays on a flat roof long after rain, often defined as water still present 48 hours later. Repeated ponding can wear coatings and point to drainage problems."
+  ],
+  [
+   "SPF foam",
+   "Spray polyurethane foam, a liquid sprayed onto a roof that expands into a seamless, insulating layer. It must be protected by a coating because UV light breaks foam down."
+  ],
+  [
+   "Elastomeric coating",
+   "A flexible, rubber-like coating applied to flat and foam roofs that stretches and recovers as the roof heats and cools. Light-colored versions also reflect sunlight."
+  ],
+  [
+   "Acrylic coating",
+   "A water-based roof coating commonly used over foam and other flat roofs. It is usually white or light-colored to reflect heat."
+  ],
+  [
+   "Silicone coating",
+   "A roof coating known for resisting UV and standing water. It is often used on flat roofs where ponding is a concern."
+  ],
+  [
+   "Recoat",
+   "Applying a fresh layer of coating over an existing foam or coated roof before the old coating wears through. Timely recoats protect the roof surface underneath."
+  ],
+  [
+   "Chalking",
+   "A powdery residue that builds up on aging roof coatings as they weather. Heavy chalking means the coating is thinning."
+  ],
+  [
+   "Blister",
+   "A raised bubble in a roof surface caused by trapped moisture or air or a loss of bond between layers. A blister that breaks open can let water in."
+  ],
+  [
+   "Built-up roof",
+   "A flat roof made of several layers of asphalt and reinforcing felts, often finished with gravel or a coating. It is sometimes called BUR or tar and gravel."
+  ],
+  [
+   "Modified bitumen",
+   "A flat roof material made of asphalt blended with rubber or plastic modifiers and supplied in rolls. It is applied with heat, adhesive or self-adhering backing."
+  ],
+  [
+   "Single-ply membrane",
+   "A flat roof system made of large sheets of a single synthetic material, such as TPO or PVC. Seams are welded or sealed together."
+  ],
+  [
+   "TPO",
+   "Thermoplastic polyolefin, a single-ply membrane often used on commercial flat roofs. It is usually white and reflects sunlight."
+  ],
+  [
+   "Walk pad",
+   "A protective pad or path placed on a flat roof to protect the surface from foot traffic, especially around HVAC equipment."
+  ],
+  [
+   "Curb",
+   "A raised frame on the roof that supports equipment such as HVAC units, skylights or vents. The flashing around a curb must be sealed to prevent leaks."
+  ],
+  [
+   "Deck",
+   "The structural layer of a roof, usually plywood or OSB sheathing, that the underlayment and roofing are attached to. It is also called the roof deck or sheathing."
+  ],
+  [
+   "Decking",
+   "The sheets of plywood or OSB that make up the roof deck. Damaged or rotted decking is replaced during a re-roof."
+  ],
+  [
+   "Sheathing",
+   "Another word for the roof deck, the panels fastened to the rafters that support the roofing."
+  ],
+  [
+   "OSB",
+   "Oriented strand board, an engineered wood panel made from compressed wood strands and adhesive. It is commonly used as roof decking."
+  ],
+  [
+   "Rafter",
+   "One of the sloped structural boards that support the roof deck. Trusses do the same job in many newer homes."
+  ],
+  [
+   "Truss",
+   "A prefabricated triangular frame that supports the roof. Most newer homes in the Valley are built with roof trusses."
+  ],
+  [
+   "Square",
+   "The unit roofers use to measure roof area. One square equals 100 square feet of roof surface."
+  ],
+  [
+   "Pitch",
+   "The steepness of a roof, written as the inches of rise per 12 inches of horizontal run, such as 4:12. Pitch affects which roofing materials can be used."
+  ],
+  [
+   "Slope",
+   "The angle of a roof surface, often used interchangeably with pitch. Steeper slopes shed water faster."
+  ],
+  [
+   "Course",
+   "A single horizontal row of tiles or shingles running across the roof."
+  ],
+  [
+   "Exposure",
+   "The part of a tile or shingle that is visible and exposed to the weather after the next row is installed above it."
+  ],
+  [
+   "Tear-off",
+   "Removing the old roofing, and usually the underlayment, down to the deck before installing a new roof. It allows the deck to be inspected and repaired."
+  ],
+  [
+   "Re-roof",
+   "Replacing an existing roof with new roofing materials. It usually involves a tear-off and new underlayment."
+  ],
+  [
+   "Lift and relay",
+   "Removing the existing roof tiles, replacing the underlayment beneath them, and then reinstalling the same tiles. Broken tiles are replaced as needed."
+  ],
+  [
+   "Re-felt",
+   "Another name for a lift and relay, where the underlayment under a tile roof is replaced and the tile is put back. It is common on Arizona tile roofs because underlayment ages faster than tile."
+  ],
+  [
+   "Underlayment replacement",
+   "The process of renewing the waterproof layer under a tile roof, usually through a lift and relay. The goal is to stop leaks without replacing good tile."
+  ],
+  [
+   "Overlay",
+   "Installing new roofing over an existing layer instead of tearing it off. It is limited by code and by the condition of the existing roof."
+  ],
+  [
+   "Ridge vent",
+   "An exhaust vent that runs along the ridge of a roof and lets hot air escape from the attic. It works with intake vents lower on the roof."
+  ],
+  [
+   "Off-ridge vent",
+   "A low-profile exhaust vent installed near, but not on, the ridge. It is common on tile and shingle roofs in Arizona."
+  ],
+  [
+   "Turbine vent",
+   "A round, spinning exhaust vent that uses wind and rising heat to pull air out of the attic."
+  ],
+  [
+   "Soffit vent",
+   "An intake vent in the soffit that lets outside air into the attic. It must not be blocked by insulation."
+  ],
+  [
+   "Intake vent",
+   "A vent low on the roof, usually at the soffits or eaves, that brings outside air into the attic."
+  ],
+  [
+   "Exhaust vent",
+   "A vent high on the roof that lets hot, moist air leave the attic."
+  ],
+  [
+   "Attic ventilation",
+   "The flow of air through the attic from intake vents to exhaust vents. Good ventilation reduces attic heat and helps roofing materials last longer."
+  ],
+  [
+   "Radiant barrier",
+   "A reflective material installed in the attic, often on the underside of the roof deck, that reduces heat radiating into the attic. It works best in hot, sunny climates."
+  ],
+  [
+   "R-value",
+   "A measure of how well insulation resists heat flow. The higher the R-value, the better the insulation slows heat moving into the home."
+  ],
+  [
+   "Cool roof",
+   "A roof designed to reflect more sunlight and release absorbed heat more easily than a standard roof. Light colors and rated coatings and materials help keep cool roofs cooler."
+  ],
+  [
+   "Solar reflectance",
+   "A rating of how much sunlight a roof surface reflects, shown as a number between 0 and 1. Higher numbers mean a cooler surface."
+  ],
+  [
+   "Thermal emittance",
+   "A rating of how well a roof surface releases the heat it absorbs. It is one of the measures used to compare cool roof products."
+  ],
+  [
+   "Detach and reset",
+   "Removing solar panels or other rooftop equipment so roof work can be done, then reinstalling them. It is common during tile underlayment replacement and re-roofing."
+  ],
+  [
+   "Critter guard",
+   "A mesh barrier installed around the edges of solar panels to keep pigeons and other animals from nesting underneath."
+  ],
+  [
+   "Wind uplift",
+   "The upward force wind puts on a roof, which can lift or loosen tiles and shingles during monsoon storms. Proper fastening helps roofs resist it."
+  ],
+  [
+   "Monsoon season",
+   "The period from June 15–September 30 when Arizona sees sudden storms with high wind, dust, lightning and heavy rain. It is the most common time for storm damage to roofs."
+  ],
+  [
+   "ROC license",
+   "A contractor license issued by the Arizona Registrar of Contractors. Homeowners can look up a contractor's license status on the ROC website before hiring."
+  ]
+ ],
+ "links": [
+  {
+   "group": "Check a contractor",
+   "items": [
+    {
+     "name": "Arizona Registrar of Contractors",
+     "url": "https://roc.az.gov/",
+     "desc": "Arizona's contractor licensing agency. Use its contractor search to check any roofer's license and complaint history."
+    },
+    {
+     "name": "Arizona Attorney General consumer protection",
+     "url": "https://www.azag.gov/consumer",
+     "desc": "Information on consumer scams, including home repair fraud, and how to report a problem."
+    }
+   ]
+  },
+  {
+   "group": "Weather and monsoon",
+   "items": [
+    {
+     "name": "National Weather Service Phoenix",
+     "url": "https://www.weather.gov/psr/",
+     "desc": "Local forecasts, watches and warnings for the Phoenix area, including severe thunderstorm and dust storm alerts."
+    },
+    {
+     "name": "Flood Control District of Maricopa County",
+     "url": "https://www.fcd.maricopa.gov/",
+     "desc": "Rainfall data, flood risk information and storm preparation tips for Maricopa County residents."
+    }
+   ]
+  },
+  {
+   "group": "Insurance and disasters",
+   "items": [
+    {
+     "name": "Arizona Department of Insurance and Financial Institutions",
+     "url": "https://difi.az.gov/",
+     "desc": "The state insurance regulator, with consumer guides and a way to ask questions or file a complaint about an insurer."
+    },
+    {
+     "name": "Maricopa County",
+     "url": "https://www.maricopa.gov/",
+     "desc": "Maricopa County's official site, including emergency management and permits for unincorporated areas like Sun Lakes, Leisure World and Dreamland Villa."
+    },
+    {
+     "name": "Arizona Emergency Information Network",
+     "url": "https://ein.az.gov/",
+     "desc": "The state's official source for emergency updates and preparedness information."
+    },
+    {
+     "name": "FEMA",
+     "url": "https://www.fema.gov/",
+     "desc": "Federal disaster assistance, recovery information and guidance after declared disasters."
+    },
+    {
+     "name": "Ready.gov",
+     "url": "https://www.ready.gov/",
+     "desc": "Federal preparedness guides for storms, floods, extreme heat and building a home emergency plan."
+    },
+    {
+     "name": "National Association of Insurance Commissioners",
+     "url": "https://content.naic.org/",
+     "desc": "Consumer guides on homeowners insurance and filing claims."
+    }
+   ]
+  },
+  {
+   "group": "Energy and cool roofs",
+   "items": [
+    {
+     "name": "Cool Roof Rating Council",
+     "url": "https://coolroofs.org/",
+     "desc": "Independent ratings of solar reflectance and thermal emittance for roofing products, with a searchable product directory."
+    },
+    {
+     "name": "Energy Saver: cool roofs",
+     "url": "https://www.energy.gov/energysaver/cool-roofs",
+     "desc": "U.S. Department of Energy overview of how cool roofs work and when they make sense."
+    },
+    {
+     "name": "Energy Saver: insulation",
+     "url": "https://www.energy.gov/energysaver/insulation",
+     "desc": "Department of Energy guidance on insulation types and recommended R-values by climate zone."
+    },
+    {
+     "name": "Energy Saver: radiant barriers",
+     "url": "https://www.energy.gov/energysaver/radiant-barriers",
+     "desc": "How attic radiant barriers work and where they are most effective."
+    }
+   ]
+  },
+  {
+   "group": "Permits and codes",
+   "items": [
+    {
+     "name": "Town of Gilbert",
+     "url": "https://www.gilbertaz.gov/",
+     "desc": "The Town of Gilbert's official site. Search \"building permits\" for re-roof requirements."
+    },
+    {
+     "name": "City of Mesa",
+     "url": "https://www.mesaaz.gov/",
+     "desc": "The City of Mesa's official site. Search \"building permits\" for re-roof requirements."
+    },
+    {
+     "name": "City of Chandler",
+     "url": "https://www.chandleraz.gov/",
+     "desc": "The City of Chandler's official site. Search \"building permits\" for re-roof requirements."
+    },
+    {
+     "name": "ICC Digital Codes",
+     "url": "https://codes.iccsafe.org/",
+     "desc": "Free read-only access to the model building codes, including the International Residential Code, that many Arizona cities adopt."
+    }
+   ]
+  },
+  {
+   "group": "Industry information",
+   "items": [
+    {
+     "name": "National Roofing Contractors Association",
+     "url": "https://www.nrca.net/",
+     "desc": "The national roofing trade association, with consumer information on roof systems and hiring a contractor."
+    },
+    {
+     "name": "Arizona Roofing Contractors Association",
+     "url": "https://azroofing.org/",
+     "desc": "Arizona's roofing trade association, with information on local roofing standards and practices."
+    },
+    {
+     "name": "Tile Roofing Industry Alliance",
+     "url": "https://tileroofing.org/",
+     "desc": "Industry information on concrete and clay tile roofs, including installation guidance."
+    },
+    {
+     "name": "Spray Polyurethane Foam Alliance",
+     "url": "https://www.sprayfoam.org/",
+     "desc": "Industry information on spray foam roofing systems and coatings."
+    }
+   ]
+  }
+ ]
+}

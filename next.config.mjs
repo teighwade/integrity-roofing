@@ -11,6 +11,7 @@ const nextConfig = {
     return [
       ...site.demoSlugs.map((s) => p(`/${s}/`, '/blog-slug/')),
       p('/integrity-roofing/', '/about-us/'),
+      p('/metal-roofing/', '/roof-types/'),
       p('/blog/', '/blog-slug/'),
       p('/feed/', '/blog-slug/'),
       p('/category/:path*', '/blog-slug/'),

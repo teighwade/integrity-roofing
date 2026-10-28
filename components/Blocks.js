@@ -1,6 +1,6 @@
 import Icon from './Icon';
 import JsonLd from './JsonLd';
-import { B, HOURS, TEL, PAGES, POSTS, pagePath, cardImage, faqList, formatDate, ADDRESS, MAP_URL, MAP_EMBED } from '../lib/site';
+import { B, HOURS, TEL, VOICEMAIL, AREAS, PAGES, POSTS, pagePath, cardImage, faqList, formatDate, ADDRESS, MAP_URL, MAP_EMBED } from '../lib/site';
 import { faqSchema, breadcrumbSchema } from '../lib/schema';
 
 export function Faq({ faqs, title = 'Frequently asked questions', intro, schema = true }) {
@@ -29,16 +29,49 @@ export function Faq({ faqs, title = 'Frequently asked questions', intro, schema 
 
 export function Cta({ title = "Let's take a look at your roof.", text }) {
   return (
-    <section className="cta" aria-label="Request an estimate">
+    <section className="cta" aria-label="Call for an estimate">
       <div className="wrap">
         <div>
           <h2>{title}</h2>
-          <p>{text || `Request an estimate online, or call the office at ${B.phone}. We're open ${HOURS}.`}</p>
+          <p>{text || `Call the office at ${B.phone} to schedule an estimate, ${HOURS}. ${VOICEMAIL}`}</p>
         </div>
         <div className="btns">
-          <a className="btn btn--dark" href="/get-a-quote/">Request an estimate</a>
-          <a className="btn btn--line" href={TEL}><Icon name="phone" size={18} /> {B.phone}</a>
+          <a className="btn btn--dark" href={TEL}><Icon name="phone" size={18} /> Call {B.phone}</a>
         </div>
+      </div>
+    </section>
+  );
+}
+
+// Phone-only contact panel (the site has no forms).
+export function CallPanel() {
+  return (
+    <div className="callpanel">
+      <h2>Call to schedule your estimate</h2>
+      <a className="callpanel__phone" href={TEL}><Icon name="phone" size={30} /> {B.phone}</a>
+      <p className="callpanel__hours">{HOURS}. Closed Saturday and Sunday.</p>
+      <p className="callpanel__vm"><Icon name="clock" size={20} /> {VOICEMAIL}</p>
+      <h3>Have this ready when you call</h3>
+      <ul className="checks">
+        {['The property address', 'Your roof type, if you know it (tile, shingle, foam, flat)', "What you're seeing: a leak, broken tiles, storm damage, or just an older roof", 'Whether an HOA needs to approve roof work', 'The best time to reach you'].map((t) => (
+          <li key={t}><Icon name="check" size={16} /><span>{t}</span></li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export function AreaList() {
+  return (
+    <section className="section">
+      <div className="wrap area">
+        <div>
+          <h2>Roofing across the Phoenix Valley</h2>
+          <p>Our office is in Gilbert, and our crews work throughout the East Valley and greater Phoenix.</p>
+          <ul className="cities">{AREAS.map((c) => <li key={c}><Icon name="pin" size={16} /> {c}</li>)}</ul>
+          <p style={{ marginTop: 24 }}><a className="textlink" href="/roofing/">See our service areas and neighborhoods <Icon name="arrow" size={16} /></a></p>
+        </div>
+        <OfficeCard title="Visit or call the office" directions />
       </div>
     </section>
   );
@@ -115,8 +148,7 @@ export function OfficeCard({ title = 'Integrity Roofing', directions = false }) 
         <ul className="info">
           <li><Icon name="pin" /><div><strong>Office</strong><a href={MAP_URL} target="_blank" rel="noopener">{ADDRESS}</a></div></li>
           <li><Icon name="phone" /><div><strong>Phone</strong><a href={TEL}>{B.phone}</a></div></li>
-          <li><Icon name="mail" /><div><strong>Email</strong><a href={`mailto:${B.email}`}>{B.email}</a></div></li>
-          <li><Icon name="clock" /><div><strong>Hours</strong><span>{B.hours_label}<br />Closed Saturday and Sunday</span></div></li>
+          <li><Icon name="clock" /><div><strong>Hours</strong><span>{HOURS}<br />Closed Saturday and Sunday<br />{VOICEMAIL}</span></div></li>
         </ul>
         {directions && <a className="btn btn--sun" href={MAP_URL} target="_blank" rel="noopener">Get directions</a>}
       </div>

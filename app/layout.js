@@ -4,6 +4,7 @@ import Footer from '../components/Footer';
 import JsonLd from '../components/JsonLd';
 import { business, website } from '../lib/schema';
 import { SITE_URL, PAGES } from '../lib/site';
+import { areaIndex } from '../lib/content';
 
 const home = PAGES.__home;
 
@@ -44,9 +45,9 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <a className="skip" href="#main">Skip to content</a>
-        <Header />
+        <Header areas={areaIndex()} />
         <main id="main">{children}</main>
-        <Footer />
+        <Footer areas={areaIndex()} />
       </body>
     </html>
   );
