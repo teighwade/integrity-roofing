@@ -520,22 +520,31 @@ p { margin: 0 0 1em; }
 .city-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
 .footer__credit a { text-decoration: underline; }
 
-/* Holiday banner: a band with a scalloped tile edge in the holiday's colors */
-.holiday { position: relative; background: var(--hb-bg); color: #fff; animation: hb-in .5s ease-out; }
-@keyframes hb-in { from { opacity: 0; transform: translateY(-6px); } }
-.holiday__in { display: flex; align-items: center; gap: 16px; padding-top: 12px; padding-bottom: 12px; }
+/* Holiday banner: sits under the main menu; each holiday has its own colors and artwork */
+.holiday { position: relative; overflow: hidden; background: var(--hb-bg); color: var(--hb-ink); border-bottom: 4px solid var(--hb-fg); }
+.holiday__in { position: relative; z-index: 1; display: flex; align-items: center; gap: 18px; padding-top: 16px; padding-bottom: 16px; }
 .holiday__art { color: var(--hb-fg); flex: none; }
-.holiday p { margin: 0; flex: 1; font-size: 16px; }
-.holiday strong { font-family: var(--display); color: var(--hb-fg); font-size: 18px; }
-.holiday__cta { flex: none; background: var(--hb-fg); color: var(--hb-bg); font-weight: 700; padding: 8px 16px; border-radius: 99px; text-decoration: none; font-size: 15px; }
-.holiday__cta:hover { color: var(--hb-bg); filter: brightness(1.08); }
-.holiday__x { flex: none; background: none; border: 0; color: #fff; opacity: .7; font-size: 26px; line-height: 1; cursor: pointer; padding: 4px 8px; }
+.holiday p { margin: 0; flex: 1; display: grid; gap: 2px; font-size: 16px; line-height: 1.45; }
+.holiday strong { font: 800 22px/1.15 var(--display); letter-spacing: -0.02em; color: var(--hb-ink); }
+.holiday__cta { flex: none; background: var(--hb-fg); color: var(--hb-bg); font-weight: 700; padding: 10px 18px; border-radius: 99px; text-decoration: none; font-size: 15px; }
+.holiday__cta:hover { color: var(--hb-bg); filter: brightness(1.12); }
+.holiday__x { flex: none; background: none; border: 0; color: var(--hb-ink); opacity: .65; font-size: 28px; line-height: 1; cursor: pointer; padding: 4px 8px; }
 .holiday__x:hover { opacity: 1; }
-.holiday__edge { height: 10px; background: radial-gradient(circle at 50% 0, var(--hb-bg) 7px, transparent 8px) 0 0 / 18px 10px repeat-x; position: absolute; left: 0; right: 0; bottom: -10px; z-index: 1; pointer-events: none; }
-@media (max-width: 700px) { .holiday__in { flex-wrap: wrap; gap: 10px; } .holiday p { flex-basis: calc(100% - 90px); font-size: 15px; } .holiday__cta { margin-left: 50px; } }
+.holiday__deco { position: absolute; inset: 0; pointer-events: none; color: var(--hb-fg); }
+.holiday__float { position: absolute; opacity: .22; }
+.holiday__float--0 { width: 34px; right: 22%; top: 8px; transform: rotate(-12deg); }
+.holiday__float--1 { width: 22px; right: 17%; bottom: 10px; transform: rotate(10deg); }
+.holiday__float--2 { width: 28px; right: 30%; bottom: 6px; transform: rotate(18deg); }
+.holiday__float--3 { width: 18px; left: 46%; top: 6px; }
+.holiday__float--4 { width: 26px; left: 38%; bottom: 4px; transform: rotate(-20deg); }
+@media (prefers-reduced-motion: no-preference) {
+  .holiday__float--0 { animation: hb-flap 3.2s ease-in-out infinite; }
+  .holiday__float--2 { animation: hb-flap 4s ease-in-out infinite .6s; }
+}
+@keyframes hb-flap { 50% { translate: 0 -5px; } }
+.holiday--halloween .holiday__float { opacity: .55; }
+@media (max-width: 700px) { .holiday__in { flex-wrap: wrap; gap: 10px 14px; } .holiday__art { width: 36px; height: 36px; } .holiday p { flex-basis: calc(100% - 60px); font-size: 15px; } .holiday strong { font-size: 19px; } .holiday__cta { margin-left: 50px; } .holiday__float--3, .holiday__float--4 { display: none; } }
 /* Holiday accent on the home hero kicker and the barrel-tile edge */
-html[data-holiday] .hero__kicker { color: var(--holiday); }
-html[data-holiday] .hero__kicker::before { background: var(--holiday); }
 /* Service Areas mega menu spans the header width */
 @media (min-width: 961px) {
   .header .wrap { position: relative; }
@@ -548,3 +557,9 @@ html[data-holiday] .hero__kicker::before { background: var(--holiday); }
 @media (max-width: 560px) { .topline__contact { flex-direction: column; gap: 2px; text-align: center; } }
 .callpanel__email { display: flex; gap: 10px; align-items: flex-start; margin: -12px 0 26px; font-weight: 600; }
 .callpanel__email svg { color: var(--saguaro-2); flex: none; margin-top: 3px; }
+@media (max-width: 560px) { .topline__contact { flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 4px 14px; font-size: 13px; } }
+.holiday--halloween .holiday__float--0 { width: 52px; }
+.holiday--halloween .holiday__float--1 { width: 34px; }
+.holiday--halloween .holiday__float--2 { width: 44px; }
+.holiday--halloween .holiday__float--3 { width: 30px; }
+.holiday--halloween .holiday__float--4 { width: 38px; }

@@ -46,8 +46,8 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <a className="skip" href="#main">Skip to content</a>
-        <HolidayBanner />
         <Header areas={areaIndex()} />
+        <HolidayBanner />
         <main id="main">{children}</main>
         <Footer areas={areaIndex()} />
       </body>
