@@ -519,3 +519,27 @@ p { margin: 0 0 1em; }
 .gloss dd { margin: 4px 0 0; color: var(--ink); }
 .city-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
 .footer__credit a { text-decoration: underline; }
+
+/* Holiday banner: a band with a scalloped tile edge in the holiday's colors */
+.holiday { position: relative; background: var(--hb-bg); color: #fff; animation: hb-in .5s ease-out; }
+@keyframes hb-in { from { opacity: 0; transform: translateY(-6px); } }
+.holiday__in { display: flex; align-items: center; gap: 16px; padding-top: 12px; padding-bottom: 12px; }
+.holiday__art { color: var(--hb-fg); flex: none; }
+.holiday p { margin: 0; flex: 1; font-size: 16px; }
+.holiday strong { font-family: var(--display); color: var(--hb-fg); font-size: 18px; }
+.holiday__cta { flex: none; background: var(--hb-fg); color: var(--hb-bg); font-weight: 700; padding: 8px 16px; border-radius: 99px; text-decoration: none; font-size: 15px; }
+.holiday__cta:hover { color: var(--hb-bg); filter: brightness(1.08); }
+.holiday__x { flex: none; background: none; border: 0; color: #fff; opacity: .7; font-size: 26px; line-height: 1; cursor: pointer; padding: 4px 8px; }
+.holiday__x:hover { opacity: 1; }
+.holiday__edge { height: 10px; background: radial-gradient(circle at 50% 0, var(--hb-bg) 7px, transparent 8px) 0 0 / 18px 10px repeat-x; position: absolute; left: 0; right: 0; bottom: -10px; z-index: 1; pointer-events: none; }
+@media (max-width: 700px) { .holiday__in { flex-wrap: wrap; gap: 10px; } .holiday p { flex-basis: calc(100% - 90px); font-size: 15px; } .holiday__cta { margin-left: 50px; } }
+/* Holiday accent on the home hero kicker and the barrel-tile edge */
+html[data-holiday] .hero__kicker { color: var(--holiday); }
+html[data-holiday] .hero__kicker::before { background: var(--holiday); }
+/* Service Areas mega menu spans the header width */
+@media (min-width: 961px) {
+  .header .wrap { position: relative; }
+  .nav__item:has(.mega--areas) { position: static; }
+  .mega--areas { left: var(--gutter); right: var(--gutter); transform: none; width: auto; max-width: none; grid-template-columns: repeat(4, 1fr); grid-auto-flow: row; gap: 28px; }
+  .mega--areas ul { min-width: 0; }
+}

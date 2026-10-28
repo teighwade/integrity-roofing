@@ -50,6 +50,7 @@ export default function NewsletterIndex() {
             </ul>
             <h2>How to use the newsletter</h2>
             <p>Read the current issue at the start of each month and run through its checklist. Keep notes and photos of what you see, so you can compare from one season to the next and show a roofer what changed. Past issues stay here, so you can go back to the monsoon or winter issues when that season comes around again.</p>
+            <p>Each issue also points to the local information on our site. If you live in Gilbert, Mesa or Chandler, the <a href="/roofing/">service area pages</a> describe the neighborhoods we serve, when their homes were built, and what that usually means for the roof. Homes built in the same years tend to need the same kind of work at about the same time, so it helps to know where your neighborhood fits before you call for an estimate.</p>
             <p>For deeper reading, the <a href="/resources/library/">homeowner library</a> has full guides on the same topics, the <a href="/faq/">roofing FAQ</a> answers hundreds of questions, and the <a href="/resources/roofing-cost-guide/">roofing cost guide</a> shows typical Phoenix-area price ranges.</p>
           </div>
         </div>

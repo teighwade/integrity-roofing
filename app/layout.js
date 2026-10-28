@@ -1,6 +1,7 @@
 import './globals.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import HolidayBanner from '../components/HolidayBanner';
 import JsonLd from '../components/JsonLd';
 import { business, website } from '../lib/schema';
 import { SITE_URL, PAGES } from '../lib/site';
@@ -45,6 +46,7 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <a className="skip" href="#main">Skip to content</a>
+        <HolidayBanner />
         <Header areas={areaIndex()} />
         <main id="main">{children}</main>
         <Footer areas={areaIndex()} />
