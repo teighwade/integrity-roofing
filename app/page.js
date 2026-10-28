@@ -2,7 +2,7 @@ import Icon from '../components/Icon';
 import TileEdge from '../components/TileEdge';
 import RoofPicker from '../components/RoofPicker';
 import JsonLd from '../components/JsonLd';
-import { Faq, Cta, LatestPosts, OfficeCard } from '../components/Blocks';
+import { Faq, Cta, BlogShowcase, OfficeCard } from '../components/Blocks';
 import { B, AREAS, PAGES, TEL, VOICEMAIL, img } from '../lib/site';
 import { IssueFeature } from '../components/ResourceBlocks';
 import { CURRENT_ISSUE, CITIES, hoodsIn, cityPath, FAQ_COUNT, GUIDES } from '../lib/content';
@@ -211,7 +211,7 @@ export default function Home() {
         </div>
       </section>
 
-      <LatestPosts />
+      <BlogShowcase />
       <div className="section--sky"><Faq faqs={home.faqs} title="Roofing questions we hear every day" /></div>
       <Cta />
     </>

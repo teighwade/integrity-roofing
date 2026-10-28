@@ -563,3 +563,16 @@ p { margin: 0 0 1em; }
 .holiday--halloween .holiday__float--2 { width: 44px; }
 .holiday--halloween .holiday__float--3 { width: 30px; }
 .holiday--halloween .holiday__float--4 { width: 38px; }
+
+/* Blog carousel */
+.schedule { display: flex; align-items: center; gap: 8px; color: var(--ink) !important; font-size: 17px !important; margin: 0; }
+.schedule svg { color: var(--saguaro-2); }
+.carousel__track { list-style: none; margin: 0; padding: 4px 2px 12px; display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 40px) / 3); gap: 20px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; overscroll-behavior-x: contain; }
+.carousel__track > li { scroll-snap-align: start; }
+.carousel__track:focus-visible { outline-offset: 6px; }
+.carousel__nav { display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px; }
+.carousel__btn { width: 48px; height: 48px; border-radius: 50%; border: 2px solid var(--saguaro); background: var(--white); color: var(--saguaro); display: grid; place-items: center; cursor: pointer; }
+.carousel__btn:hover { background: var(--saguaro); color: var(--white); }
+.flip { transform: scaleX(-1); }
+@media (max-width: 900px) { .carousel__track { grid-auto-columns: 70%; } }
+@media (max-width: 560px) { .carousel__track { grid-auto-columns: 86%; } }

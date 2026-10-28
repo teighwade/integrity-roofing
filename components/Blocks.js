@@ -1,4 +1,5 @@
 import Icon from './Icon';
+import BlogCarousel from './BlogCarousel';
 import JsonLd from './JsonLd';
 import { B, HOURS, TEL, VOICEMAIL, AREAS, PAGES, POSTS, pagePath, cardImage, faqList, formatDate, ADDRESS, MAP_URL, MAP_EMBED } from '../lib/site';
 import { faqSchema, breadcrumbSchema } from '../lib/schema';
@@ -107,6 +108,25 @@ export function PostCard({ post }) {
       <h3>{post.title}</h3>
       {post.excerpt && <p>{post.excerpt}</p>}
     </a>
+  );
+}
+
+export function BlogShowcase({ count = 10 }) {
+  const list = POSTS.slice(0, count).map((p) => ({ slug: p.slug, title: p.title, image: p.image, excerpt: p.excerpt, date: p.date, dateLabel: formatDate(p.date) }));
+  if (!list.length) return null;
+  return (
+    <section className="section" aria-labelledby="blog-title">
+      <div className="wrap">
+        <div className="head head--row">
+          <div>
+            <h2 id="blog-title">From the Integrity Roofing blog</h2>
+            <p className="schedule"><Icon name="calendar" size={18} /><span>New posts every <strong>Monday</strong> and <strong>Saturday</strong> morning.</span></p>
+          </div>
+          <a className="btn btn--line" href="/blog-slug/">All articles</a>
+        </div>
+        <BlogCarousel posts={list} />
+      </div>
+    </section>
   );
 }
 

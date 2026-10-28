@@ -109,7 +109,7 @@ export default function PageView({ p, path, crumbs, top = null, beforeFaq = null
       {layout === 'blog' && (
         <section className="section">
           <div className="wrap">
-            <div className="head"><h2>All articles</h2></div>
+            <div className="head"><h2>All articles</h2><p className="schedule"><Icon name="calendar" size={18} /><span>New posts every <strong>Monday</strong> and <strong>Saturday</strong> morning.</span></p></div>
             {POSTS.length ? <div className="posts">{POSTS.map((x) => <PostCard key={x.slug} post={x} />)}</div>
               : <p className="empty">Articles are on the way.</p>}
           </div>
