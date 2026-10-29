@@ -36,6 +36,7 @@ function roofData() {
 }
 
 const SERVICES = [
+  ['spray-foam-roofing', 'Spray foam roofs', 'layers'],
   ['repairs-and-maintenance', 'Roof repair', 'wrench'],
   ['roof-replacement-services', 'Roof replacement', 'roof'],
   ['roof-inspections', 'Inspections', 'search'],
@@ -91,6 +92,35 @@ export default function Home() {
           </ul>
         </div>
       </section>
+
+      {PAGES['spray-foam-roofing'] && (
+        <section className="foamband" aria-labelledby="foam-title">
+          <div className="wrap foamband__in">
+            <figure className="foamband__img">
+              {img('foam') && <img src={img('foam').url} alt={img('foam').alt} loading="lazy" />}
+              <figcaption>Closed-cell spray foam, finished with a reflective coating</figcaption>
+            </figure>
+            <div>
+              <p className="kicker">Our featured roof system</p>
+              <h2 id="foam-title">Spray foam roofing, built for Arizona heat</h2>
+              <p className="foamband__lead">One continuous layer of insulating foam, sprayed onto the roof and sealed under a white silicone or elastomeric coating. No seams across the roof, less heat coming through the ceiling, and a surface you renew with a recoat instead of a tear-off.</p>
+              <ul className="foamband__list">
+                {[['sun', 'Keeps heat out', 'Insulation and a reflective coat work together'],
+                  ['drop', 'Sheds water', 'No seams, and foam can be shaped to drain'],
+                  ['layers', 'Often no tear-off', 'Can go over a sound, dry existing roof'],
+                  ['wrench', 'Easy to renew', 'Repair small areas and recoat on schedule']].map(([i, t, d]) => (
+                  <li key={t}><Icon name={i} size={22} /><div><strong>{t}</strong><span>{d}</span></div></li>
+                ))}
+              </ul>
+              <div className="btns">
+                <a className="btn btn--sun" href="/spray-foam-roofing/">Why spray foam works</a>
+                <a className="btn btn--line" href="/silicone-coating-over-foam/">Silicone coatings</a>
+              </div>
+              <p className="foamband__more"><a href="/foam-roof-recoating/">Foam roof recoating</a><a href="/commercial-spray-foam-roofing/">Commercial spray foam</a><a href="/faq/#spray-foam-roofing">Spray foam FAQ</a></p>
+            </div>
+          </div>
+        </section>
+      )}
 
       {CURRENT_ISSUE && (
         <section className="section section--tight" aria-label="This month's newsletter" style={{ background: 'var(--sky)', paddingBottom: 0 }}>

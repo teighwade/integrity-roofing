@@ -23,6 +23,10 @@ export function GET() {
 - Estimates: call, or email ${B.email} (there are no online forms). If we don't answer, leave a message and we'll return your call within 24 hours.
 - Financing: available
 
+## Featured: spray foam roofing and coatings
+
+${['spray-foam-roofing', 'silicone-coating-over-foam', 'foam-roof-recoating', 'commercial-spray-foam-roofing'].filter((s) => PAGES[s]).map(line).join('\n')}
+
 ## Services
 
 ${services.map(line).join('\n')}

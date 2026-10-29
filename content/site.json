@@ -115,6 +115,48 @@
    ]
   },
   {
+   "label": "Spray Foam",
+   "groups": [
+    {
+     "title": "Spray foam roofing",
+     "all": [
+      "Complete spray foam guide",
+      "/spray-foam-roofing/"
+     ],
+     "links": [
+      {
+       "label": "Spray foam roofing",
+       "url": "/spray-foam-roofing/"
+      },
+      {
+       "label": "Silicone coating over foam",
+       "url": "/silicone-coating-over-foam/"
+      },
+      {
+       "label": "Foam roof recoating",
+       "url": "/foam-roof-recoating/"
+      },
+      {
+       "label": "Commercial spray foam",
+       "url": "/commercial-spray-foam-roofing/"
+      },
+      {
+       "label": "Foam roof repair & care",
+       "url": "/foam-roofing/"
+      },
+      {
+       "label": "Elastomeric coatings",
+       "url": "/elastomeric-roofing-coating/"
+      },
+      {
+       "label": "Spray foam FAQ",
+       "url": "/faq/#spray-foam-roofing"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "label": "Service Areas",
    "areas": true
   },
@@ -1854,6 +1896,7 @@
     ]
    ],
    "cards": [
+    "spray-foam-roofing",
     "foam-roofing",
     "elastomeric-roofing-coating",
     "flat-roofing"
@@ -1923,12 +1966,10 @@
    "icon": "layers",
    "page_type": "CollectionPage",
    "cards": [
+    "spray-foam-roofing",
     "tile-roofs",
     "asphalt-shingles",
-    "foam-roofing",
-    "elastomeric-roofing-coating",
-    "flat-roofing",
-    "sloped-roofs"
+    "foam-roofing"
    ],
    "cards_eyebrow": "Roof types",
    "cards_title": "Explore each roof type",
@@ -2374,6 +2415,7 @@
     }
    ],
    "cards": [
+    "spray-foam-roofing",
     "elastomeric-roofing-coating",
     "flat-roofing",
     "commercial-roofing-services"
@@ -2493,6 +2535,7 @@
     }
    ],
    "cards": [
+    "spray-foam-roofing",
     "foam-roofing",
     "flat-roofing",
     "commercial-roofing-services"
@@ -2612,6 +2655,7 @@
     }
    ],
    "cards": [
+    "spray-foam-roofing",
     "foam-roofing",
     "elastomeric-roofing-coating",
     "commercial-roofing-services"

@@ -30,6 +30,7 @@ export default function Footer({ areas = [] }) {
           <div>
             <h2>Services</h2>
             <ul>
+              <li><a href="/spray-foam-roofing/"><strong>Spray foam roofing</strong></a></li>
               <li><a href="/repairs-and-maintenance/">Repairs and maintenance</a></li>
               <li><a href="/roof-replacement-services/">Roof replacement</a></li>
               <li><a href="/roof-inspections/">Roof inspections</a></li>
