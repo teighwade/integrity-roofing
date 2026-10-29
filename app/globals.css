@@ -593,3 +593,9 @@ p { margin: 0 0 1em; }
 .foamband__more { display: flex; flex-wrap: wrap; gap: 6px 20px; margin: 18px 0 0; font-weight: 600; }
 @media (max-width: 900px) { .foamband__in { grid-template-columns: 1fr; } .foamband__img img { aspect-ratio: 16 / 10; border-radius: 22px; } }
 @media (max-width: 560px) { .foamband__list { grid-template-columns: 1fr; } }
+/* Keep top-level nav labels on one line now that Spray Foam has its own menu */
+@media (min-width: 961px) { .nav__link, .nav summary { white-space: nowrap; } .brand__sub { white-space: nowrap; } }
+@media (min-width: 961px) and (max-width: 1360px) { .nav__link, .nav summary { padding: 10px 9px; font-size: 15px; } .header .wrap { gap: 14px; } .brand__sub { display: none; } }
+@media (min-width: 961px) and (max-width: 1120px) { .nav__link, .nav summary { padding: 8px 6px; font-size: 14px; gap: 3px; } .header .btn { padding-left: 14px; padding-right: 14px; } }
+.topline__contact { white-space: nowrap; }
+@media (max-width: 1100px) { .topline__hours { font-size: 13px; } }
